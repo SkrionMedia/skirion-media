@@ -1,0 +1,1790 @@
+{
+  "launch": {
+    "banner_title": "Apertura de SKIRION",
+    "banner_text": "Estamos seleccionando las empresas que implementarán nuestros sistemas. Cada proyecto incluye una activación y un seguimiento personalizado, por lo que las implementaciones se realizarán de manera progresiva.",
+    "banner_button": "Reserva tu plaza",
+    "phase_title": "Primera fase de implementación",
+    "phase_text": "Estamos seleccionando las empresas con las que trabajaremos. Si reservas ahora tu plaza, formarás parte del grupo de implementaciones de SKIRION.",
+    "calendar_heading_pre": "Reserva tu",
+    "calendar_heading_highlight": "Plaza"
+  },
+  "common": {
+    "read_more": "Leer caso completo",
+    "view_demo": "Ver Demo",
+    "results_real": "Resultados Reales",
+    "operating_systems": "Sistemas Operativos",
+    "knowledge_base": "Base de Conocimientos",
+    "back": "Volver",
+    "error_generic": "Error al procesar la solicitud. Por favor, inténtalo de nuevo más tarde.",
+    "error_subscription": "Error al procesar la suscripción.",
+    "loading": {
+      "click_start": "Clic para empezar con sonido",
+      "skip": "Saltar Intro"
+    }
+  },
+  "testimonials": {
+    "badge": "Problemas Reales",
+    "title": "Problemas reales de nuestros clientes y soluciones que ofrecemos en SKIRION",
+    "problem_label": "El Problema",
+    "solution_label": "La Solución SKIRION",
+    "items": [
+      {
+        "problem": "Las llamadas y correos se me acumulaban, perdía oportunidades de negocio cada día.",
+        "solution": "Gracias a SKIRION puedo dar respuesta a todo y realizar el seguimiento, todo automatizado.",
+        "author": "Director Comercial",
+        "company": "Sector Inmobiliario"
+      },
+      {
+        "problem": "Mi equipo pasaba el 60% del tiempo haciendo tareas administrativas repetitivas.",
+        "solution": "El agente digital de SKIRION gestiona ahora el 90% de estas tareas, permitiéndonos centrarnos en la estrategia.",
+        "author": "CEO",
+        "company": "Agencia de Marketing"
+      },
+      {
+        "problem": "La fragmentación de datos nos impedía tomar decisiones rápidas y acertadas.",
+        "solution": "Con el sistema de inteligencia industrial, tenemos visibilidad total en tiempo real de cada proceso.",
+        "author": "Director de Operaciones",
+        "company": "Empresa Logística"
+      }
+    ]
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "QUÉ HACEMOS?",
+    "resources": "RECURSOS",
+    "contact": "CONTACTO",
+    "agents": "SECTORES",
+    "plans": "¿CÓMO LO HACEMOS?",
+    "diagnostic": "DIAGNÓSTICO"
+  },
+  "agents_page": {
+    "nav": "Agentes IA",
+    "hero": {
+      "title": "RECUPERA EL MARGEN QUE TUS PROCESOS ACTUALES LE ESTÁN 'ROBANDO' A TU NEGOCIO",
+      "subtitle": "Servicio de agencia digital con agentes digitales autónomos de voz y texto: respondemos, filtramos y cualificamos por ti 24/7 mientras tú recuperas el control y la rentabilidad.",
+      "cta": "Detener la pérdida de beneficios ahora"
+    },
+    "problem": {
+      "title": "Cada consulta sin respuesta es una oportunidad que se escapa.",
+      "text": "El cerebro de tu cliente decide en 5 segundos.\n\nCada segundo de espera reduce su deseo de compra; busca una respuesta inmediata.\n\nEs una cuestión de optimización de sistemas.\nEs un acierto de sistema.\n\nY cada día de automatización es un día que ganas margen de beneficio.",
+      "card_text": "El silencio es el veneno más letal para la facturación de tu empresa.",
+      "cta": "Detén la pérdida ahora",
+      "reflection": "SISTEMATIZA O RECUERDA TUS CLIENTES PERDIDOS",
+      "stats": {
+        "decision": {
+          "value": "5 SEG",
+          "label": "TIEMPO DE DECISIÓN"
+        },
+        "response": {
+          "value": "24/7",
+          "label": "RESPUESTA TOTAL"
+        },
+        "margin": {
+          "value": "0",
+          "label": "Margen por pérdida de atención"
+        }
+      }
+    },
+    "definition": {
+      "title": "Un agente digital es mucho más que un chat simpático.\nEs un sistema de trabajo.",
+      "text": "Un agente digital es una herramienta que:\n• Responde a las preguntas frecuentes\n• Califica a los clientes potenciales\n• Agenda visitas o llamadas\n• Envía información automáticamente\n• Hace seguimiento de forma automática\n• Recupera contactos que se quedaron a medias\n\nTodo esto mientras tú te centras en lo estratégico.\n\n24 horas al día."
+    },
+    "types": {
+      "title": "Tipos de agentes que implementamos",
+      "ideal_for_label": "Ideal para:",
+      "how_it_works_label": "Cómo funciona:",
+      "live_demo": "Demo en vivo",
+      "items": [
+        {
+          "id": "text",
+          "title": "Agente de Texto",
+          "ideal_for": "Web, WhatsApp, Formularios, Redes sociales",
+          "how_it_works": "El cliente pregunta. El agente responde con claridad. Si detecta interés real, califica. Si encaja, agenda directamente.",
+          "result": "Menos trabajo manual y más velocidad."
+        },
+        {
+          "id": "voice",
+          "title": "Agente de Voz",
+          "ideal_for": "Llamadas entrantes, Confirmación de citas, Recordatorios, Seguimiento",
+          "how_it_works": "Responde dudas básicas, agenda visitas, confirma citas y recoge datos antes de que llame un comercial.",
+          "result": "Atención total a todas tus llamadas."
+        },
+        {
+          "id": "followup",
+          "title": "Agente de Seguimiento",
+          "ideal_for": "Presupuestos y seguimiento de contactos",
+          "how_it_works": "Recuerda presupuestos enviados, reactiva contactos, envía mensajes personalizados y detecta interés latente.",
+          "result": "Más cierres sin más tráfico."
+        },
+        {
+          "id": "avatar",
+          "title": "AVATAR",
+          "ideal_for": "Explicar servicios, Mostrar productos, Presentar información, Demostraciones",
+          "how_it_works": "Una cara visible, coherente y constante que aporta confianza y consistencia.",
+          "result": "Consistencia y confianza."
+        }
+      ]
+    },
+    "sectors": {
+      "badge": "🎯 SECTORES DE IMPACTO",
+      "title": "A quién ayudamos",
+      "items": [
+        {
+          "title": "Clínicas Estéticas",
+          "points": [
+            "Reserva de citas 24/7",
+            "Respuesta a dudas de tratamientos",
+            "Seguimiento post-tratamiento",
+            "Promociones personalizadas"
+          ],
+          "result": "Más conversión de consultas a citas."
+        },
+        {
+          "title": "Dentistas",
+          "points": [
+            "Recordatorios de citas",
+            "Confirmación automática",
+            "Gestión de lista de espera",
+            "Información de precios"
+          ],
+          "result": "Reducción drástica de ausencias."
+        },
+        {
+          "title": "Inmobiliarias",
+          "points": [
+            "Calificación de leads",
+            "Agenda de visitas",
+            "Entrega de fichas técnicas",
+            "Captación de propietarios"
+          ],
+          "result": "Visitas más productivas."
+        },
+        {
+          "title": "Formación",
+          "points": [
+            "Información de cursos",
+            "Matriculaciones automáticas",
+            "Resolución de dudas FAQ",
+            "Seguimiento de interesados"
+          ],
+          "result": "Aumento en matriculaciones."
+        },
+        {
+          "title": "Gimnasios",
+          "points": [
+            "Reserva de clases",
+            "Gestión de cuotas",
+            "Recuperación de bajas",
+            "Atención a nuevos socios"
+          ],
+          "result": "Mejor retención de socios."
+        },
+        {
+          "title": "Clínicas de Salud",
+          "points": [
+            "Triaje de pacientes",
+            "Gestión de agendas médicas",
+            "Entrega de resultados",
+            "Recordatorios de medicación"
+          ],
+          "result": "Eficiencia operativa total."
+        },
+        {
+          "title": "Reformas",
+          "points": [
+            "Recogida de requisitos",
+            "Presupuestos preliminares",
+            "Seguimiento de proyectos",
+            "Gestión de proveedores"
+          ],
+          "result": "Más presupuestos cerrados."
+        },
+        {
+          "title": "Seguros",
+          "points": [
+            "Cotización de pólizas",
+            "Gestión de siniestros",
+            "Renovaciones automáticas",
+            "Atención al asegurado"
+          ],
+          "result": "Atención 24/7 sin costes fijos."
+        },
+        {
+          "title": "Automoción",
+          "points": [
+            "Cita previa taller",
+            "Stock de vehículos",
+            "Tasación de coches",
+            "Seguimiento de servicios"
+          ],
+          "result": "Taller siempre lleno y organizado."
+        },
+        {
+          "title": "E-commerce",
+          "points": [
+            "Soporte en la compra",
+            "Estado del pedido",
+            "Gestión de devoluciones",
+            "Venta cruzada inteligente"
+          ],
+          "result": "Ventas en piloto automático."
+        }
+      ]
+    },
+    "process": {
+      "title": "Instalamos un sistema.",
+      "step_label": "Paso",
+      "steps": [
+        {
+          "title": "Diagnóstico",
+          "desc": "Analizamos dónde se pierden las oportunidades."
+        },
+        {
+          "title": "Diseño",
+          "desc": "Definimos exactamente qué debe hacer el agente."
+        },
+        {
+          "title": "Implementación",
+          "desc": "Lo activamos en web, teléfono o sistema interno."
+        },
+        {
+          "title": "Ajuste",
+          "desc": "Medimos resultados y ajustamos mensajes."
+        }
+      ],
+      "footer": "Todo esto en 30 días."
+    },
+    "real_results": {
+      "title": "Resultados reales",
+      "intro": "Tras implementar agentes digitales, las empresas suelen ver:",
+      "stats": {
+        "response_time": "Tiempo de respuesta",
+        "conversion": "Conversión",
+        "availability": "Disponibilidad",
+        "human_errors": "Precisión total"
+      },
+      "items": [
+        "Respuesta en menos de 1 minuto",
+        "Más citas agendadas",
+        "Más seguimiento",
+        "Optimización del tiempo",
+        "Más control del proceso comercial"
+      ],
+      "footer": "Ponemos orden para aumentar beneficios."
+    },
+    "final_cta": {
+      "title": "Si quieres saber si tu negocio necesita un agente digital, empecemos por aquí:",
+      "button1": "Hacer diagnóstico gratuito (2 minutos)",
+      "direct_title": "O si prefieres ir directo:",
+      "button2": "Reserva tu plaza"
+    }
+  },
+  "hero": {
+    "badge": "💎 SOLUCIONES DE ALTA RENTABILIDAD",
+    "title": "¿Cuánto ahorrarías con cada minuto de respuesta automatizado?",
+    "subtitle": "Instalamos sistemas de ingeniería de la atención que eliminan el caos operativo y convierten cada consulta en facturación real.",
+    "hooks": [
+      "Libera el 80% de tu tiempo de gestión",
+      "Escala con la misma estructura de personal",
+      "Asegura la precisión total en tu cadena de valor",
+      "Sistemas basados estrictamente en datos",
+      "Control total y revisión constante de tu sistema"
+    ],
+    "cta": "Detén la pérdida de margen ahora",
+    "cta_secondary": "Ver informe de eficiencia"
+  },
+  "home_v2": {
+    "hero": {
+      "badge": "Servicio de Agencia Digital con IA",
+      "title": "Diseñamos la estructura que tu empresa necesita para responder más rápido, cerrar más ventas y perder menos tiempo.",
+      "subtitle": "Agencia digital especializada en agentes digitales 24/7 y servicios de automatización de procesos para transformar tareas manuales en beneficio neto medible.",
+      "cta1": "Ver qué hacemos",
+      "cta2": "Hablar con un experto"
+    },
+    "system_vs_tools": {
+      "badge": "La Diferencia",
+      "image_alt": "Inteligencia Artificial Core",
+      "title": "nos encargamos de que el sistema funcione",
+      "text": "Las herramientas solas crean más caos. Lo que necesitas es una infraestructura que conecte tus procesos, tu web y tus agentes para trabajar como un solo engranaje.\n\nEn SKIRION montamos el sistema integral que hace que tu negocio sea más rápido, más eficiente y más rentable."
+    },
+    "start_where": {
+      "title": "¿Por dónde empezamos a escalar?",
+      "footer": "PROTOCOLO DE CRECIMIENTO GARANTIZADO",
+      "atraure": {
+        "title": "Atraer y Capturar",
+        "desc": "Webs de alta conversión y sistemas de captura de leads que funcionan 24/7."
+      },
+      "guiar": {
+        "title": "Calificar y Guiar",
+        "desc": "IA que filtra los curiosos y te trae solo a quien está listo para comprar."
+      },
+      "activar": {
+        "title": "Cerrar y Activar",
+        "desc": "Reserva de citas y seguimiento automático para asegurar todas tus ventas."
+      }
+    },
+    "everything_connected": {
+      "title": "Sincronización Total",
+      "items": [
+        "Web que capta",
+        "Contenido que atrae",
+        "Agente que guía",
+        "Avatar que da confianza",
+        "Automatización que activa",
+        "Panel que se muestra"
+      ]
+    },
+    "services_cards_header": "SISTEMA",
+    "services_cards": [
+      {
+        "title": "Webs de Alta Conversión",
+        "desc": "Diseños fabricados para convertir cada visita en datos y ventas reales. Capturamos valor real. Preparamos su web para que Google, ChatGPT y otras IA entiendan mejor su negocio y lo puedan recomendar cuando un cliente busca servicios como los suyos.",
+        "cta": "Diseñar mi web"
+      },
+      {
+        "title": "Agentes Digitales 24/7",
+        "desc": "Instalamos agentes digitales inteligentes que responden consultas, califican prospectos y agendan citas 24/7 sin errores.",
+        "cta": "Activar mi agente"
+      },
+      {
+        "title": "Avatars de Marca",
+        "desc": "Escala tu presencia con personas digitales que generan confianza y explican tu valor.",
+        "cta": "Ver ejemplos"
+      },
+      {
+        "title": "Servicios de Automatización",
+        "desc": "Eliminamos las tareas repetitivas que te hacen perder tiempo. Conectamos tu CRM, facturación y flujos comerciales.",
+        "cta": "Automatizar ahora"
+      },
+      {
+        "title": "Motor de Contenido",
+        "desc": "Dominamos la atención de tu sector con producción masiva de contenido optimizado.",
+        "cta": "Empezar a producir"
+      }
+    ],
+    "sectors": {
+      "title": "Impacto probado en tu sector",
+      "items": [
+        "Clínicas y Salud",
+        "Inmobiliarias de élite",
+        "Empresas B2B",
+        "E-commerce",
+        "Servicios Profesionales"
+      ]
+    },
+    "method": {
+      "title": "Ingeniería de Atención paso a paso.",
+      "items": [
+        {
+          "title": "Diagnóstico de Fugas",
+          "desc": "Identificamos oportunidades inmediatas para potenciar tu rendimiento hoy mismo."
+        },
+        {
+          "title": "Implementación del Sistema",
+          "desc": "Instalamos la infraestructura y la conectamos a tus procesos."
+        },
+        {
+          "title": "Optimización de Resultados",
+          "desc": "Medimos cada dato y ajustamos el sistema para maximizar el beneficio neto."
+        },
+        {
+          "title": "Acompañamiento Continuo",
+          "desc": "Los Señores Consultores de Crecimiento Digital asumen la dirección, adaptación y mejora de tu sistema."
+        }
+      ],
+      "footer": "Resultados medibles desde el primer día."
+    },
+    "consultors_block": {
+      "badge": "EL ACOMPAÑAMIENTO DE LOS SEÑORES CONSULTORES",
+      "title": "La tecnología es el principio, la verdadera clave es quién la hace evolucionar.",
+      "intro": "En SKIRION.MEDIA apostamos por una implicación activa y constante. Nuestros partners oficiales asumen un rol de acompañamiento y una responsabilidad de máximo nivel:",
+      "concept_title": "Señores Consultores de Crecimiento Digital",
+      "concept_desc": "Son líderes de negocio y asesores digitales que cuidan de tu sistema, acompañan al Señor Cliente de cerca durante su membresía activa, evalúan métricas, detectan nuevas fugas y garantizan que la implementación siempre funcione a favor de tus ingresos netos.",
+      "footer": "Un vínculo humano y corporativo enfocado en la rentabilidad continua."
+    },
+    "improvement": {
+      "badge": "Mejora Continua",
+      "title": "Mejora continua basada en datos reales.",
+      "metrics": [
+        {
+          "label": "panel de control",
+          "id": "dashboard"
+        },
+        {
+          "label": "leads cualificados",
+          "id": "leads"
+        },
+        {
+          "label": "conversaciones activas",
+          "id": "chats"
+        },
+        {
+          "label": "citas aseguradas",
+          "id": "meetings"
+        },
+        {
+          "label": "horas liberadas",
+          "id": "time"
+        },
+        {
+          "label": "ajustes aplicados",
+          "id": "improvements"
+        }
+      ],
+      "recap_badge": "RECAP 15 DÍAS",
+      "recap_updated": "ACTUALIZADO",
+      "recap_metrics": {
+        "efficiency": "Eficiencia",
+        "conversion": "Conversión",
+        "time_saving": "Ahorro tiempo"
+      },
+      "improvements_count": "6 Mejoras Implementadas",
+      "latest_sprint": "El último sprint se ha centrado en la calificación automática de leads y la sincronización CRM."
+    },
+    "final": {
+      "badge": "La hora de dar el salto",
+      "title": "¿Quieres ver qué podría hacer SKIRION por tu negocio?",
+      "cta": "Analizar mi caso"
+    }
+  },
+  "home_v3": {
+    "virtual_tour": {
+      "title_l1": "Visita espacios y",
+      "title_l2": "productos en 3D",
+      "title_l3": "como si estuvieras ahí.",
+      "subtitle": "Recorridos virtuales para que tus clientes exploren tu negocio o producto desde el móvil o el ordenador antes del primer contacto.",
+      "text": "Piso, hotel, vehículo, showroom o producto. El cliente entiende mejor lo que ve, genera más confianza y llega mucho más preparado para comprar.",
+      "benefits": [
+        "Más confianza",
+        "Más interés",
+        "Más tiempo de atención",
+        "Más posibilidades de venta"
+      ],
+      "highlights": [
+        "Explora antes de llegar",
+        "Tu negocio abierto 24/7",
+        "El cliente entra antes de decidir"
+      ],
+      "demo_label": "Prueba la tecnología",
+      "matterport_desc": "Recorridos inmersivos de alta precisión",
+      "polycam_desc": "Captura 3D ultra-realista de productos",
+      "open_polycam": "Abrir 3D en Polycam",
+      "polycam_button": "Abrir 3D en Polycam",
+      "badge_3d": "Visualización 3D Automática",
+      "interactive_model": "Modelo 3D Interactivo",
+      "demo_title_1": "Demo",
+      "demo_title_2": "Interactiva"
+    }
+  },
+  "problem": {
+    "badge": "La atención lenta es la vía más rápida para perder un cliente para siempre.",
+    "title": "Atiende a tus clientes al momento y asegura cada oportunidad de venta.",
+    "subtitle_blue": "La inacción es el coste más alto de tu negocio.",
+    "subtitle_secondary": "Sistemas de 'Zero Fricción' para un crecimiento inevitable.",
+    "missed_call": "OPORTUNIDAD PERDIDA",
+    "potential_customer": "Capital en riesgo esperando...",
+    "items": [
+      "Respuestas de WhatsApp que llegan demasiado tarde",
+      "Leads olvidados en formularios que nadie lee",
+      "Visitas potencialmente muy rentables que nunca se confirman",
+      "Tu base de datos se está 'enfriando' cada minuto",
+      "Pérdida de credibilidad por falta de profesionalidad tecnológica"
+    ],
+    "footer": "Asegura que el deseo de tu cliente se convierta en capital real."
+  },
+  "consequence": {
+    "badge": "⚠️ ALERTA DE MARGEN",
+    "title": "La velocidad de respuesta es la que te hace ganar dinero.",
+    "subtitle": "Cada segundo de retraso aumenta la desconfianza de tus SEÑORES CLIENTES.",
+    "footer": "Tomar el control total de tu rentabilidad es vital."
+  },
+  "solution": {
+    "badge": "🧠 EL ACTIVO DIGITAL",
+    "title": "Deja de perder el tiempo",
+    "items": [
+      {
+        "title": "Cerebro Digital 24/7",
+        "desc": "Siempre activo, preciso y con memoria total. Respuestas de calidad técnica superior en segundos."
+      },
+      {
+        "title": "Filtro de Calidad Lead",
+        "desc": "Deja de perder tiempo con curiosos. El sistema solo te trae a quien tiene el capital listo."
+      },
+      {
+        "title": "Agenda en Piloto Automático",
+        "desc": "Tu calendario se llena mientras descansas. Confirmación inmediata que cierra el compromiso."
+      },
+      {
+        "title": "Ecosistema Conectado",
+        "desc": "Arquitectura fluida que integra toda tu cadena de atención en un solo flujo de datos."
+      }
+    ]
+  },
+  "real_cases": {
+    "badge": "👥 NUESTROS CLIENTES",
+    "title": "Lo que antes era caos, ahora es rentabilidad.",
+    "items": [
+      {
+        "title": "Clínicas Estéticas",
+        "desc": "Citas confirmadas y respuesta a dudas 24/7."
+      },
+      {
+        "title": "Dentistas",
+        "desc": "Agenda siempre llena y recordatorios automáticos."
+      },
+      {
+        "title": "Inmobiliarias",
+        "desc": "Filtrado de leads y agenda de visitas sin esfuerzo."
+      },
+      {
+        "title": "Formación",
+        "desc": "Matriculaciones automatizadas y soporte al alumno."
+      },
+      {
+        "title": "Gimnasios",
+        "desc": "Gestión de socios y reserva de clases en piloto automático."
+      },
+      {
+        "title": "Clínicas de Salud",
+        "desc": "Triaje eficiente y organización de agendas médicas."
+      },
+      {
+        "title": "Reformas",
+        "desc": "Captación de datos y seguimiento de presupuestos."
+      },
+      {
+        "title": "Seguros",
+        "desc": "Cotizaciones y atención inmediata a los asegurados."
+      },
+      {
+        "title": "Automoción",
+        "desc": "Citas de taller y gestión de stock de vehículos."
+      },
+      {
+        "title": "E-commerce",
+        "desc": "Ventas recuperadas y soporte al cliente instantáneo."
+      }
+    ]
+  },
+  "profit": {
+    "badge": "💰 LIBERTAD COMERCIAL",
+    "title": "Recupera tu libertad mientras tu negocio trabaja para ti.",
+    "text": "Eliminamos el techo operativo de tu empresa para maximizar el beneficio neto.",
+    "stats": [
+      {
+        "label": "de ingresos potenciales",
+        "value": "+30%"
+      },
+      {
+        "label": "Liberación de carga mental",
+        "value": "+50%"
+      },
+      {
+        "label": "Seguridad operativa total",
+        "value": "100%"
+      }
+    ]
+  },
+  "offers": {
+    "badge": "⛓️ SISTEMAS RIGUROSOS",
+    "title": "Arquitecturas de rentabilidad a medida.",
+    "subtitle": "Instalamos un sistema que te asegura tu crecimiento y control.",
+    "items": [
+      {
+        "title": "Protocolo de Ventas WhatsApp",
+        "desc": "Convierte cada conversación en una transacción guiada 24/7."
+      },
+      {
+        "title": "Protocolo de Agenda Infalible",
+        "desc": "Citas aseguradas. Sincronía perfecta entre deseo y disponibilidad."
+      },
+      {
+        "title": "Protocolo de Soporte de Élite",
+        "desc": "Resuelve incidencias antes de que se conviertan en pérdidas de clientes."
+      },
+      {
+        "title": "Protocolo de Calificación Láser",
+        "desc": "Detecta automáticamente a los clientes con alta intención de compra."
+      }
+    ]
+  },
+  "results_section": {
+    "title": "Tu Nuevo Escenario de Control",
+    "example": {
+      "before_label": "CAOS OPERATIVO",
+      "after_label": "ORDEN SKIRION",
+      "impact_label": "Beneficio Neto Recuperado",
+      "agent_active": "Sistema Blindado",
+      "before": "Antes: Gran parte de la jornada se consume en tareas poco productivas.",
+      "after": "Después: El 90% de estas tareas se ejecutan solas y sin errores.",
+      "impact": "Impacto: Expansión del margen del +18% inmediata."
+    }
+  },
+  "lead_magnet": {
+    "title": "Checklist de Auditoría: 25 puntos donde tu empresa está 'sangrando' margen ahora mismo.",
+    "subtitle": "Descubre las oportunidades ocultas que han pasado desapercebidas y cómo potenciarlas con IA.",
+    "cta": "Frenar la fuga ahora"
+  },
+  "final_cta": {
+    "title": "¿Dormirías mejor sabiendo que cada cliente interesado recibe respuesta en segundos?",
+    "subtitle": "Sistemas que convierten el descanso del propietario en crecimiento del negocio.",
+    "cta": "Activar mi sistema"
+  },
+  "free_web": {
+    "title": "Creamos tu web. Gratis.",
+    "subtitle": "Nuestro compromiso es ayudarte a generar más ingresos con soluciones efectivas."
+  },
+  "email_capture": {
+    "title": "Descubre cuánto podría crecer tu negocio.",
+    "subtitle": "Déjanos tu email y te enviaremos un análisis con la facturación potencial que podrías generar automatizando tu empresa.",
+    "button": "Recibir análisis",
+    "success_message": "¡Gracias! Hemos recibido tu solicitud correctamente. Recibirás tu ANÁLISIS GRATUITO muy pronto."
+  },
+  "security": {
+    "title": "Los sistemas digitales bien diseñados convierten la complejidad en simplicidad.",
+    "subtitle": "En SKIRION.MEDIA activamos:",
+    "points": [
+      "Agentes digitales que responden y califican",
+      "Automatización que hace el seguimiento",
+      "Control real de los procesos comerciales",
+      "Informes claros que explican qué está pasando"
+    ],
+    "timeline": "Todo en 30 días.",
+    "tags": [
+      "Orden total",
+      "Carga de trabajo optimizada",
+      "Lenguaje claro"
+    ],
+    "action_title": "Plan de Acción Inmediato",
+    "cta": "Quiero el plan en 7 días"
+  },
+  "sectors": {
+    "badge": "Puntos de Dolor por Sector",
+    "items": {
+      "real_estate": {
+        "title": "Inmobiliaria",
+        "text": "Si un comprador escribe y espera una respuesta inmediata, probablemente ya esté hablando con otra agencia."
+      },
+      "clinics": {
+        "title": "Clínicas",
+        "text": "Cada visita pendiente de confirmación es un agujero directo en la facturación."
+      },
+      "ecommerce": {
+        "title": "E-commerce",
+        "text": "Si el cliente duda y le falta guía, compra en otro sitio."
+      },
+      "industrial": {
+        "title": "Industrial",
+        "text": "Presupuestos sin seguimiento son margen que desaparece."
+      }
+    }
+  },
+  "ideal_state": {
+    "badge": "El Estado Ideal",
+    "items": {
+      "real_estate": {
+        "title": "Inmobiliaria",
+        "points": [
+          "Más visitas calificadas",
+          "Menos tiempo perdido",
+          "Más control"
+        ]
+      },
+      "clinics": {
+        "title": "Clínicas",
+        "points": [
+          "Agenda ordenada",
+          "Menos ausencias",
+          "Más tranquilidad"
+        ]
+      },
+      "ecommerce": {
+        "title": "E-commerce",
+        "points": [
+          "Más conversión",
+          "Recuperación de ventas",
+          "Atención inmediata"
+        ]
+      },
+      "industrial": {
+        "title": "Industrial",
+        "points": [
+          "Seguimiento automático",
+          "Orden comercial",
+          "Margen protegido"
+        ]
+      }
+    }
+  },
+  "experience": {
+    "title": "En SKIRION, activamos sistemas digitales que aportan claridad y estructura a tu negocio.",
+    "subtitle": "Tecnología pensada para que tu negocio opere con más serenidad y previsión.",
+    "items": [
+      {
+        "id": "1",
+        "title": "Menos tensión interna"
+      },
+      {
+        "id": "2",
+        "title": "Más control real"
+      },
+      {
+        "id": "3",
+        "title": "Decisiones basadas en datos"
+      }
+    ],
+    "control": "Vender más y, sobre todo, sentir que el negocio está bajo control.",
+    "cta": "Quiero empezar con un diagnóstico gratuito"
+  },
+  "alert": {
+    "title": "La automatización y el seguimiento real son las claves de tu previsión.",
+    "uncertainty": "Y sin previsión, solo hay incertidumbre."
+  },
+  "final_visualization": {
+    "title": "Imagina un negocio que avanza con orden, velocidad y control.",
+    "points": [
+      "Cuántos clientes potenciales han entrado",
+      "Cuántos se han convertido",
+      "Dónde se han perdido",
+      "Qué se ha mejorado"
+    ],
+    "direction": "Cuando el sistema es claro, la dirección del negocio se vuelve más segura.",
+    "business": "Esto es empresa."
+  },
+  "cta_final": {
+    "badge": "Seguridad y Control",
+    "title": "Empecemos con un paso simple.",
+    "footer": "SKIRION.MEDIA © 2024 · Protocolo de Eficiencia Garantizado"
+  },
+  "services": {
+    "title": "¿Qué hacemos?",
+    "subtitle": "Servicio de agencia digital especializado en agentes digitales, servicios de automatización con IA y diseño web de alta conversión.",
+    "items": {
+      "productions3d": {
+        "title": "Producciones en 3D",
+        "desc": "Digitalizamos tus productos y espacios con tecnología 3D de última generación. Creamos showrooms digitales, recorridos virtuales (Matterport) y gemelos digitales interactivos para que tus clientes puedan explorar y comprar 24/7 de forma 100% interactiva.",
+        "features": [
+          "Recorridos virtuales Matterport de alta precisión",
+          "Digitalización y modelado 3D de productos",
+          "Showrooms interactivos 24/7 abierto al mundo entero",
+          "Integración web y móvil de alta conversión"
+        ],
+        "cta": "Quiero digitalizar mi espacio en 3D"
+      },
+      "web": {
+        "title": "Diseño de páginas web",
+        "desc": "Tu web debería generar clientes cada día. En SKIRION creamos webs pensadas para captar, filtrar y convertir clientes. Hacemos que la IA entienda tu negocio y lo recomiende.",
+        "features": [
+          "Auditoría GEO / AI Visibility",
+          "Reescritura de páginas para que las IA las entiendan",
+          "Estructura de preguntas y respuestas",
+          "Datos estructurados Schema",
+          "Páginas por vertical",
+          "Fichas de autoridad",
+          "FAQ inteligentes",
+          "Comparativas y casos de uso",
+          "Llms.txt",
+          "Seguimiento de menciones en IA"
+        ],
+        "cta": "Quiero ver cómo sería mi web"
+      },
+      "geo": {
+        "title": "GEO / AI Visibility",
+        "desc": "Optimizamos tu semántica, datos estructurados Schema y referencias Markdown (llms.txt) para que las IA generativas como ChatGPT, Claude o Perplexity te recomienden como referente.",
+        "features": [
+          "Auditoría GEO y análisis de menciones en IA",
+          "Optimización semántica para motores de búsqueda generativos",
+          "Implementación del estándar llms.txt y llms-full.txt",
+          "Estructuración de datos Schema.org avanzados",
+          "FAQ de precisión y comparativas adaptadas para LLMs"
+        ],
+        "cta": "Optimizar mi negocio para IA"
+      },
+      "audit": {
+        "title": "Auditoría de Eficiencia",
+        "desc": "Detectamos fugas de dinero y tiempo en tus procesos actuales para aplicar soluciones inmediatas.",
+        "features": [
+          "Mapeo de procesos",
+          "Detección de cuellos de botella",
+          "Cálculo de ROI de automatización",
+          "Plan de acción paso a paso"
+        ],
+        "cta": "Activar mi plan"
+      },
+      "automation": {
+        "title": "Servicios de Automatización",
+        "desc": "Construimos servicios de automatización que trabajan por ti 24/7, integrando CRM, bases de datos y flujos de ventas para eliminar tareas manuales repetitivas.",
+        "features": [
+          "Integración bidireccional CRM y WhatsApp",
+          "Atención al cliente y agentes 24/7",
+          "Gestión documental inteligente",
+          "Workflows automáticos de venta"
+        ],
+        "cta": "Activar mi plan"
+      },
+      "content": {
+        "title": "Creación de contenido",
+        "desc": "Escalamos tu presencia digital con producción masiva de contenido de alto impacto.",
+        "features": [
+          "Guionización con IA",
+          "Edición acelerada",
+          "Distribución multicanal",
+          "Análisis de rendimiento"
+        ],
+        "cta": "Activar mi plan"
+      }
+    },
+    "cta": "Activar mi plan",
+    "contact_price": "Contáctanos para un presupuesto personalizado",
+    "cta_email": "Enviar Email",
+    "cta_whatsapp": "WhatsApp"
+  },
+  "cta": {
+    "badge": "Resultados Garantizados para Ti",
+    "title": "Solo avanzamos si vemos una oportunidad clara.",
+    "subtitle": "Buscamos socios que quieran hacer crecer tu negocio con sistemas que realmente funcionan y ahorran tiempo.",
+    "button_primary": "Reserva tu plaza",
+    "button_secondary": "Ver Agentes Digitales",
+    "footer": "SKIRION.MEDIA © 2024 · Todos los derechos reservados · Confidencialidad Total"
+  },
+  "method": {
+    "badge": "Ingeniería de Viralidad",
+    "title": "El Método SKIRION.",
+    "subtitle": "Hemos eliminado el azar del proceso de creación. Aplicamos rigor de software a la producción creativa.",
+    "items": [
+      {
+        "id": "01",
+        "title": "Análisis Predictivo",
+        "desc": "Utilizamos nuestro propio motor de IA para identificar nichos de atención antes de que se vuelvan virales."
+      },
+      {
+        "id": "02",
+        "title": "Producción Sistematizada",
+        "desc": "Pipeline de producción audiovisual de altísima calidad capaz de generar contenido 24/7 sin degradación creativa."
+      },
+      {
+        "id": "03",
+        "title": "Distribución Algorítmica",
+        "desc": "Ingeniería de publicación multicanal optimizada para la retención máxima en las plataformas globales."
+      },
+      {
+        "id": "04",
+        "title": "Monetización de Precisión",
+        "desc": "Conversión del tráfico en capital mediante sistemas directos de afiliación e infraestructuras OTA."
+      }
+    ]
+  },
+  "layers": {
+    "badge": "Arquitectura Operativa",
+    "title": "Capas de Impacto.",
+    "items": [
+      {
+        "label": "Capa 01",
+        "title": "Infraestructura Audiovisual",
+        "desc": "Producción premium sistematizada a escala global. Nuestros hubs están diseñados para la creación masiva de contenido cinematográfico optimizado para plataformas sociales.",
+        "features": [
+          "Estudios de producción 8K",
+          "Pipeline de edición IA-Acelerado",
+          "Dirección creativa global"
+        ]
+      },
+      {
+        "label": "Capa 02",
+        "title": "Infraestructura de Conversión",
+        "desc": "La atención sin monetización es ruido. Diseñamos sistemas de extracción de valor mediante afiliación avanzada, negociación directa con marcas y redes de OTA (Online Travel Agencies).",
+        "features": [
+          "Sistemas de monetización directa",
+          "Ingeniería de afiliación masiva",
+          "OTA Optimization"
+        ]
+      },
+      {
+        "label": "Capa 03",
+        "title": "Infraestructura Tecnológica (IA)",
+        "desc": "El cerebro de la operación. Una suite de software propietario que automatiza el análisis de datos, la generación de scripts y la optimización de contenido en tiempo real.",
+        "features": [
+          "Análisis de datos de mercado",
+          "Algoritmos de viralidad",
+          "Automatización de operaciones"
+        ]
+      }
+    ]
+  },
+  "roadmap": {
+    "badge": "Presencia Global",
+    "title": "Roadmap de Escalado.",
+    "items": [
+      {
+        "region": "España",
+        "status": "Operativo",
+        "hubs": [
+          "Barcelona (HQ)",
+          "Madrid"
+        ]
+      },
+      {
+        "region": "Francia",
+        "status": "Expansión Q3 2024",
+        "hubs": [
+          "París",
+          "Lyon"
+        ]
+      },
+      {
+        "region": "Golfo Arábico",
+        "status": "Estratégico 2025",
+        "hubs": [
+          "Dubai",
+          "Riyadh"
+        ]
+      },
+      {
+        "region": "EE.UU.",
+        "status": "Escalado 2025",
+        "hubs": [
+          "New York",
+          "Silicon Valley"
+        ]
+      }
+    ]
+  },
+  "resources": {
+    "title": "Recursos",
+    "subtitle": "Herramientas, guías y conocimiento para ayudarte a escalar tu negocio.",
+    "download": "HAZ TU TEST",
+    "newsletter": {
+      "title": "¿Quieres contenido exclusivo cada semana?",
+      "subtitle": "Únete a nuestra newsletter de ingeniería de la atención y recibe las últimas estrategias directamente en tu correo.",
+      "placeholder": "Tu correo electrónico",
+      "button": "Suscribirme"
+    },
+    "items": [
+      {
+        "id": "guide",
+        "title": "Guía de Automatización",
+        "type": "PDF / Guía",
+        "desc": "10 automatizaciones que puedes aplicar hoy mismo para ahorrar 10h a la semana.",
+        "cta": "DESCARGAR GRATIS"
+      },
+      {
+        "id": "checklist",
+        "title": "Checklist Auditoría IA",
+        "type": "Checklist",
+        "desc": "¿Está tu empresa preparada para la IA? Descúbrelo con este checklist de 20 puntos.",
+        "cta": "COMPRUEBA GRATIS"
+      },
+      {
+        "id": "video",
+        "title": "Masterclass: Content Engine",
+        "type": "Vídeo",
+        "desc": "Cómo producir 50 piezas de contenido de alto impacto en menos de 4 horas.",
+        "cta": "SOLICITA LA PRIMERA CLASE GRATIS"
+      }
+    ]
+  },
+  "automation_guide": {
+    "title": "Guía de Automatización",
+    "subtitle": "10 acciones concretas que puedes aplicar hoy mismo para ahorrar 10h a la semana y mejorar tu negocio.",
+    "subtitle_pdf": "10 Pasos para Escalar",
+    "footer_pdf": "SKIRION.MEDIA - Ingeniería de la Atención",
+    "download_pdf": "Descargar Guía en PDF",
+    "steps": [
+      {
+        "title": "Captura de Leads",
+        "desc": "Automatiza la primera respuesta. El 50% de las ventas se las lleva quien responde primero."
+      },
+      {
+        "title": "Calificación con IA",
+        "desc": "Filtra los interesados automáticamente. Céntrate en los clientes con capacidad de compra."
+      },
+      {
+        "title": "Agenda Inteligente",
+        "desc": "Conecta tu calendario. Facilita que los clientes reserven directamente."
+      },
+      {
+        "title": "Seguimiento de Presupuestos",
+        "desc": "Recordatorios automáticos. Recupera el 20% de las ventas que se pierden por olvido."
+      },
+      {
+        "title": "Sincronización CRM",
+        "desc": "Toda la información en un solo lugar, con entrada de datos automatizada."
+      },
+      {
+        "title": "Respuestas FAQ",
+        "desc": "IA que responde las dudas de siempre en WhatsApp y Web 24/7."
+      },
+      {
+        "title": "Generación de Documentos",
+        "desc": "Crea contratos y facturas automáticamente al cerrar una venta."
+      },
+      {
+        "title": "Alertas Internas",
+        "desc": "Notifica a tu equipo al momento cuando entra un cliente de alto valor."
+      },
+      {
+        "title": "Fidelización Post-Venta",
+        "desc": "Pide reseñas y feedback automáticamente después de cada servicio."
+      },
+      {
+        "title": "Informes de Rendimiento",
+        "desc": "Recibe un resumen semanal de tus ventas y ahorro de tiempo de forma automática."
+      }
+    ]
+  },
+  "masterclass": {
+    "title": "Masterclass: Content Engine",
+    "subtitle": "\"Cómo producir 50 piezas de alto impacto en menos de 4 horas.\"",
+    "duration_label": "Duración",
+    "duration_value": "45 MINUTOS",
+    "instructor_label": "Instructor",
+    "instructor_value": "SKIRION TEAM",
+    "cta_card_title": "¿Listo para escalar tu contenido?",
+    "cta_card_desc": "Aplica estos sistemas en tu negocio y deja de preocuparte por qué publicar cada día.",
+    "cta_button": "SOLICITA LA PRIMERA CLASE GRATIS",
+    "phases": [
+      {
+        "title": "MÓDULO 1 · La estrategia detrás del contenido",
+        "desc": "Comprender cómo ha cambiado el marketing y por qué el contenido se ha convertido en el principal activo de una empresa."
+      },
+      {
+        "title": "MÓDULO 2 · Cómo crear contenido que las personas quieran consumir",
+        "desc": "Aprender por qué unas publicaciones funcionan y otras pasan desapercibidas."
+      },
+      {
+        "title": "MÓDULO 3 · Domina cada red social",
+        "desc": "Adaptar el contenido a cada plataforma para maximizar su impacto."
+      },
+      {
+        "title": "MÓDULO 4 · Planificación y guiones",
+        "desc": "Diseñar un sistema que permita producir contenido de forma organizada."
+      },
+      {
+        "title": "MÓDULO 5 · Producción profesional",
+        "desc": "Grabar mucho contenido en poco tiempo sin perder calidad."
+      },
+      {
+        "title": "MÓDULO 6 · Inteligencia Artificial aplicada al contenido",
+        "desc": "Multiplicar la productividad utilizando herramientas de IA."
+      },
+      {
+        "title": "MÓDULO 7 · Edición y reutilización",
+        "desc": "Transformar una única grabación en decenas de piezas de contenido."
+      },
+      {
+        "title": "MÓDULO 8 · Caso práctico y crecimiento",
+        "desc": "Aplicar el método completo y crear un sistema sostenible."
+      }
+    ]
+  },
+  "chatbot": {
+    "initial_message": "“La mayoría de empresas pierde una gran cantidad de tiempo y dinero en tareas que podrían automatizarse.” ¡Hola! Soy el avatar oficial de SKIRION. ¿Cómo puedo ayudarte hoy a mejorar la eficiencia de tu negocio?",
+    "placeholder": "Escribe tu mensaje...",
+    "recording": "Escuchando...",
+    "system_instruction": "Eres el avatar oficial de SKIRION, una empresa de ingeniería de la atención y automatización de procesos con IA.\n\nOBJETIVO PRINCIPAL:\n1. Resolver cualquier duda sobre SKIRION basándote en la información de la web.\n2. Priorizar SIEMPRE que el usuario reserve su plaza para un análisis personalizado.\n3. Si el usuario pregunta algo que no sabes o que es muy específico, indica que nuestro equipo lo atenderá personalmente e invítale a reservar su plaza.\n\nCONOCIMIENTO (Basado en la web):\n- Hacemos: Webs de alta conversión, Agentes de respuesta (texto/voz), Avatars de marca, Automatización de CRM/ventas, Motor de Contenido masivo.\n- Sectors: Inmobiliarias, Clínicas, Dentistas, Formación, Gimnasios, E-commerce, etc.\n- Método: Diagnóstico de fugas, Implementación en 30 días, Optimización continua.\n\nTONALIDAD:\n- Profesional, cercano, consultivo y estratégico.\n- Hablas en español.\n\nINSTRUCCIONES DE RESPUESTA:\n- Respuestas breves y directas.\n- Si detectas una oportunidad de mejora, menciónala.\n- Si no sabes la respuesta: “Esta consulta requiere un análisis más técnico. Lo mejor es reservar tu plaza para que nuestro equipo te atienda personalmente y resuelva esta duda.”",
+    "assistant_name": "SKIRION IA",
+    "role": "Consultor Estratégico",
+    "active_system": "Sistema Activo",
+    "error_processing": "Lo siento, he tenido un problema al procesar tu solicitud.",
+    "error_connection": "Lo siento, ha habido un error de conexión. Por favor, inténtalo de nuevo más tarde.",
+    "analyzing": "Analizando respuesta..."
+  },
+  "home_new": {
+    "hero_desc": "En SKIRION activamos sistemas que transforman la actividad de tu negocio en beneficios reales desde el primer día. Más ingresos, menos pérdidas y control total de lo que ocurre.",
+    "value_system": {
+      "title": "El valor está en hacer que el sistema funcione y genere resultados.",
+      "items": [
+        "activamos el sistema contigo",
+        "te acompañamos para que lo domines",
+        "lo adaptamos a tu negocio",
+        "lo mejoramos constantemente"
+      ],
+      "footer": "Transformamos tecnología en beneficios reales. Esto es lo que marca la diferencia."
+    },
+    "tools_vs_system": "Muchas empresas tienen herramientas. El crecimiento llega cuando estas herramientas trabajan como un sistema orientado a generar dinero.",
+    "elevation": "Aquí es donde SKIRION eleva el nivel. El sistema entra en funcionamiento desde el primer momento y evoluciona con tu negocio.",
+    "value_evolution": "Un sistema genera valor cuando está en funcionamiento y evoluciona constantemente. Esto es lo que impulsa el crecimiento real.",
+    "final_cta_subtitle": "Tecnología aplicada con un objetivo claro: generar más ingresos y mejorar la rentabilidad desde el primer día."
+  },
+  "plans_page": {
+    "title": "¿CÓMO TRABAJAMOS CONTIGO?",
+    "subtitle": "Activamos soluciones que generan resultados reales.",
+    "intro": "En SKIRION te ayudamos a poner en marcha tu sistema para que funcione y genere beneficios desde el primer momento. Nuestro objetivo es que empieces a trabajar con una estructura sólida y adaptada a tu negocio.",
+    "cta_text": "Contactar para activar",
+    "activation_title": "Activación del sistema",
+    "activation_desc": "Vamos más allá de entregar tecnología; te ayudamos a activarla y dejarla preparada para que sume desde el principio.",
+    "free": {
+      "name": "NIVEL BÁSICO",
+      "price": "Esencial",
+      "desc": "La base correcta para empezar a sistematizar tu negocio con seguridad.",
+      "features": [
+        "Configuración inicial del sistema",
+        "Adaptación al caso del cliente",
+        "Sesión básica para entender cómo funciona",
+        "Acceso a guías y vídeos",
+        "Seguimiento durante los primeros días"
+      ]
+    },
+    "pro": {
+      "name": "NIVEL PRO",
+      "price": "Equilibrado",
+      "desc": "La opción más equilibrada para quien busca una optimización real y resultados acelerados.",
+      "features": [
+        "Configuración inicial del sistema",
+        "Adaptación al caso del cliente",
+        "Sesión básica para entender cómo funciona",
+        "Acceso a guías y vídeos",
+        "Seguimiento durante los primeros días",
+        "Sesiones adicionales",
+        "Ajuste de los mensajes",
+        "Revisión del recorrido del cliente",
+        "Optimización inicial"
+      ]
+    },
+    "premium": {
+      "name": "NIVEL PREMIUM",
+      "price": "Ambición",
+      "desc": "Para empresas con alta ambición que buscan un acompañamiento intenso y resultados máximos.",
+      "features": [
+        "Configuración inicial del sistema",
+        "Adaptación al caso del cliente",
+        "Sesión básica para entender cómo funciona",
+        "Acceso a guías y vídeos",
+        "Seguimiento durante los primeros días",
+        "Sesiones adicionales",
+        "Ajuste de los mensajes",
+        "Revisión del recorrido del cliente",
+        "Optimización inicial",
+        "Acompañamiento más intenso",
+        "Definición de objetivos",
+        "Ajuste más profundo del sistema",
+        "Soporte continuo inicial"
+      ]
+    },
+    "transition": "Las membresías activas son una parte central del modelo SKIRION.MEDIA.",
+    "evolution_desc": "Cuando un Señor Cliente contrata una implementación inicial, el sistema empieza a funcionar. Pero el valor real crece cuando este sistema se revisa, se ajusta y evoluciona con el tiempo. Por eso trabajamos con membresías activas.",
+    "membership_intro_3": "Las membresías activas permiten mantener una relación continuada con el Señor Cliente y asegurar que los sistemas implementados siguen vivos, actualizados y alineados con sus objetivos.",
+    "recurrence_title": "Esta recurrencia es positiva para todas las partes:",
+    "recurrence_items": [
+      "El Señor Cliente mantiene el sistema revisado y en evolución",
+      "SKIRION.MEDIA construye ingresos recurrentes y relaciones estables",
+      "Los Señores Consultores de Crecimiento Digital pueden detectar nuevas oportunidades",
+      "El servicio puede crecer según las necesidades reales del negocio",
+      "Cada proyecto inicial puede convertirse en una relación de largo recorrido"
+    ],
+    "why_active_title": "Por qué son membresías activas",
+    "why_active_subtitle": "Son activas porque SKIRION.MEDIA sigue pendiente del Señor Cliente después de la implementación. Esto significa seguimiento, revisión, mejora y evolución.",
+    "what_includes_title": "Una membresía activa puede incluir, según el nivel contratado y las necesidades del proyecto:",
+    "what_includes_items": [
+      "Revisión de sistema",
+      "Mantenimiento operativo",
+      "Ajustes de funcionamiento",
+      "Seguimiento de resultados",
+      "Propuestas de mejora",
+      "Optimización de recursos digitales",
+      "Soporte técnico",
+      "Evolución de agentes digitales",
+      "Actualización de contenidos",
+      "Mejoras en automatizaciones",
+      "Incorporación progresiva de nuevas funcionalidades"
+    ],
+    "what_includes_footer": "El detalle concreto de cada membresía se definirá según la evolución del servicio, el tipo de Señor Cliente y el nivel de acompañamiento que requiera cada proyecto.",
+    "membership_levels_title": "Niveles de membresía",
+    "membership_levels_subtitle": "SKIRION.MEDIA estructura las membresías activas en tres niveles principales:",
+    "membership_plans": [
+      {
+        "name": "Membresía Pro",
+        "positioning": "Sistemas Activos",
+        "desc": "Pensada para Señores Clientes que quieren mantener el sistema activo, revisado y funcional.",
+        "features": [
+          "Revisión periódica del sistema",
+          "Mantenimiento operativo",
+          "Ajustes básicos de funcionamiento",
+          "Soporte técnico estándar"
+        ]
+      },
+      {
+        "name": "Membresía Premium",
+        "positioning": "Evolución Estratégica",
+        "desc": "Pensada para Señores Clientes que quieren más seguimiento, más evolución y más capacidad de mejora.",
+        "features": [
+          "Seguimiento mensual de resultados y optimización",
+          "Propuestas proactivas de mejora continua",
+          "Evolución de agentes digitales y contenidos",
+          "Prioridad operativa de soporte"
+        ]
+      },
+      {
+        "name": "Membresía Gold",
+        "positioning": "Acompañamiento de Máxima Precisión",
+        "desc": "Pensada para Señores Clientes que quieren un acompañamiento más completo, prioridad operativa y una evolución más avanzada del sistema.",
+        "features": [
+          "Acompañamiento total de alta prioridad operativa",
+          "Optimización avanzada de recursos digitales",
+          "Incorporación progresiva de nuevas funcionalidades",
+          "Atención altamente personalizada de nuestro equipo"
+        ]
+      }
+    ],
+    "membership_footer_text": "Esta estructura permite adaptar el nivel de servicio a cada Señor Cliente, manteniendo un modelo claro, escalable y orientado a la recurrencia.",
+    "evolution_points": {
+      "title": "¿Por qué es importante la continuidad?",
+      "items": [
+        "Revisión mensual del sistema",
+        "Ajustes para ganar precisión",
+        "Mejora constante del rendimiento",
+        "Evolución según las necesidades del negocio",
+        "Generación de más oportunidades"
+      ]
+    },
+    "reassurance": [
+      "Cada mes funciona mejor",
+      "Cada ajuste suma",
+      "Más rendimiento con el tiempo",
+      "Más oportunidades de negocio"
+    ],
+    "difference": {
+      "activation": "Activación = Poner el sistema en marcha y dejarlo preparado.",
+      "continuity": "Membresía Activa = Hacer que el sistema cada vez funcione mejor y se adapte a nuevas necesidades."
+    },
+    "final_thought": "El sistema se pone en marcha, comienza a trabajar y evoluciona con tu negocio.",
+    "commitment": "Nos comprometemos con nuestros clientes para que el sistema se adapte a tu negocio y lo sepan utilizar para sacar el máximo provecho."
+  },
+  "forms": {
+    "subject_contact": "Nuevo mensaje desde la web Skirion",
+    "subject_cv": "Candidatura / CV - Equipo Skirion",
+    "subject_book": "Reserva de Plaza / Diagnóstico",
+    "subject_visit": "Reserva de Plaza - Primera fase de implementación"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Escríbenos y descubre cómo puede crecer tu negocio con SKIRION.MEDIA",
+    "intro_title": "Empecemos el cambio",
+    "intro_text": "Si buscas optimizar costes, escalar tu producción de contenido o simplemente entender cómo la IA puede ayudarte, estamos aquí.",
+    "calendar_title": "Reserva tu plaza",
+    "calendar_subtitle": "Déjanos tu contacto y te escribiremos lo antes posible con una propuesta de fecha y hora",
+    "whatsapp_title": "WhatsApp Directo",
+    "whatsapp_subtitle": "Respuesta rápida para dudas concretas",
+    "whatsapp_message": "Hola, estoy interesado en mejorar mi empresa con SKIRION.",
+    "email_subtitle": "Para propuestas detalladas",
+    "form_title": "Envíanos un mensaje",
+    "form": {
+      "name": "Nombre",
+      "name_placeholder": "Tu nombre",
+      "company": "Empresa",
+      "company_placeholder": "Nombre de la empresa",
+      "email": "Correo Electrónico",
+      "email_placeholder": "hola@empresa.com",
+      "phone_label": "WhatsApp / Teléfono",
+      "phone_placeholder": "+34 600 000 000",
+      "message": "Mensaje",
+      "message_placeholder": "¿En qué te podemos ayudar?",
+      "send": "Enviar Mensaje"
+    },
+    "success_title": "Gracias por contactar con Skirion.Media",
+    "success_subtitle": "Nuestros agentes digitales te responderán inmediatamente.",
+    "success_button": "Entendido",
+    "protocol_connection": "Protocolo de Conexión",
+    "faq_badge": "PREGUNTAS FRECUENTES",
+    "faq_title": "Dudas habituales antes de empezar",
+    "faq_subtitle": "Todo lo que necesitas saber sobre la implementación de los agentes digitales y soluciones de ingeniería de SKIRION.",
+    "faq_items": [
+      {
+        "question": "¿Qué agente digital es el más recomendado para una clínica dental o centro médico?",
+        "answer": "Para clínicas dentales y centros médicos, la combinación más potente es el Agente de Voz 24/7 para Cita Previa y Urgencias junto al Agente de WhatsApp/Web. Estos agentes atienden llamadas al instante cuando recepción está ocupada o fuera de horario, clasifican el motivo de consulta (revisión, dolor, ortodoncia o estética), informan de tratamientos, agendan directamente en el software médico y envían recordatorios automáticos reduciendo el absentismo de pacientes hasta un 70%."
+      },
+      {
+        "question": "¿Cuánto tiempo se tarda en implementar y activar los agentes en mi empresa?",
+        "answer": "El despliegue estándar dura entre 7 y 14 días laborables. Durante la primera semana auditamos tu flujo de atención y entrenamos a los agentes con tu tono de marca, catálogo y preguntas frecuentes. A continuación realizamos la integración técnica con tu telefonía, CRM o calendario y efectuamos pruebas exhaustivas de calibración antes de la puesta en marcha definitiva."
+      },
+      {
+        "question": "¿Cómo se integran los agentes con nuestro software, telefonía o CRM actual?",
+        "answer": "Nuestros agentes se conectan de forma nativa o mediante API/webhooks con tus herramientas habituales (WhatsApp Business, Google Calendar, Outlook, HubSpot, Salesforce, Zoho, Holded, Gesden, Cloudbeds, etc.) y centralitas telefónicas mediante desvío inteligente. No necesitas cambiar de software ni alterar tu operativa diaria."
+      },
+      {
+        "question": "¿Qué diferencia hay entre un chatbot tradicional y un Agente Digital de SKIRION?",
+        "answer": "Los chatbots clásicos responden con menús cerrados y botones rígidos que a menudo frustran al usuario. Los Agentes Digitales de SKIRION utilizan IA generativa y voz neuronal de última generación: comprenden el lenguaje natural, mantienen conversaciones fluidas, gestionan objeciones y ejecutan acciones reales en tiempo real como consultar disponibilidad de agenda, comprobar datos o registrar leads directamente en tu CRM."
+      },
+      {
+        "question": "¿Cómo medimos el retorno de la inversión (ROI) y el impacto de los agentes?",
+        "answer": "Dispones de métricas claras y transparentes desde el primer día: tiempo medio de respuesta (reducido a menos de 5 segundos), porcentaje de consultas resueltas de forma autónoma (entre el 75% y el 85%), número de citas u oportunidades capturadas fuera de horario comercial y horas de equipo liberadas de tareas repetitivas de gestión."
+      }
+    ]
+  },
+  "calculator": {
+    "badge": "🧮 AUDITORÍA DE FUGAS",
+    "title": "Calcula cuánto dinero te está 'costando' tu modelo actual.",
+    "subtitle": "Detecta el dinero que estás dejando de ganar por mantener procesos manuales obsoletos.",
+    "company_name": "Empresa",
+    "monthly_revenue": "Facturación mensual",
+    "time_spent": "Horas perdidas en tareas repetitivas",
+    "calculate": "Revelar Pérdida Oculta",
+    "result_title": "Capital que se te escapa al año",
+    "result_desc": "Este es el beneficio neto que tu estructura actual está impidiendo capturar.",
+    "monthly_loss_label": "Pérdida mensual",
+    "lost_revenue_label": "Impacto anual negativo",
+    "recovery_label": "Flujo de caja recuperable",
+    "recalculate": "Refinar auditoría",
+    "per_month": "/ mes",
+    "per_week": "h / semana",
+    "per_year": "/ año",
+    "cta_recover": "Frenar la fuga y recuperar el control"
+  },
+  "checklist_page": {
+    "badge": "Análisis de Eficiencia",
+    "title": "AUDITORÍA DE EFICIENCIA COMERCIAL",
+    "subtitle": "Descubre dónde estás perdiendo dinero en tus ventas y cómo la IA te ayudará a evitarlo.",
+    "warning": "Debes terminar el test para ver el resultado",
+    "progress": "Progreso",
+    "leaks_detected": "Puntos a mejorar",
+    "yes": "SÍ",
+    "no_improve": "POR MEJORAR",
+    "result_meaning": "¿Qué significa tu resultado?",
+    "result_desc": "Has detectado {{count}} puntos donde estás perdiendo dinero.",
+    "result_high_risk": "Es muy probable que tu empresa esté perdiendo clientes, tiempo y dinero cada semana. Necesitas automatizar tu negocio ahora mismo.",
+    "result_low_risk": "Tienes una buena base, pero aún puedes mejorar y crecer mucho más con la ayuda de la IA.",
+    "result_footer": "En SKIRION.MEDIA analizamos estos puntos para encontrar dónde puedes mejorar y ahorrar tiempo.",
+    "cta_diagnostic": "Pedir mi análisis",
+    "cta_save": "Guardar Resultado",
+    "modal_title": "Recibe tu análisis completo",
+    "modal_subtitle": "Pon tu correo y te enviaremos un PDF con los resultados y nuestros consejos.",
+    "modal_placeholder": "Tu correo profesional",
+    "modal_button_sending": "Enviando...",
+    "modal_button_send": "Enviar y Descargar",
+    "modal_success_title": "¡Enviado!",
+    "modal_success_desc": "Revisa tu correo. El PDF también se ha descargado solo.",
+    "modal_close": "Cerrar",
+    "status_low": "Riesgo Alto",
+    "status_medium": "Riesgo Medio",
+    "status_high": "Riesgo Bajo",
+    "score_label": "Puntuación",
+    "footer_note": "SKIRION.MEDIA · Resultados Garantizados",
+    "cta_help": "Si ya lo tienes claro, reserva tu plaza y te haremos la estrategia.",
+    "cta_button": "Quiero ayuda con la IA",
+    "final_question": "¿Quieres hablar con uno de nuestros fundadores para analizar tu puntuación y cerrar las fugas de tu negocio?",
+    "whatsapp_cta": "Contactar por WhatsApp",
+    "questions": [
+      "¿Tu empresa explica claramente qué hace y para quién?",
+      "¿Un cliente entiende en menos de 5 segundos qué gana?",
+      "¿Tu web tiene un mensaje claro que invita a comprar?",
+      "¿Tu web da confianza y se ve profesional?",
+      "¿La página carga rápido en el móvil?",
+      "¿El visitante sabe cuál es el siguiente paso que debe dar?",
+      "¿Tu web tiene formularios sencillos para pedir información?",
+      "¿Tienes un botón de WhatsApp bien visible?",
+      "¿Ofreces algo gratis para conseguir contactos?",
+      "¿Respondes a los clientes interesados en menos de 5 minutos?",
+      "¿Tienes un sistema que responde solo al principio?",
+      "¿Tu empresa responde aunque esté cerrada?",
+      "¿Tienes todos los contactos bien organizados en un solo lugar?",
+      "¿Sabes de dónde viene cada cliente?",
+      "¿Separas a los clientes según si quieren comprar de verdad?",
+      "¿Los clientes pueden reservar una reunión por internet fácilmente?",
+      "¿Envías recordatorios automáticos de las citas?",
+      "¿Tienes un proceso claro desde que te contactan hasta que compras?",
+      "¿Vuelves a preguntar a los clientes que tienen un presupuesto?",
+      "¿Mantienes el contacto con los clientes de forma constante?",
+      "¿Sabes qué clientes tienen más números de comprar?",
+      "¿Haces tareas repetitivas que se podrían hacer solas?",
+      "¿Utilizas la IA para responder las preguntas de siempre?",
+      "¿Tienes sistemas para enviar información o papeles solo?",
+      "¿Sabes cuántos de los que preguntan acaban comprando de verdad?"
+    ]
+  },
+  "verticals": {
+    "strategic_phrase": "SKIRION utiliza la misma tecnología base, pero no vende el mismo producto a todos: crea sistemas digitales adaptados al dolor, al lenguaje y a los números de cada sector.",
+    "select_sector": "Selecciona tu sector para ver la solución dedicada:",
+    "pain_title": "El dolor real del sector",
+    "solution_title": "La Solució SKIRION",
+    "demo_title": "Demo Interactiva del Sistema",
+    "cta_button": "Quiero una demo para mi empresa",
+    "hotels": {
+      "name": "Hoteles, Campings y Resorts",
+      "benefit": "Convierte más visitas en reservas directas",
+      "title": "Más reservas directas, menos preguntas repetitivas y una experiencia digital que convence antes de reservar.",
+      "pain": "Más del 70% de las visitas web se van sin reservar porque tienen dudas o buscan referencias en portales externos (Booking, Expedia). Mientras tanto, tu equipo pierde horas preciosas respondiendo las mismas preguntas de siempre sobre check-in, servicios, aparcamiento y precios.",
+      "promise": "Más reservas directas y menos dependencia de portales con tours 3D y agentes 24/7.",
+      "showcase_title": "Lo que digitalizamos y mostramos en alta definición:",
+      "showcase_items": [
+        "Habitaciones y baños",
+        "Bungalós y villas",
+        "Piscinas y zonas comunes",
+        "Restaurantes y spas",
+        "Experiencias y actividades"
+      ],
+      "agents_title": "Tus nuevos agentes autónomos de atención:",
+      "agents": [
+        {
+          "name": "Agente de Reservas 24/7",
+          "desc": "Automatiza la reserva cobrando al instante o gestionando la pre-reserva directamente desde la web o WhatsApp."
+        },
+        {
+          "name": "Agente de Preguntas Frecuentes",
+          "desc": "Responde de forma inmediata dudas de check-in, check-out, aparcamiento, mascotas y servicios del hotel."
+        },
+        {
+          "name": "Agente de Upselling activo",
+          "desc": "Ofrece mejoras de habitación, desayuno o packs de experiencias según la preferencia del cliente."
+        }
+      ],
+      "results_title": "Resultados que buscamos",
+      "results_items": [
+        {
+          "label": "Reservas directas",
+          "value": "+24%"
+        },
+        {
+          "label": "Comisiones a OTAs",
+          "value": "-18%"
+        },
+        {
+          "label": "Atención total",
+          "value": "100% 24/7"
+        }
+      ],
+      "roi_title": "Más Margen: Recuperación Activa de Reservas Directas",
+      "roi_subtitle": "¿Cuánto dinero paga cada año a Booking, Expedia y otros portales? Nuestro objetivo es ayudarle a recuperar una parte de estas reservas de forma directa.",
+      "roi_question_title": "LA GRAN REFLEXIÓN PARA CUALQUIER HOTEL O CAMPING",
+      "roi_question_text": "«Si Booking desapareciera mañana del mapa, ¿cuántas reservas de verdad seguiría recibiendo su establecimiento?»",
+      "roi_question_subtext": "La gran mayoría de los hoteles y campings dependen de entre un 40% y un 80% de las OTAs para captar sus reservas totales, cediendo un peaje de margen inestimable.",
+      "roi_positioning_title": "ESTRATEGIA DE NEGOCIO SKIRION",
+      "roi_positioning_text": "No vendemos tecnología compleja, tours 3D ni avatares decorativos. Nuestro objetivo es vital: ayudarle a reducir la dependencia de las OTAs (Booking, Expedia) y reconducir las visitas de su propia web en reservas directas, libres de comisiones.",
+      "roi_inputs_header": "Parámetros de su Establecimiento",
+      "roi_slider_rev": "Facturación anual estimada",
+      "roi_slider_share": "Reservas provenientes de OTAs (Booking, Expedia...)",
+      "roi_slider_share_low": "10% (Baja dependencia)",
+      "roi_slider_share_mid": "60% (Media sector)",
+      "roi_slider_share_high": "95% (Dependencia extrema)",
+      "roi_slider_comm": "Comisión media de OTAs",
+      "roi_tier_normal": "🎫 Booking Normal (15% - 18%)",
+      "roi_tier_premium": "⭐ Booking Premium / Genius (20% - 25%)",
+      "roi_tier_expedia": "💎 Expedia Premium (hasta 30%)",
+      "roi_slider_recapture": "Métrica de reservas recuperadas (SKIRION)",
+      "roi_slider_recapture_low": "1% (Conservador)",
+      "roi_slider_recapture_mid": "5% (Muy viable)",
+      "roi_slider_recapture_high": "20% (Éxito consolidado)",
+      "roi_ex_title": "EJEMPLO REAL SOBRE LA ESTANCIA DE UN HUÉSPED",
+      "roi_ex_night_price": "Habitación",
+      "roi_ex_night_val": "150 € / NOCHE",
+      "roi_ex_stay": "Estancia media",
+      "roi_ex_stay_val": "5 noches (750 € total)",
+      "roi_ex_ota_cost": "Comisión de la OTA",
+      "roi_ex_recieved": "El hotel solo recibe 622,50 € antes de gastos.",
+      "roi_ex_skirion_cost_val": "Con SKIRION, estos 127,50 € quedan íntegramente en su bolsillo.",
+      "roi_results_header": "PROYECCIÓN DE AHORRO DE MARGEN",
+      "roi_card_commission_leak": "Margen absorbido por las comisiones de OTAs",
+      "roi_card_commission_calc": "Calculado sobre el {{share}}% de su volumen total ({{volume}} €)",
+      "roi_card_recovered_revenue": "Facturación directa recuperada (Desviada)",
+      "roi_card_recovered_calc": "Representa desviar solo el {{rate}}% de reservas de OTAs al canal directo",
+      "roi_card_recovered_savings": "Ahorro neto de comisiones anual",
+      "roi_card_recovered_savings_desc": "Este ahorro neto de margen supera habitualmente x5 el retorno de inversión en el sistema recurrente de SKIRION.",
+      "roi_claim": "DIAGNÓSTICO COMERCIAL DIRECTO",
+      "roi_claim_desc": "* Los establecimientos hoteleros suelen cambiar radicalmente de estrategia tras ver estos datos. ¿Desea que el equipo de SKIRION le prepare un estudio de viabilidad a medida?",
+      "roi_cta": "Reclamar análisis de comisiones"
+    },
+    "real_estate": {
+      "name": "Inmobiliaria y Promotores",
+      "benefit": "Filtra compradores antes de la visita física",
+      "title": "Convierte visitas virtuales en compradores cualificados y ahorra horas de desplazamientos improductivos.",
+      "pain": "Tu equipo comercial pierde el 60% de su tiempo a la semana enseñando inmuebles a curiosos o compradores poco cualificados. Mientras tanto, los clientes interesados y solventes se enfrían por falta de respuestas rápidas y precisas.",
+      "promise": "Más leads cualificados y menos tiempo perdido. Convierte visitas virtuales en compradores reales.",
+      "showcase_title": "Lo que digitalizamos y mostramos de forma virtual:",
+      "showcase_items": [
+        "Pisos y viviendas",
+        "Chalets y fincas de lujo",
+        "Promociones de obra nueva",
+        "Locales comerciales y naves"
+      ],
+      "agents_title": "Tus agentes inmobiliarios digitales:",
+      "agents": [
+        {
+          "name": "Agente de Respuesta Completa",
+          "desc": "Responde al momento el precio, metros cuadrados, zona, características del inmueble y disponibilidad comercial."
+        },
+        {
+          "name": "Agente de Filtrado de Compradores",
+          "desc": "Pregunta por el presupuesto, capacidad de compra y plazos de decisión antes de agendar con el comercial."
+        },
+        {
+          "name": "Agenda Autónoma de Visites",
+          "desc": "Conectado al calendario de tus agentes, agenda visitas físicas solo con leads ya cualificados."
+        }
+      ],
+      "results_title": "Resultados que buscamos",
+      "results_items": [
+        {
+          "label": "Leads cualificados",
+          "value": "+35%"
+        },
+        {
+          "label": "Tiempo comercial ganado",
+          "value": "15h / semana"
+        },
+        {
+          "label": "Conversión a venta",
+          "value": "+12%"
+        }
+      ]
+    },
+    "industrial": {
+      "name": "Industria, Naves y Logística",
+      "benefit": "Muestra instalaciones complejas sin desplazamientos",
+      "title": "Digitaliza tu instalación y muéstrala a cualquier inversor o cliente del mundo sin que tenga que viajar.",
+      "pain": "Enseñar instalaciones grandes, altamente técnicas o lejanas es lento, incómodo y muy costoso. Además, las auditorías externas, las formaciones de seguridad personal y la visualización de maquinaria suelen retrasar tus flujos comerciales actuales.",
+      "promise": "Mejor presentación comercial para inversores, clientes, auditorías y mantenimiento general del negocio sin desplazamientos.",
+      "showcase_title": "El gemelo digital de tu espacio industrial:",
+      "showcase_items": [
+        "Fábricas y cadenas de montaje",
+        "Naves y almacenes logísticos",
+        "Zonas de carga y logística",
+        "Líneas de producción y maquinaria de precisión"
+      ],
+      "agents_title": "Inteligencia industrial aplicada:",
+      "agents": [
+        {
+          "name": "Gemelo Digital Interactivo",
+          "desc": "Navegación 3D precisa con puntos de información técnica integrados, planos, medidas reales y acceso seguro."
+        },
+        {
+          "name": "Agente de Documentación Técnica",
+          "desc": "Entrega manuales de mantenimiento, datos de operatividad o fichas PDF de forma instantánea a operarios autorizados."
+        },
+        {
+          "name": "Formación Onboarding Guiada",
+          "desc": "Prepara nuevos operarios guiándolos en el recorrido virtual de seguridad laboral antes de pisar la fábrica física."
+        }
+      ],
+      "results_title": "Resultados que buscamos",
+      "results_items": [
+        {
+          "label": "Viajes comerciales salvados",
+          "value": "-45%"
+        },
+        {
+          "label": "Rendimiento formación",
+          "value": "+30%"
+        },
+        {
+          "label": "Velocidad comercial",
+          "value": "2x más rápido"
+        }
+      ]
+    },
+    "clinics": {
+      "name": "Clínicas, Salud y Bienestar",
+      "benefit": "Genera confianza antes de la primera cita",
+      "title": "Haz que el paciente confíe plenamente en ti antes de entrar por la puerta de la consulta.",
+      "pain": "El paciente a menudo siente miedo, dudas técnicas o desconfianza antes de elegir clínica estética o dental. Cualquier consulta respondida tarde o con desinterés provoca que busquen una opción de la competencia.",
+      "promise": "Más confianza, más citas agendadas en el calendario y una experiencia excelente antes de la visita física del paciente.",
+      "showcase_title": "Tu clínica abierta y transparente:",
+      "showcase_items": [
+        "Consultas y despachos especializados",
+        "Quirófanos y salas de intervención estética",
+        "Salas de recuperación y confort",
+        "Recepción principal y salas de espera"
+      ],
+      "agents_title": "Tu recepción médica automatizada:",
+      "agents": [
+        {
+          "name": "Agente de Tratamientos y Dudas",
+          "desc": "Explica de forma empática de qué trata cada tratamiento, preparación previa y los cuidados post-intervención."
+        },
+        {
+          "name": "Agente de Cita Previa y Rescheduling",
+          "desc": "Agenda primeras visitas o revisiones, y re-programa citas de forma proactiva para maximizar la agenda de la clínica."
+        },
+        {
+          "name": "Recordatorios Anti-Ausencias",
+          "desc": "Envía alertas personalizadas vía WhatsApp para evitar los huecos libres y la pérdida de facturación sanitaria."
+        }
+      ],
+      "results_title": "Resultados que buscamos",
+      "results_items": [
+        {
+          "label": "Reducción de ausencias",
+          "value": "-60%"
+        },
+        {
+          "label": "Reservas de cita",
+          "value": "+28%"
+        },
+        {
+          "label": "Índice de confianza",
+          "value": "100% Máximo"
+        }
+      ]
+    },
+    "simulator": {
+      "embed_toggle_3d": "🎮 3D INTERACTIVO",
+      "embed_toggle_photo": "📷 FOTO REALISTA",
+      "preview_tour": "🔄 TOUR 3D INMERSIVO",
+      "telemetry_coords": "📍 COORDENADAS DEL GEMELO: [41°23'N, 2°10'E]",
+      "all_lines_operational": "TODAS LAS LÍNEAS OPERATIVAS",
+      "click_node_to_fetch": "Haz clic en los nodos de telemetría (L-A1, L-B3, W-L9) para ver los datos del gemelo digital.",
+      "no_data_fetched": "SIN DATOS CARGADOS",
+      "click_telemetry_prompt": "Por favor, haz clic en cualquier nodo de telemetría amarillo en la cuadrícula de la izquierda para inspeccionar las especificaciones.",
+      "downloading_manuals": "DESCARGANDO MANUALES",
+      "fetch_manuals_btn": "DESCARGAR MANUALES Y AUDITORÍAS",
+      "digital_twin_disclaimer": "* Los gemelos digitales reales de SKIRION incluyen anotaciones de Polycam enlazadas a bases de datos empresariales seguras.",
+      "try_patient_questions": "PREGUNTAS DE PACIENTES COMPROMETIDOS:",
+      "invisalign_q": "¿Cómo funciona la ortodoncia invisible Invisalign?",
+      "invisalign_a": "Invisalign utiliza alineadores transparentes extraíbles que se cambian cada semana. Es indoloro, prácticamente invisible y diseñado a medida digitalmente.",
+      "online_booking_q": "¿Puedo reservar cita virtual o presencial online?",
+      "online_booking_a": "¡Por supuesto! Nuestro agente de reservas te conecta en segundos con la recepción y reserva tu espacio en el calendario de forma inmediata.",
+      "financing_q": "¿Cuáles son las opciones de financiación?",
+      "financing_a": "Ofrecemos financiación flexible hasta en 36 meses sin intereses, gestionando tu solicitud en menos de 5 minutos durante tu primera consulta.",
+      "try_hotel_questions": "PREGUNTAS FRECUENTES DEL HUÉSPED:",
+      "parking_q": "¿Tenéis aparcamiento privado gratuito?",
+      "parking_a": "Sí. Disponemos de garaje privado cerrado con puntos de carga eléctrica premium gratuitos para clientes de venta directa.",
+      "pets_q": "¿Se admiten perros o mascotas en el resort?",
+      "pets_a": "Sí, somos totalmente Pet-Friendly. Cobramos solo un suplemento de 15€/noche y preparamos una camita de bienvenida especial.",
+      "direct_booking_q": "¿Cómo funciona la reserva directa activa?",
+      "direct_booking_a": "¡Muy fácil! Nuestro motor automatizado te guía por los planes de habitaciones y realiza la reserva inmediatamente sin comisiones de Booking.",
+      "buyer_budget": "Presupuesto del comprador:",
+      "timeline_prompt": "Plazo estimado de compra:",
+      "timeline_now": "Inmediato (1 mes)",
+      "timeline_later": "Explorando (3-6 meses)",
+      "score_high": "✅ Cualificado. Lead de alto valor. Derivando al calendario de visitas automáticamente.",
+      "score_low": "⚠️ Interés estándar. Enviando catálogo interactivo y seguimiento automático primero.",
+      "compatibility_score": "PUNTUACIÓN DE COMPATIBILIDAD",
+      "safety_protocol": "SEGURIDAD Y PROTOCOLO DE HIGIENE",
+      "standard_room_btn": "Habitación Estándar",
+      "suite_btn": "Suite Presidencial",
+      "spa_btn": "Experiencia Spa",
+      "lounge_btn": "Salón Elegante",
+      "kitchen_btn": "Cocina del Chef",
+      "deck_btn": "Terraza VIP",
+      "assembly_node": "Línea de Montaje 1",
+      "pkg_node": "Embalaje y Sellado",
+      "storage_node": "Puerto de Almacén",
+      "lobby_btn": "Recepción de Diseño",
+      "dental_btn": "Gabinete Dental",
+      "surgery_btn": "Quirófano Estéril",
+      "agent_compiling": "El agente está preparando el informe...",
+      "interactive_point": "PUNTO INTERACTIVO",
+      "specifications": "ESPECIFICACIONES DEL INMUEBLE",
+      "hotel_welcome": "¡Hola! Soy el agente de reservas del hotel. Explora el mapa 3D y pregúntame sobre precios, mascotas o servicios exclusivos.",
+      "clinic_welcome": "¡Bienvenido! Soy el agente de información médica. Consulta nuestro recinto sanitario 3D y solicita tu primera cita de diagnóstico online con total tranquilidad.",
+      "lobby_desc": "Sala de espera cálida, asientos ergonómicos, sistema integrado de filtrado de aire certificado.",
+      "dental_desc": "Unidad de tratamiento: conjunto Dent-Sirona Pro, ciclos automatizados de esterilización.",
+      "surgery_desc": "Quirófano de cirugía: tratamiento de aire estéril ISO-7, configuración quirúrgica LED avanzada.",
+      "suite_desc": "Exclusiva piscina privada de inmersión profunda rica en minerales.",
+      "standard_desc": "Cama doble premium con colchón inteligente y control de climatización adaptativo.",
+      "spa_desc": "Piscinas termales climatizadas ricas en minerales con microchorros terapéuticos.",
+      "lounge_desc": "Salón principal: 42m², suelos de mármol italiano, doble acristalamiento acústico.",
+      "kitchen_desc": "Cocina de diseño: 18m², encimeras de madera noble, placa Smeg personalizada de alta gama.",
+      "deck_desc": "Terraza superior: VIP deck de 55m², panorámicas de 180 grados, barbacoa modular integrada.",
+      "assembly_title": "NODO LÍNEA DE ENSAMBLAJE (L-A1)",
+      "assembly_eq": "· Equipamiento: Clasificador de robótica FANUC Sorter v2",
+      "assembly_status": "· Estado: Temperatura nominal de operación",
+      "assembly_eff": "· Calificación de eficiencia: 98.4%",
+      "assembly_cert": "· Caducidad de la certificación: Agosto 2026",
+      "pkg_title": "NODO LÍNEA DE EMBALAJE (L-B3)",
+      "pkg_eq": "· Equipamiento: Encartonadora de alta velocidad",
+      "pkg_status": "· Estado: Operativa continua en línea activa y nominal",
+      "pkg_eff": "· Calificación de eficiencia: 94.2%",
+      "pkg_manuals": "· Manuales de mantenimiento: ISO-14001, v3 directivas",
+      "storage_title": "NODO ALMACÉN LOGÍSTICO (W-L9)",
+      "storage_eq": "· Equipamiento: Carretilla elevadora autónoma (Path B)",
+      "storage_capacity": "· Capacidad: 412 palets en rotación",
+      "storage_safety": "· Índice de seguridad en planta: 100% Sin incidencias",
+      "storage_size": "· Superficie: Módulo de 4.500m²"
+    }
+  },
+  "footer": {
+    "phrase": "Inteligencia artificial para que tu negocio genere más oportunidades y trabaje más rápido.",
+    "menu": {
+      "solutions": {
+        "title": "Soluciones",
+        "link": "/servicios",
+        "items": [
+          {
+            "label": "Producciones en 3D",
+            "link": "/servicios"
+          },
+          {
+            "label": "Agentes de Texto",
+            "link": "/agentes-digitales"
+          },
+          {
+            "label": "Agentes de Voz",
+            "link": "/agentes-digitales"
+          },
+          {
+            "label": "Sistemas Autónomos",
+            "link": "/planes"
+          },
+          {
+            "label": "Creación de Contenido",
+            "link": "/recursos/masterclass-content-engine"
+          }
+        ]
+      },
+      "company": {
+        "title": "Skirion Studio",
+        "link": "/planes",
+        "items": [
+          {
+            "label": "Método",
+            "link": "/planes"
+          },
+          {
+            "label": "Diagnóstico",
+            "link": "/checklist"
+          },
+          {
+            "label": "Recursos",
+            "link": "/recursos"
+          }
+        ]
+      },
+      "contact": {
+        "title": "Contacto",
+        "link": "/contacto",
+        "items": [
+          {
+            "label": "Email",
+            "link": "mailto:info@skirionmedia.com"
+          },
+          {
+            "label": "WhatsApp",
+            "link": "https://wa.me/34644869615"
+          }
+        ]
+      }
+    },
+    "email": "info@skirionmedia.com",
+    "phone": "+34 644 86 96 15",
+    "careers": {
+      "badge": "Únete a nuestro equipo",
+      "title": "¿QUIERES TRABAJAR CON NOSOTROS?",
+      "desc": "Más allá de tu trayectoria previa, en Skrion valoramos el talento genuino, la pasión por aprender y una actitud proactiva. Si tienes ganas de crecer e innovar con nosotros, queremos conocerte.",
+      "button": "DÉJANOS TU CV",
+      "subject": "QUIERO TRABAJAR CON VOSOTROS"
+    }
+  },
+  "cv_modal": {
+    "badge": "Únete a nuestro equipo",
+    "title": "DÉJANOS TU CV",
+    "desc": "Adjunta tu currículum en PDF o Word. Se enviará directamente a nuestro correo info@skirionmedia.com con el asunto CV.",
+    "name_label": "Nombre completo *",
+    "name_placeholder": "Tu nombre y apellidos",
+    "email_label": "Correo electrónico *",
+    "email_placeholder": "tuemail@ejemplo.com",
+    "phone_label": "Teléfono (opcional)",
+    "file_label": "Archivo de CV (PDF, DOC, DOCX)",
+    "file_drag": "Haz clic para seleccionar tu CV o arrastra el archivo aquí",
+    "file_formats": "Formatos aceptados: PDF, Word (Máx 10MB)",
+    "message_label": "Mensaje o nota breve (opcional)",
+    "message_placeholder": "Cuéntanos brevemente sobre ti...",
+    "submit_button": "Enviar CV",
+    "submitting": "Enviando CV...",
+    "success_title": "¡CV Recibido con Éxito!",
+    "success_text": "Hemos enviado tu candidatura con el asunto CV directamente a nuestro equipo en info@skirionmedia.com.",
+    "success_subtext": "Si tu perfil encaja con las vacantes actuales o futuras, nos pondremos en contacto contigo lo antes posible.",
+    "close_button": "Cerrar",
+    "direct_email_hint": "O si prefieres enviar directamente desde tu email:",
+    "file_too_large": "El archivo es demasiado grande. El límite es 10MB.",
+    "required_fields": "Por favor rellena tu nombre y correo electrónico.",
+    "error_submit": "Ocurrió un error al enviar el formulario. También puedes enviar tu CV directamente a info@skirionmedia.com"
+  }
+}

@@ -1,0 +1,1790 @@
+{
+  "launch": {
+    "banner_title": "Obertura de SKIRION",
+    "banner_text": "Estem seleccionant les empreses que implementaran els nostres sistemes. Cada projecte inclou una activació i un seguiment personalitzat, per això les implementacions es realitzaran de manera progressiva.",
+    "banner_button": "Reserva la teva plaça",
+    "phase_title": "Primera fase d'implementació",
+    "phase_text": "Estem seleccionant les empreses amb les quals treballarem. Si reserves ara la teva plaça, formaràs part del grup d'implementacions de SKIRION.",
+    "calendar_heading_pre": "Reserva la teva",
+    "calendar_heading_highlight": "Plaça"
+  },
+  "common": {
+    "read_more": "Llegir cas complet",
+    "view_demo": "Veure Demo",
+    "results_real": "Resultats Reals",
+    "operating_systems": "Sistemes de Treball",
+    "knowledge_base": "Ajuda i Guies",
+    "back": "Tornar",
+    "error_generic": "Error en processar la sol·licitud. Si us plau, intenta-ho de nou més tard.",
+    "error_subscription": "Error en processar la subscripció.",
+    "loading": {
+      "click_start": "Clic per començar amb so",
+      "skip": "Saltar Intro"
+    }
+  },
+  "nav": {
+    "home": "Inici",
+    "services": "QUÈ FEM?",
+    "resources": "RECURSOS",
+    "contact": "CONTACTE",
+    "agents": "SECTORS",
+    "plans": "COM HO FEM?",
+    "diagnostic": "DIAGNÒSTIC"
+  },
+  "agents_page": {
+    "nav": "Agents IA",
+    "hero": {
+      "title": "RECUPERA EL MARGE QUE ELS TEUS PROCESSOS ESTAN 'ROBANT' AL TEU NEGOCI",
+      "subtitle": "Necessites un sistema. Responem, filtrem i venem per tu 24/7 mentre tu recuperes el control.",
+      "cta": "Atura la pèrdua de beneficis ara"
+    },
+    "problem": {
+      "title": "Cada consulta sense resposta és una oportunitat que s'escapa.",
+      "text": "El cervell del teu client decideix en 5 segons.\n\nCada segon d'espera redueix el seu desig de compra; busca una resposta immediata.\n\nÉs una qüestió d'optimització de sistemes.\nÉs un encert de sistema.\n\nI cada dia d'automatització és un dia que guanyes marge de benefici.",
+      "card_text": "El silenci és el verí més letal per a la facturació de la teva empresa.",
+      "cta": "Atura la pèrdua ara",
+      "reflection": "SISTEMATITZA O RECORDA ELS TEUS CLIENTS PERDUTS",
+      "stats": {
+        "decision": {
+          "value": "5 SEG",
+          "label": "TEMPS DE DECISIÓ"
+        },
+        "response": {
+          "value": "24/7",
+          "label": "RESPOSTA TOTAL"
+        },
+        "margin": {
+          "value": "0",
+          "label": "Marge per pèrdua d'atenció"
+        }
+      }
+    },
+    "definition": {
+      "title": "Un agent digital és molt més que un xat simpàtic.\nÉs un sistema de treball.",
+      "text": "Un agent digital és una eina que:\n• Respon les preguntes de sempre\n• Identifica i qualifica els clients veritables\n• Reserva visites o trucades al teu calendari\n• Envia la informació que et demanen al moment\n• Manté el contacte i fa seguiment automàtic\n• Reconnecta amb persones que havien perdut el contacte\n\nTot això mentre tu et dediques al que és important.\n\n24 hores al dia."
+    },
+    "types": {
+      "title": "Com et podem ajudar",
+      "ideal_for_label": "Ideal per a:",
+      "how_it_works_label": "Com funciona:",
+      "live_demo": "Exemple en viu",
+      "items": [
+        {
+          "id": "text",
+          "title": "Agent de text",
+          "ideal_for": "Web, WhatsApp i xarxes socials",
+          "how_it_works": "El client pregunta i l'agent respon clarament. Si veu que vol comprar, li demana les dades. Si tot encaixa, li reserva una cita directament.",
+          "result": "Menys feina per a tu i respostes al moment."
+        },
+        {
+          "id": "voice",
+          "title": "Agent de veu",
+          "ideal_for": "Trucades, confirmar cites i recordatoris",
+          "how_it_works": "Respon trucades, resol dubtes bàsics, reserva visites i confirma que el client vindrà abans que tu hagis de despenjar el telèfon.",
+          "result": "Atenció total a totes les teves trucades."
+        },
+        {
+          "id": "followup",
+          "title": "Agent de seguiment",
+          "ideal_for": "Optimització de pressupostos i seguiment de contactes",
+          "how_it_works": "Recorda als clients que tenen un pressupost pendent, reprèn el contacte amb clients potencials i detecta qui encara està interessat.",
+          "result": "Més vendes sense haver de buscar més clients."
+        },
+        {
+          "id": "avatar",
+          "title": "AVATAR",
+          "ideal_for": "Explicar serveis i mostrar productes",
+          "how_it_works": "Una persona digital que parla i explica el que fas, donant més confiança i una imatge més professional.",
+          "result": "Confiança i bona imatge."
+        }
+      ]
+    },
+    "sectors": {
+      "badge": "🎯 SECTORS D'IMPACTE",
+      "title": "A qui ajudem",
+      "items": [
+        {
+          "title": "Clíniques Estètiques",
+          "points": [
+            "Reserva de cites 24/7",
+            "Resposta a dubtes de tractaments",
+            "Seguiment post-tractament",
+            "Promocions personalitzades"
+          ],
+          "result": "Més conversions de consultes a cites."
+        },
+        {
+          "title": "Dentistes",
+          "points": [
+            "Recordatoris de cites",
+            "Confirmació automàtica",
+            "Gestió de llista d'espera",
+            "Informació de preus"
+          ],
+          "result": "Reducció dràstica d'absències."
+        },
+        {
+          "title": "Immobiliàries",
+          "points": [
+            "Qualificació de leads",
+            "Agenda de visites",
+            "Enviament de fitxes tècniques",
+            "Captació de propietaris"
+          ],
+          "result": "Visites més productives."
+        },
+        {
+          "title": "Formació",
+          "points": [
+            "Informació de cursos",
+            "Inscripcions automàtiques",
+            "Resolució de dubtes FAQ",
+            "Seguiment d'interessats"
+          ],
+          "result": "Augment de matriculacions."
+        },
+        {
+          "title": "Gimnasos",
+          "points": [
+            "Reserva de classes",
+            "Gestió de quotes",
+            "Recuperació de baixes",
+            "Atenció a nous socis"
+          ],
+          "result": "Millor retenció de socis."
+        },
+        {
+          "title": "Clíniques de Salut",
+          "points": [
+            "Triatge de pacients",
+            "Gestió d'agendes mèdiques",
+            "Entrega de resultats",
+            "Recordatoris de medicació"
+          ],
+          "result": "Eficiència operativa total."
+        },
+        {
+          "title": "Reformes",
+          "points": [
+            "Recollida de requeriments",
+            "Pressupostos preliminars",
+            "Seguiment d'obres",
+            "Gestió de proveïdors"
+          ],
+          "result": "Més pressupostos tancats."
+        },
+        {
+          "title": "Assegurances",
+          "points": [
+            "Cotització de pòlisses",
+            "Gestió de sinistres",
+            "Renovacions automàtiques",
+            "Atenció al client"
+          ],
+          "result": "Atenció 24/7 sense costos fixos."
+        },
+        {
+          "title": "Automoció",
+          "points": [
+            "Cita prèvia taller",
+            "Stock de vehicles",
+            "Valoració de cotxes",
+            "Seguiment de revisions"
+          ],
+          "result": "Taller sempre ple i organitzat."
+        },
+        {
+          "title": "E-commerce",
+          "points": [
+            "Suport en la compra",
+            "Estat de les comandes",
+            "Gestió de devolucions",
+            "Cross-selling intel·ligent"
+          ],
+          "result": "Vendes en pilot automàtic."
+        }
+      ]
+    },
+    "process": {
+      "title": "Instal·lem sistema.",
+      "step_label": "Pas",
+      "steps": [
+        {
+          "title": "Diagnòstic",
+          "desc": "Analitzem on es perden oportunitats."
+        },
+        {
+          "title": "Disseny",
+          "desc": "Definim què ha de fer l’agent exactament."
+        },
+        {
+          "title": "Implementació",
+          "desc": "L’activem a la web, telèfon o sistema intern."
+        },
+        {
+          "title": "Ajust",
+          "desc": "Mesurem resultats i ajustem missatges."
+        }
+      ],
+      "footer": "Tot això en 30 dies."
+    },
+    "real_results": {
+      "title": "Resultats de veritat",
+      "intro": "Quan poses un agent digital, el teu negoci canvia:",
+      "stats": {
+        "response_time": "Temps de resposta",
+        "conversion": "Vendes i cites",
+        "availability": "Sempre obert",
+        "human_errors": "Precisió total"
+      },
+      "items": [
+        "Resposta en menys d’1 minut",
+        "Més cites reservades",
+        "Més seguiment automàtic",
+        "Optimitza el teu temps",
+        "Més control de les teves vendes"
+      ],
+      "footer": "Posem ordre per augmentar beneficis."
+    },
+    "final_cta": {
+      "title": "Si vols saber si el teu negoci necessita un agent digital, comencem per aquí:",
+      "button1": "Fer diagnòstic gratuït (2 minuts)",
+      "direct_title": "O si prefereixes anar directe:",
+      "button2": "Reserva la teva plaça"
+    }
+  },
+  "hero": {
+    "badge": "💎 SOLUCIONS D'ALTA RENDIBILITAT",
+    "title": "Quant estalviaries amb cada minut de resposta automatitzat?",
+    "subtitle": "Instal·lem sistemes d'enginyeria de l'atenció que eliminen el caos operatiu i converteixen cada consulta en facturació real.",
+    "hooks": [
+      "Allibera el 80% del teu temps de gestió",
+      "Escala amb la mateixa estructura de personal",
+      "Assegura la precisió total a la teva cadena de valor",
+      "Sistemes basats estrictament en dades",
+      "Control total i revisió constant del teu sistema"
+    ],
+    "cta": "Atura la pèrdua de marge ara",
+    "cta_secondary": "Veure informe d'eficiència"
+  },
+  "problem": {
+    "badge": "L'atenció lenta és la via més ràpida per perdre un client per sempre.",
+    "title": "Atén els teus clients al moment i assegura cada oportunitat de venda.",
+    "subtitle_blue": "La inacció és el cost més alt del teu negoci.",
+    "subtitle_secondary": "Sistemes de 'Zero Fricció' per a un creixement inevitable.",
+    "missed_call": "OPORTUNITAT PERDUDA",
+    "potential_customer": "Capital en risc esperant...",
+    "items": [
+      "Respostes de WhatsApp que arriben massa tard",
+      "Leads oblidats en formularis que ningú llegeix",
+      "Visites potencialment molt rendibles per confirmar",
+      "La teva base de dades s'està 'refredant' cada minut",
+      "Perda de credibilitat per falta de professionalitat tecnològica"
+    ],
+    "footer": "Assegura que el teu desig de compra es converteixi en capital real."
+  },
+  "consequence": {
+    "badge": "⚠️ ALERTA DE MARGE",
+    "title": "La velocitat de resposta és la que et fa guanyar diners.",
+    "subtitle": "Cada segon de retard augmenta la desconfiança dels teus SENYORS CLIENTS.",
+    "footer": "Prendre el control total de la teva rendibilitat és vital."
+  },
+  "solution": {
+    "badge": "🧠 L'ACTIU DIGITAL",
+    "title": "Deixa de perdre el temps",
+    "items": [
+      {
+        "title": "Cervell Digital 24/7",
+        "desc": "Sempre actiu, precís i amb memòria total. Respostes de qualitat tècnica superior en segons."
+      },
+      {
+        "title": "Filtre de Qualitat Lead",
+        "desc": "Deixa de perdre temps amb curiosos. El sistema només et porta a qui té els diners llistos."
+      },
+      {
+        "title": "Agenda en Pilot Automàtic",
+        "desc": "El teu calendari s'omple mentre descanses. Confirmació immediata que tanca el compromís."
+      },
+      {
+        "title": "Ecosistema Connectat",
+        "desc": "Arquitectura fluida que integra tota la teva cadena d'atenció en un sol flux de dades."
+      }
+    ]
+  },
+  "real_cases": {
+    "badge": "👥 ELS NOSTRES CLIENTS",
+    "title": "El que abans era caos, ara és rendibilitat.",
+    "items": [
+      {
+        "title": "Clíniques Estètiques",
+        "desc": "Cites confirmades i resposta a dubtes 24/7."
+      },
+      {
+        "title": "Dentistes",
+        "desc": "Agenda sempre plena i recordatoris automàtics."
+      },
+      {
+        "title": "Immobiliàries",
+        "desc": "Filtre de clients i visites agendades sense esforç."
+      },
+      {
+        "title": "Formació",
+        "desc": "Inscripcions i atenció a l'alumne automatitzada."
+      },
+      {
+        "title": "Gimnasos",
+        "desc": "Gestió de socis i reserves de classes en pilot automàtic."
+      },
+      {
+        "title": "Clíniques de Salut",
+        "desc": "Triatge i organització d'agendes mèdiques eficient."
+      },
+      {
+        "title": "Reformes",
+        "desc": "Captació de dades i seguiment de pressupostos."
+      },
+      {
+        "title": "Assegurances",
+        "desc": "Cotitzacions i atenció immediata als assegurats."
+      },
+      {
+        "title": "Automoció",
+        "desc": "Cites de taller i gestió de stock de vehicles."
+      },
+      {
+        "title": "E-commerce",
+        "desc": "Vendes recuperades i suport al client instantani."
+      }
+    ]
+  },
+  "profit": {
+    "badge": "💰 LLIBERTAT COMERCIAL",
+    "title": "Recupera la teva llibertat mentre el teu negoci treballa per a tu.",
+    "text": "Eliminem el sostre operatiu de la teva empresa per maximitzar el benefici net.",
+    "stats": [
+      {
+        "label": "d'ingressos potencials",
+        "value": "+30%"
+      },
+      {
+        "label": "Alliberament de càrrega mental",
+        "value": "+50%"
+      },
+      {
+        "label": "Seguretat operativa total",
+        "value": "100%"
+      }
+    ]
+  },
+  "offers": {
+    "badge": "⛓️ SISTEMES RIGOROSOS",
+    "title": "Arquitectures de rendibilitat a mida.",
+    "subtitle": "Instal·lem un sistema que t'assegura el teu creixement i control.",
+    "items": [
+      {
+        "title": "Protocol de Vendes WhatsApp",
+        "desc": "Converteix cada conversa en una transacció guiada 24/7."
+      },
+      {
+        "title": "Protocol d'Agenda Infallible",
+        "desc": "Cites assegurades. Sincronia perfecta entre desig i disponibilitat."
+      },
+      {
+        "title": "Protocol de Suport d'Elit",
+        "desc": "Resol incidències abans que es converteixin en pèrdues de clients."
+      },
+      {
+        "title": "Protocol de Qualificació Laser",
+        "desc": "Detecta automàticament els clients amb alta intenció de compra."
+      }
+    ]
+  },
+  "results_section": {
+    "title": "El Teu Nou Escenari de Control",
+    "example": {
+      "before_label": "CAOS OPERATIU",
+      "after_label": "ORDRE SKIRION",
+      "impact_label": "Benefici Net Recuperat",
+      "agent_active": "Sistema Blindat",
+      "before": "Abans: Gran part de la jornada es consumeix en tasques poc productives.",
+      "after": "Després: El 90% d'aquestes tasques s'executen soles i sense errors.",
+      "impact": "Impacte: Expansió del marge del +18% immediata."
+    }
+  },
+  "lead_magnet": {
+    "title": "Checklist d'Audit: 25 punts on la teva empresa està 'sagnant' marge ara mateix.",
+    "subtitle": "Descobreix les oportunitats ocultes de millora que han passat desapercebudes i com potenciar-les amb IA.",
+    "cta": "Aturar la fuita ara"
+  },
+  "final_cta": {
+    "title": "Dormiries millor sabent que cada client interessat rep resposta en segons?",
+    "subtitle": "Sistemes que converteixen el descans del propietari en creixement del negoci.",
+    "cta": "Activar el meu sistema"
+  },
+  "free_web": {
+    "title": "Creem la teva web. Gratis.",
+    "subtitle": "El nostre compromís és ajudar-te a generar més ingressos amb solucions efectives."
+  },
+  "email_capture": {
+    "title": "Descobreix quant podria créixer el teu negoci.",
+    "subtitle": "Deixa'ns el teu email i t'enviarem una anàlisi amb el potencial d'ingressos que podries generar automatitzant la teva empresa.",
+    "button": "Rebre anàlisi",
+    "success_message": "Gràcies! Hem rebut la teva sol·licitud correctament. Rebràs el teu ANÀLISI GRATUÏT molt aviat."
+  },
+  "security": {
+    "title": "Els sistemes digitals ben dissenyats converteixen complexitat en simplicitat.",
+    "subtitle": "A SKIRION.MEDIA activem:",
+    "points": [
+      "Agents digitals que responen i qualifiquen",
+      "Automatització que fa seguiment",
+      "Control real de processos comercials",
+      "Informes clars que t’expliquen què està passant"
+    ],
+    "timeline": "Tot en 30 dies.",
+    "tags": [
+      "Ordre total",
+      "Eficiència màxima",
+      "Llenguatge clar"
+    ],
+    "action_title": "Pla d'Acció Immediat",
+    "cta": "Vull el pla en 7 dies"
+  },
+  "sectors": {
+    "badge": "Punts de Dolor per Sector",
+    "items": {
+      "real_estate": {
+        "title": "Immobiliàries",
+        "text": "Si un comprador escriu i la resposta es retarda, probablement ja està parlant amb una altra immobiliària."
+      },
+      "clinics": {
+        "title": "Clíniques",
+        "text": "Cada visita pendent de confirmació afecta directament la facturació."
+      },
+      "ecommerce": {
+        "title": "E-commerce",
+        "text": "Si el client dubta i li falta guia, buscarà una altra opció."
+      },
+      "industrial": {
+        "title": "Industrial",
+        "text": "Els pressupostos sense seguiment són marge que desapareix."
+      }
+    }
+  },
+  "ideal_state": {
+    "badge": "L'Estat Ideal",
+    "items": {
+      "real_estate": {
+        "title": "Immobiliàries",
+        "points": [
+          "Més visites qualificades",
+          "Menys temps perdut",
+          "Més control"
+        ]
+      },
+      "clinics": {
+        "title": "Clíniques",
+        "points": [
+          "Agenda ordenada",
+          "Menys absències",
+          "Més tranquil·litat"
+        ]
+      },
+      "ecommerce": {
+        "title": "E-commerce",
+        "points": [
+          "Més conversió",
+          "Recuperació de vendes",
+          "Atenció immediata"
+        ]
+      },
+      "industrial": {
+        "title": "Industrial",
+        "points": [
+          "Seguiment automàtic",
+          "Ordre comercial",
+          "Marge protegit"
+        ]
+      }
+    }
+  },
+  "experience": {
+    "title": "A SKIRION activem sistemes digitals que aporten claredat i estructura al teu negoci.",
+    "subtitle": "Tecnologia pensada perquè el teu negoci funcioni amb més serenitat i previsió.",
+    "items": [
+      {
+        "id": "1",
+        "title": "Menys tensió interna"
+      },
+      {
+        "id": "2",
+        "title": "Més control real"
+      },
+      {
+        "id": "3",
+        "title": "Decisions basades en dades"
+      }
+    ],
+    "control": "Vendre més i, sobretot, sentir que el negoci està sota control.",
+    "cta": "Vull començar amb un diagnòstic gratuït"
+  },
+  "alert": {
+    "title": "L'automatització i el seguiment real són la base de la teva previsió.",
+    "uncertainty": "I sense previsió, només hi ha incertesa."
+  },
+  "final_visualization": {
+    "title": "Imagina un negoci que avança amb ordre, velocitat i control.",
+    "points": [
+      "Quants possibles clients han entrat",
+      "Quants s’han convertit",
+      "On s’han perdut",
+      "Què s’ha millorat"
+    ],
+    "direction": "Quan el sistema és clar, la direcció del negoci es torna més segura.",
+    "business": "Això és empresa."
+  },
+  "cta_final": {
+    "badge": "Seguretat i Control",
+    "title": "Comencem amb un pas simple.",
+    "footer": "SKIRION.MEDIA © 2024 · Protocol d'Eficiència Garantit"
+  },
+  "services": {
+    "title": "Què fem?",
+    "subtitle": "Servei d'agència digital especialitzat en agents digitals, serveis d'automatització amb IA i disseny web d'alta conversió.",
+    "items": {
+      "productions3d": {
+        "title": "Produccions en 3D",
+        "desc": "Digitalitzem els teus productes i espais amb tecnologia 3D de darrera generació. Creem showrooms digitals, recorreguts virtuals (Matterport) i bessons digitals interactius perquè els teus clients puguin explorar i comprar 24/7 de forma 100% immersiva.",
+        "features": [
+          "Recorreguts virtuals Matterport d'alta precisió",
+          "Digitalització i modelatge 3D de productes",
+          "Showroom interactius 24/7 obert a tot el món",
+          "Integració web i mòbil d'alta conversió"
+        ],
+        "cta": "Vull digitalitzar el meu espai en 3D"
+      },
+      "web": {
+        "title": "Disseny de pàgines web",
+        "desc": "La teva web hauria de generar clients cada dia. A SKIRION creem webs pensades per captar, filtrar i convertir clients. Fem que la IA entengui el teu negoci i el recomani.",
+        "features": [
+          "Auditoria GEO / AI Visibility",
+          "Reescriptura de pàgines perquè les IA les entenguin",
+          "Estructura de preguntes i respostes",
+          "Dades estructurades Schema",
+          "Pàgines per vertical",
+          "Fitxes d’autoritat",
+          "FAQ intel·ligents",
+          "Comparatives i casos d’ús",
+          "Llms.txt",
+          "Seguiment de mencions en IA"
+        ],
+        "cta": "Vull veure com seria la meva web"
+      },
+      "geo": {
+        "title": "GEO / AI Visibility",
+        "desc": "Optimitzem la teva semàntica, dades estructurades Schema i referències Markdown (llms.txt) perquè les IA generatives com ChatGPT, Claude o Perplexity et recomanin com a referent.",
+        "features": [
+          "Auditoria GEO i anàlisi de mencions en IA",
+          "Optimització semàntica per a motors de cerca generatius",
+          "Implementació de l'estàndard llms.txt i llms-full.txt",
+          "Estructuració de dades Schema.org avançades",
+          "FAQ de precisió i comparatives adaptades per a LLMs"
+        ],
+        "cta": "Optimitzar el meu negoci per a IA"
+      },
+      "audit": {
+        "title": "Auditoria d'Eficiència",
+        "desc": "Detectem fugues de diners i temps en els teus processos actuals per aplicar solucions immediates.",
+        "features": [
+          "Mapatge de processos",
+          "Detecció de colls d'ampolla",
+          "Càlcul de ROI d'automatització",
+          "Pla d'acció pas a pas"
+        ],
+        "cta": "Activar el meu pla"
+      },
+      "automation": {
+        "title": "Serveis d'Automatització",
+        "desc": "Construïm serveis d'automatització que treballen per tu 24/7, integrant CRM, bases de dades i fluxos de vendes per eliminar tasques manuals repetitives.",
+        "features": [
+          "Integració bidireccional CRM i WhatsApp",
+          "Atenció al client i agents 24/7",
+          "Gestió documental intel·ligent",
+          "Workflows automàtics de venda"
+        ],
+        "cta": "Activar el meu pla"
+      },
+      "content": {
+        "title": "Creació de contingut",
+        "desc": "Escalem la teva presència digital amb producció massiva de contingut d'alt impacte.",
+        "features": [
+          "Guionització amb IA",
+          "Edició accelerada",
+          "Distribució multicanal",
+          "Anàlisi de rendiment"
+        ],
+        "cta": "Activar el meu pla"
+      }
+    },
+    "cta": "Activar el meu pla",
+    "contact_price": "Contacta'ns per a un pressupost personalitzat",
+    "cta_email": "Enviar Email",
+    "cta_whatsapp": "WhatsApp"
+  },
+  "resources": {
+    "title": "Recursos",
+    "subtitle": "Eines, guies i coneixement per ajudar-te a escalar el teu negoci.",
+    "download": "FES LA TEVA AUDITORIA",
+    "newsletter": {
+      "title": "Vols contingut exclusiu cada setmana?",
+      "subtitle": "Uneix-te a la nostra newsletter d'enginyeria de l'atenció i rep les últimes estratègies directament al teu correu.",
+      "placeholder": "El teu correu electrònic",
+      "button": "Subscriure'm"
+    },
+    "items": [
+      {
+        "id": "guide",
+        "title": "Guia d'Automatització",
+        "type": "PDF / Guia",
+        "desc": "10 automatitzacions que pots aplicar avui mateix per estalviar 10h a la setmana.",
+        "cta": "DESCARREGAR GRATIS"
+      },
+      {
+        "id": "checklist",
+        "title": "Checklist Auditoria IA",
+        "type": "Checklist",
+        "desc": "Està la teva empresa preparada per a la IA? Descobreix-ho amb aquest checklist de 20 punts.",
+        "cta": "COMPROVA GRATIS"
+      },
+      {
+        "id": "video",
+        "title": "Masterclass: Content Engine",
+        "type": "Vídeo",
+        "desc": "Com produir 50 peces de contingut d'alt impacte en menys de 4 hores.",
+        "cta": "SOL·LICITA LA PRIMERA CLASSE GRATIS"
+      }
+    ]
+  },
+  "automation_guide": {
+    "title": "Guia d'Automatització",
+    "subtitle": "10 accions concretes que pots aplicar avui mateix per estalviar 10h a la setmana i millorar el teu negoci.",
+    "subtitle_pdf": "10 Passos per Escalar",
+    "footer_pdf": "SKIRION.MEDIA - Enginyeria de l'Atenció",
+    "download_pdf": "Descarregar Guia en PDF",
+    "steps": [
+      {
+        "title": "Captura de Leads",
+        "desc": "Automatitza la primera resposta. El 50% de les vendes se les porta qui respon primer."
+      },
+      {
+        "title": "Qualificació amb IA",
+        "desc": "Filtra els interessats automàticament. Centra't en els clients amb capacitat de compra."
+      },
+      {
+        "title": "Agenda Intel·ligent",
+        "desc": "Connecta el teu calendari. Facilita que els clients reservin directament."
+      },
+      {
+        "title": "Seguiment de Pressupostos",
+        "desc": "Recordatoris automàtics. Recupera el 20% de les vendes que es perden per oblit."
+      },
+      {
+        "title": "Sincronització CRM",
+        "desc": "Tota la informació en un sol lloc, amb entrada de dades automatitzada."
+      },
+      {
+        "title": "Respostes FAQ",
+        "desc": "IA que respon els dubtes de sempre a WhatsApp i Web 24/7."
+      },
+      {
+        "title": "Generació de Documents",
+        "desc": "Crea contractes i factures automàticament en tancar una venda."
+      },
+      {
+        "title": "Alertes Internes",
+        "desc": "Notifica al teu equip al moment quan entra un client d'alt valor."
+      },
+      {
+        "title": "Fidelització Post-Venda",
+        "desc": "Demana ressenyes i feedback automàticament després de cada servei."
+      },
+      {
+        "title": "Informes de Rendiment",
+        "desc": "Rep un resum setmanal de les teves vendes i estalvi de temps de forma automàtica."
+      }
+    ]
+  },
+  "footer": {
+    "phrase": "Intel·ligència artificial perquè el teu negoci generi més oportunitats i treballi més ràpid.",
+    "menu": {
+      "solutions": {
+        "title": "Solucions",
+        "link": "/serveis",
+        "items": [
+          {
+            "label": "Produccions en 3D",
+            "link": "/serveis"
+          },
+          {
+            "label": "Agents de Text",
+            "link": "/agents-digitals"
+          },
+          {
+            "label": "Agents de Veu",
+            "link": "/agents-digitals"
+          },
+          {
+            "label": "Sistemes Autònoms",
+            "link": "/plans"
+          },
+          {
+            "label": "Creació de Contingut",
+            "link": "/recursos/masterclass-content-engine"
+          }
+        ]
+      },
+      "company": {
+        "title": "Skirion Studio",
+        "link": "/plans",
+        "items": [
+          {
+            "label": "Mètode",
+            "link": "/plans"
+          },
+          {
+            "label": "Diagnòstic",
+            "link": "/checklist"
+          },
+          {
+            "label": "Recursos",
+            "link": "/recursos"
+          }
+        ]
+      },
+      "contact": {
+        "title": "Contacte",
+        "link": "/contacte",
+        "items": [
+          {
+            "label": "Email",
+            "link": "mailto:info@skirionmedia.com"
+          },
+          {
+            "label": "WhatsApp",
+            "link": "https://wa.me/34644869615"
+          }
+        ]
+      }
+    },
+    "email": "info@skirionmedia.com",
+    "phone": "+34 644 86 96 15",
+    "careers": {
+      "badge": "Úneix-te al nostre equip",
+      "title": "VOLS TREBALLAR AMB NOSALTRES?",
+      "desc": "Més enllà de la teva trajectòria prèvia, a Skrion valorem el talent genuí, la passió per aprendre i una actitud proactiva. Si tens ganes de créixer i innovar amb nosaltres, volem conèixer-te.",
+      "button": "DEIXA'NS EL TEU CV",
+      "subject": "VULL TREBALLAR AMB VOSALTRES"
+    }
+  },
+  "contact": {
+    "title": "Contacte",
+    "subtitle": "Escriu-nos i descobreix com pot créixer el teu negoci amb SKIRION.MEDIA",
+    "intro_title": "Comencem el canvi",
+    "intro_text": "Si busques optimitzar costos, escalar la teva producció de contingut o simplement entendre com la IA pot ajudar-te, som aquí.",
+    "calendar_title": "Reserva la teva plaça",
+    "calendar_subtitle": "Deixa'ns el teu contacte i t'escriurem el més aviat possible amb una proposta de data i hora",
+    "whatsapp_title": "WhatsApp Directe",
+    "whatsapp_subtitle": "Resposta ràpida per a dubtes concrets",
+    "whatsapp_message": "Hola, estic interessat a millorar la meva empresa amb SKIRION.",
+    "email_subtitle": "Per a propostes detallades",
+    "form_title": "Envia'ns un missatge",
+    "form": {
+      "name": "Nom",
+      "name_placeholder": "El teu nom",
+      "company": "Empresa",
+      "company_placeholder": "Nom de l'empresa",
+      "email": "Correu Electrònic",
+      "email_placeholder": "hola@empresa.com",
+      "phone_label": "WhatsApp / Telèfon",
+      "phone_placeholder": "+34 600 000 000",
+      "message": "Missatge",
+      "message_placeholder": "En què et podem ajudar?",
+      "send": "Enviar Missatge"
+    },
+    "success_title": "Gràcies per contactar amb Skirion.Media",
+    "success_subtitle": "Els nostres agents digitals et respondran immediatament.",
+    "success_button": "Entès",
+    "protocol_connection": "Protocol de Connexió",
+    "faq_badge": "PREGUNTES FREQÜENTS",
+    "faq_title": "Dubtes habituals abans de començar",
+    "faq_subtitle": "Tot el que necessites saber sobre la implementació dels agents digitals i solucions d'enginyeria de SKIRION.",
+    "faq_items": [
+      {
+        "question": "Quin agent digital és el més recomanat per a una clínica dental o centre mèdic?",
+        "answer": "Per a clíniques dentals i centres mèdics, la combinació més potent és l'Agent de Veu 24/7 per a Cita Prèvia i Urgències juntament amb l'Agent de WhatsApp/Web. Aquests agents atenen trucades instantàniament quan recepció està ocupada o fora d'horari, trien el motiu de consulta (revisió, dolor, ortodòncia o estètica), informen de tractaments, agenden directament al programari mèdic i envien recordatoris automàtics reduint l'absentisme de pacients fins a un 70%."
+      },
+      {
+        "question": "Quant de temps es triga a implementar i activar els agents a la meva empresa?",
+        "answer": "El desplegament estàndard dura entre 7 i 14 dies laborables. Durant la primera setmana auditem el teu flux d'atenció i entrenem els agents amb el teu to de marca, catàleg i preguntes freqüents. A continuació realitzem la integració tècnica amb la teva telefonia, CRM o calendari i fem proves exhaustives de calibratge abans de la posada en marxa definitiva."
+      },
+      {
+        "question": "Com s'integren els agents amb el nostre programari, telefonia o CRM actuals?",
+        "answer": "Els nostres agents es connecten de forma nativa o via API/webhooks amb les teves eines habituals (WhatsApp Business, Google Calendar, Outlook, HubSpot, Salesforce, Zoho, Holded, Gesden, Cloudbeds, etc.) i centrals telefòniques mitjançant desviament intel·ligent. No cal canviar de programari ni alterar la vostra operativa diària."
+      },
+      {
+        "question": "Quina diferència hi ha entre un chatbot tradicional i un Agent Digital de SKIRION?",
+        "answer": "Els chatbots clàssics responen amb menús tancats i botons rígids que sovint frustren l'usuari. Els Agents Digitals de SKIRION utilitzen IA generativa i veu neuronal d'última generació: comprenen el llenguatge natural, mantenen converses fluides, gestionen objeccions i executen accions reals en temps real com consultar disponibilitat d'agenda, comprovar dades o registrar leads directament al CRM."
+      },
+      {
+        "question": "Com mesurem el retorn de la inversió (ROI) i l'impacte dels agents?",
+        "answer": "Disposes de mètriques clares i transparents des del primer dia: temps mitjà de resposta (reduït a menys de 5 segons), percentatge de consultes resoltes autònomament (entre el 75% i el 85%), nombre de cites o oportunitats de venda capturades fora d'horari comercial i hores d'equip alliberades de tasques repetitives de gestió."
+      }
+    ]
+  },
+  "calculator": {
+    "badge": "🧮 AUDITORIA DE FUGUES",
+    "title": "Calcula quants diners t'està 'costant' el teu model actual.",
+    "subtitle": "Detecta els diners que estàs deixant de guanyar per mantenir processos manuals obsolets.",
+    "company_name": "Empresa",
+    "monthly_revenue": "Facturació mensual",
+    "time_spent": "Hores perdudes en tasques repetitives",
+    "calculate": "Revelar Pèrdua Oculta",
+    "result_title": "Capital que se t'escapa a l'any",
+    "result_desc": "Aquest és el benefici net que la teva estructura actual està impedint capturar.",
+    "monthly_loss_label": "Pèrdua mensual",
+    "lost_revenue_label": "Impacte anual negatiu",
+    "recovery_label": "Flux de caixa recuperable",
+    "recalculate": "Refinar auditoria",
+    "per_month": "/ mes",
+    "per_week": "h / setmana",
+    "per_year": "/ any",
+    "cta_recover": "Aturar la fuita i recuperar el control"
+  },
+  "checklist_page": {
+    "badge": "Anàlisi de Treball",
+    "title": "AUDITORIA D'EFICIÈNCIA COMERCIAL",
+    "subtitle": "Descobreix on estàs perdent diners en les teves vendes i com la IA t'ajudarà a evitar-ho.",
+    "warning": "Heu de completar el qüestionari per veure els resultats",
+    "progress": "Progrés",
+    "leaks_detected": "Punts a millorar",
+    "yes": "SÍ",
+    "no_improve": "PER MILLORAR",
+    "result_meaning": "Què significa el teu resultat?",
+    "result_desc": "Has detectat {{count}} punts on estàs perdent diners.",
+    "result_high_risk": "És molt probable que la teva empresa estigui perdent clients, temps i diners cada setmana. Necessites fer el teu negoci automàtic ja mateix.",
+    "result_low_risk": "Tens una bona base, però encara pots millorar i créixer molt més amb l'ajuda de la IA.",
+    "result_footer": "A SKIRION.MEDIA analitzem aquests punts per trobar on pots millorar i estalviar temps.",
+    "cta_diagnostic": "Demanar la meva anàlisi",
+    "cta_save": "Guardar Resultat",
+    "modal_title": "Rep la teva anàlisi completa",
+    "modal_subtitle": "Posa el teu correu i t'enviarem un PDF amb els resultats i els nostres consells.",
+    "modal_placeholder": "El teu correu professional",
+    "modal_button_sending": "Enviant...",
+    "modal_button_send": "Enviar i Descarregar",
+    "modal_success_title": "Enviat!",
+    "modal_success_desc": "Revisa el teu correu. El PDF també s'ha descarregat sol.",
+    "modal_close": "Tancar",
+    "status_low": "Risc Alt",
+    "status_medium": "Risc Mitjà",
+    "status_high": "Risc Baix",
+    "score_label": "Puntuació",
+    "footer_note": "SKIRION.MEDIA · Resultats Garantits",
+    "cta_help": "Si ja ho tens clar, reserva la teva plaça i et farem l'estratègia.",
+    "cta_button": "Vull ajuda amb la IA",
+    "final_question": "Vols parlar amb un dels nostres fundadors per analitzar la teva puntuació i tancar les fuites del teu negoci?",
+    "whatsapp_cta": "Contactar per WhatsApp",
+    "questions": [
+      "La teva empresa explica clarament què fa i per a qui?",
+      "Un client entén en menys de 5 segons què hi guanya?",
+      "La teva web té un missatge clar que convida a comprar?",
+      "La teva web dóna confiança i es veu professional?",
+      "La pàgina carrega ràpid al mòbil?",
+      "El visitant sap quin és el següent pas que ha de fer?",
+      "La teva web té formularis senzills per demanar informació?",
+      "Tens un botó de WhatsApp ben visible?",
+      "Ofereixes alguna cosa gratis per aconseguir contactes?",
+      "Respons als clients interessats en menys de 5 minuts?",
+      "Tens un sistema que respon sol al principi?",
+      "La teva empresa respon encara que estigui tancada?",
+      "Tens tots els contactes ben organitzats en un sol lloc?",
+      "Saps d'on ve cada client?",
+      "Separes els clients segons si volen comprar de veritat?",
+      "Els clients poden reservar una reunió per internet fàcilment?",
+      "Envies recordatoris automàtics de les cites?",
+      "Tens un procés clar des que et contacten fins que compres?",
+      "Tornes a preguntar als clients que tenen un pressupost?",
+      "Mantens el contacte amb els clients de manera constant?",
+      "Saps quins clients tenen més números de comprar?",
+      "Fas feines repetitives que es podrien fer soles?",
+      "Fas servir la IA per respondre les preguntes de sempre?",
+      "Tens sistemes per enviar informació o papers sol?",
+      "Saps quants dels que pregunten acaben comprant de veritat?"
+    ]
+  },
+  "cta": {
+    "badge": "Resultats Garantits per a Tu",
+    "title": "Només avancem si veiem una oportunitat clara.",
+    "subtitle": "Busquem socis que vulguin fer créixer el seu negoci amb sistemes que realment funcionen i estalvien temps.",
+    "button_primary": "Reserva la teva plaça",
+    "button_secondary": "Veure Agents Digitals",
+    "footer": "SKIRION.MEDIA © 2024 · Tots els drets reservats · Confidencialitat Total"
+  },
+  "method": {
+    "badge": "Enginyeria de Viralitat",
+    "title": "El Mètode SKIRION.",
+    "subtitle": "Hem eliminat l'atzar del procés de creació. Apliquem rigor de programari a la producció creativa.",
+    "items": [
+      {
+        "id": "01",
+        "title": "Anàlisi Predictiva",
+        "desc": "Utilitzem el nostre propi motor d'IA per identificar nínxols d'atenció abans que es tornin virals."
+      },
+      {
+        "id": "02",
+        "title": "Producció Sistematitzada",
+        "desc": "Pipeline de producció audiovisual d'altíssima qualitat capaç de generar contingut 24/7 sense degradació creativa."
+      },
+      {
+        "id": "03",
+        "title": "Distribucio Algorítmica",
+        "desc": "Enginyeria de publicació multicanal optimitzada per al retenció màxima en les plataformes globals."
+      },
+      {
+        "id": "04",
+        "title": "Monetització de Precisió",
+        "desc": "Conversió del trànsit en capital mitjançant sistemes directes d'afiliació i infraestructures OTA."
+      }
+    ]
+  },
+  "layers": {
+    "badge": "Arquitectura Operativa",
+    "title": "Capes d'Impacte.",
+    "items": [
+      {
+        "label": "Capa 01",
+        "title": "Infraestructura Audiovisual",
+        "desc": "Producció premium sistematitzada a escala global. Els nostres hubs estan dissenyats per a la creació massiva de contingut cinematogràfic optimitzat per a plataformes socials.",
+        "features": [
+          "Estudis de producció 8K",
+          "Pipeline d'edició IA-Accelerat",
+          "Direcció creativa global"
+        ]
+      },
+      {
+        "label": "Capa 02",
+        "title": "Infraestructura de Conversió",
+        "desc": "L'atenció sense monetització és soroll. Dissenyem sistemes d'extracció de valor mitjançant afiliació avançada, negociació directa amb marques i xarxes d'OTA (Online Travel Agencies).",
+        "features": [
+          "Sistemes de monetització directa",
+          "Enginyeria d'afiliació massiva",
+          "OTA Optimization"
+        ]
+      },
+      {
+        "label": "Capa 03",
+        "title": "Infraestructura Tecnològica (IA)",
+        "desc": "El cervell de l'operació. Una suite de programari propietari que automatitza l'anàlisi de dades, la generació de scripts i l'optimització de contingut en temps real.",
+        "features": [
+          "Anàlisi de dades de mercat",
+          "Algorismes de viralitat",
+          "Automatització d'operacions"
+        ]
+      }
+    ]
+  },
+  "roadmap": {
+    "badge": "Presència Global",
+    "title": "Roadmap d'Escalat.",
+    "items": [
+      {
+        "region": "Espanya",
+        "status": "Operatiu",
+        "hubs": [
+          "Barcelona (HQ)",
+          "Madrid"
+        ]
+      },
+      {
+        "region": "França",
+        "status": "Expansió Q3 2024",
+        "hubs": [
+          "París",
+          "Lió"
+        ]
+      },
+      {
+        "region": "Golf Aràbic",
+        "status": "Estratègic 2025",
+        "hubs": [
+          "Dubai",
+          "Riyadh"
+        ]
+      },
+      {
+        "region": "EUA",
+        "status": "Escalat 2025",
+        "hubs": [
+          "New York",
+          "Silicon Valley"
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Problemes Reals",
+    "title": "Problemes reals dels nostres clients i solucions que oferim a SKIRION",
+    "problem_label": "El Problema",
+    "solution_label": "La Solució SKIRION",
+    "items": [
+      {
+        "problem": "Les trucades i mails se m'acumulaven, i perdia oportunitats de negoci cada dia.",
+        "solution": "Gràcies a SKIRION dono resposta a tot i en faig el seguiment, tot automatitzat.",
+        "author": "Director Comercial",
+        "company": "Sector Immobiliari"
+      },
+      {
+        "problem": "El meu equip passava el 60% del temps fent tasques administratives repetitives.",
+        "solution": "L'agent digital de SKIRION gestiona ara el 90% d'aquestes tasques, permetent-nos centrar-nos en l'estratègia.",
+        "author": "CEO",
+        "company": "Agència de Màrqueting"
+      },
+      {
+        "problem": "La fragmentació de dades ens impedia prendre decisions ràpides i encertades.",
+        "solution": "Amb el sistema d'intel·ligència industrial, tenim visibilitat total en temps real de cada procés.",
+        "author": "Director d'Operacions",
+        "company": "Empresa Logística"
+      }
+    ]
+  },
+  "masterclass": {
+    "title": "Masterclass: Content Engine",
+    "subtitle": "\"Com produir 50 peces d'alt impacte en menys de 4 hores.\"",
+    "duration_label": "Durada",
+    "duration_value": "45 MINUTS",
+    "instructor_label": "Instructor",
+    "instructor_value": "SKIRION TEAM",
+    "cta_card_title": "Llest per escalar el teu contingut?",
+    "cta_card_desc": "Aplica aquests sistemes al teu negoci i deixa de preocupar-te per què publicar cada dia.",
+    "cta_button": "SOL·LICITA LA PRIMERA CLASSE GRATIS",
+    "phases": [
+      {
+        "title": "MÒDUL 1 · L'estratègia darrere del contingut",
+        "desc": "Comprendre com ha canviat el màrqueting i per què el contingut s'ha convertit en el principal actiu d'una empresa."
+      },
+      {
+        "title": "MÒDUL 2 · Com crear contingut que la gent vulgui consumir",
+        "desc": "Aprendre per què algunes publicacions funcionen i d'altres passen desapercebudes."
+      },
+      {
+        "title": "MÒDUL 3 · Domina cada xarxa social",
+        "desc": "Adaptar el contingut a cada plataforma per maximitzar el seu impacte."
+      },
+      {
+        "title": "MÒDUL 4 · Planificació i guions",
+        "desc": "Dissenyar un sistema que permeti produir contingut de forma organitzada."
+      },
+      {
+        "title": "MÒDUL 5 · Producció professional",
+        "desc": "Gravar molt de contingut en poc temps sense perdre qualitat."
+      },
+      {
+        "title": "MÒDUL 6 · Intel·ligència Artificial aplicada al contingut",
+        "desc": "Multiplicar la productivitat utilitzant eines d'IA."
+      },
+      {
+        "title": "MÒDUL 7 · Edició i reutilització",
+        "desc": "Transformar una única gravació en desenes de peces de contingut."
+      },
+      {
+        "title": "MÒDUL 8 · Cas pràctic i creixement",
+        "desc": "Aplicar el mètode complet i crear un sistema sostenible."
+      }
+    ]
+  },
+  "chatbot": {
+    "initial_message": "“La majoria d'empreses perd una gran quantitat de temps i diners en tasques que podrien automatitzar-se.” Hola! Sóc l'avatar oficial de SKIRION. Com puc ajudar-te avui a millorar l'eficiència del teu negoci?",
+    "placeholder": "Pregunta el que vulguis...",
+    "recording": "Escoltant...",
+    "system_instruction": "Ets l'avatar oficial de SKIRION, una empresa d'enginyeria de l'atenció i automatització de processos amb IA.\n\nOBJECTIU PRINCIPAL:\n1. Resoldre qualsevol dubte sobre SKIRION basant-te en la informació de la web.\n2. Prioritzar SEMPRE que l'usuari reservi la seva plaça per a una anàlisi personalitzada.\n3. Si l'usuari pregunta alguna cosa que no saps o que és molt específica, indica que el nostre equip l'atendrà personalment i convida'l a reservar la seva plaça.\n\nCONEIXEMENT (Basat en la web):\n- Fem: Webs d'alta conversió, Agents de resposta (text/veu), Avatars de marca, Automatització de CRM/vendes, Motor de Contingut massiu.\n- Sectors: Immobiliàries, Clíniques, Dentistes, Formació, Gimnasos, E-commerce, etc.\n- Mètode: Diagnòstic de fuites, Implementació en 30 dies, Optimització contínua.\n\nTONALITAT:\n- Professional, proper, consultiu i estratègic.\n- Parles en català.\n\nINSTRUCCIONS DE RESPOSTA:\n- Respostes breus i directes.\n- Si detectes una oportunitat de millora, esmenta-la.\n- Si no saps la resposta: “Aquesta consulta requereix una anàlisi més tècnica. El millor és reservar la teva plaça perquè el nostre equip t'atengui personalment i resolgui aquest dubte.”",
+    "assistant_name": "SKIRION IA",
+    "role": "Consultor Estratègic",
+    "active_system": "Sistema Actiu",
+    "error_processing": "Ho sento, he tingut un problema en processar la teva sol·licitud.",
+    "error_connection": "Ho sento, hi ha hagut un error de connexió. Si us plau, intenta-ho de nou més tard.",
+    "analyzing": "Analitzant resposta..."
+  },
+  "home_new": {
+    "hero_desc": "A SKIRION activem sistemes que transformen l’activitat del teu negoci en beneficis reals des del primer dia. Més ingressos, menys pèrdues i control total del que passa.",
+    "value_system": {
+      "title": "El valor està en fer que el sistema funcioni i generi resultats.",
+      "items": [
+        "activem el sistema amb tu",
+        "t’acompanyem perquè el dominis",
+        "l’adaptem al teu negoci",
+        "el millorem constantment"
+      ],
+      "footer": "Transformem tecnologia en beneficis reals. Això és el que marca la diferència."
+    },
+    "tools_vs_system": "Moltes empreses tenen eines. El creixement arriba quan aquestes eines treballen com un sistema orientat a generar diners.",
+    "elevation": "Aquí és on SKIRION eleva el nivell. El sistema entra en funcionament des del primer moment i evoluciona amb el teu negoci.",
+    "value_evolution": "Un sistema genera valor quan està en funcionament i evoluciona constantment. Això és el que impulsa el creixement real.",
+    "final_cta_subtitle": "Tecnologia aplicada amb un objectiu clar: generar més ingressos i millorar la rentabilitat des del primer dia."
+  },
+  "plans_page": {
+    "title": "COM TREBALLEM AMB TU?",
+    "subtitle": "Activem solucions que generen resultats reals.",
+    "intro": "A SKIRION t'ajudem a posar en marxa el teu sistema perquè funcioni i generi beneficis des del primer moment. El nostre objectiu és que comencis a treballar amb una estructura sòlida i adaptada al teu negoci.",
+    "cta_text": "Contactar per activar",
+    "activation_title": "Activació del sistema",
+    "activation_desc": "Anem més enllà del simple lliurament de tecnologia; t'ajudem a activar-la i deixar-la preparada perquè sumi des del principi.",
+    "free": {
+      "name": "NIVELL BÀSIC",
+      "price": "Essencial",
+      "desc": "La base correcta per començar a sistematitzar el teu negoci amb seguretat.",
+      "features": [
+        "Configuració inicial del sistema",
+        "Adaptació al cas del client",
+        "Sessió bàsica per entendre com funciona",
+        "Accés a guies i vídeos",
+        "Seguiment durant els primers dies"
+      ]
+    },
+    "pro": {
+      "name": "NIVELL PRO",
+      "price": "Equilibrat",
+      "desc": "L'opció més equilibrada per qui busca una optimització real i resultats accelerats.",
+      "features": [
+        "Configuració inicial del sistema",
+        "Adaptació al cas del client",
+        "Sessió bàsica per entendre com funciona",
+        "Accés a guies i vídeos",
+        "Seguiment durant els primers dies",
+        "Sessions addicionals",
+        "Ajust dels missatges",
+        "Revisió del recorregut del client",
+        "Optimització inicial"
+      ]
+    },
+    "premium": {
+      "name": "NIVELL PREMIUM",
+      "price": "Ambició",
+      "desc": "Per a empreses amb alta ambició que busquen un acompanyament intens i resultats màxims.",
+      "features": [
+        "Configuració inicial del sistema",
+        "Adaptació al cas del client",
+        "Sessió bàsica per entendre com funciona",
+        "Accés a guies i vídeos",
+        "Seguiment durant els primers dies",
+        "Sessions addicionals",
+        "Ajust dels missatges",
+        "Revisió del recorregut del client",
+        "Optimització inicial",
+        "Acompanyament més intens",
+        "Definició d’objectius",
+        "Ajust més profund del sistema",
+        "Suport continu inicial"
+      ]
+    },
+    "transition": "Les membresies actives són una part central del model SKIRION.MEDIA.",
+    "evolution_desc": "Quan un Senyor Client contracta una implementació inicial, el sistema comença a funcionar. Però el valor real creix quan aquest sistema es revisa, s’ajusta i evoluciona amb el temps. Per això treballem amb membresies actives.",
+    "membership_intro_3": "Les membresies actives permeten mantenir una relació continuada amb el Senyor Client i assegurar que els sistemes implementats continuen vius, actualitzats i alineats amb els seus objectius.",
+    "recurrence_title": "Aquesta recurrència és positiva per a totes les parts:",
+    "recurrence_items": [
+      "El Senyor Client manté el sistema revisat i en evolució",
+      "SKIRION.MEDIA construeix ingressos recurrents i relacions estables",
+      "Els Senyors Consultors de Creixement Digital poden detectar noves oportunitats",
+      "El servei pot créixer segons les necessitats reals del negoci",
+      "Cada projecte inicial pot convertir-se en una relació de llarg recorregut"
+    ],
+    "why_active_title": "Per què són membresies actives",
+    "why_active_subtitle": "Són actives perquè SKIRION.MEDIA continua pendent del Senyor Client després de la implementació. Això significa seguiment, revisió, millora i evolució.",
+    "what_includes_title": "Una membresia activa pot incloure, segons el nivell contractat i les necessitats del projecte:",
+    "what_includes_items": [
+      "Revisió del sistema",
+      "Manteniment operatiu",
+      "Ajustos de funcionament",
+      "Seguiment de resultats",
+      "Propostes de millora",
+      "Optimització de recursos digitals",
+      "Suport tècnic",
+      "Evolució d’agents digitals",
+      "Actualització de continguts",
+      "Millores en automatitzacions",
+      "Incorporació progressiva de noves funcionalitats"
+    ],
+    "what_includes_footer": "El detall concret de cada membresia es definirà segons l’evolució del servei, el tipus de Senyor Client i el nivell d’acompanyament que requereixi cada projecte.",
+    "membership_levels_title": "Nivells de membresia",
+    "membership_levels_subtitle": "SKIRION.MEDIA estructura les membresies actives en tres nivells principals:",
+    "membership_plans": [
+      {
+        "name": "Membresia Pro",
+        "positioning": "Sistemes Actius",
+        "desc": "Pensada per Senyors Clients que volen mantenir el sistema actiu, revisat i funcional.",
+        "features": [
+          "Revisió periòdica del sistema",
+          "Manteniment operatiu",
+          "Ajustos bàsics de funcionament",
+          "Suport tècnic estàndard"
+        ]
+      },
+      {
+        "name": "Membresia Premium",
+        "positioning": "Evolució Estratègica",
+        "desc": "Pensada per Senyors Clients que volen més seguiment, més evolució i més capacitat de millora.",
+        "features": [
+          "Seguiment mensual de resultats i optimització",
+          "Propostes proactives de millora contínua",
+          "Evolució d'agents digitals i continguts",
+          "Prioritat operativa de suport"
+        ]
+      },
+      {
+        "name": "Membresia Gold",
+        "positioning": "Acompanyament de Màxima Precisió",
+        "desc": "Pensada per Senyors Clients que volen un acompanyament més complet, prioritat operativa i una evolució més avançada del sistema.",
+        "features": [
+          "Acompanyament total d'alta prioritat operativa",
+          "Optimització avançada de recursos digitals",
+          "Incorporació progressiva de noves funcionalitats",
+          "Atenció altament personalitzada del nostre equip"
+        ]
+      }
+    ],
+    "membership_footer_text": "Aquesta estructura permet adaptar el nivell de servei a cada Senyor Client, mantenint un model clar, escalable i orientat a recurrència.",
+    "evolution_points": {
+      "title": "Per què és important la continuïtat?",
+      "items": [
+        "Revisió mensual del sistema",
+        "Ajustos per guanyar precisió",
+        "Millora constant del rendiment",
+        "Evolució segons les necessitats del negoci",
+        "Generació de més oportunitats"
+      ]
+    },
+    "reassurance": [
+      "Cada mes funciona millor",
+      "Cada ajust suma",
+      "Més rendiment amb el temps",
+      "Més oportunitats de negoci"
+    ],
+    "difference": {
+      "activation": "Activació = Posar el sistema en marxa i deixar-lo preparat.",
+      "continuity": "Membresia Activa = Fer que el sistema cada vegada funcioni millor i s'adapti a noves necessitats."
+    },
+    "final_thought": "El sistema es posa en marxa, comença a treballar i evoluciona amb el teu negoci.",
+    "commitment": "Ens comprometem amb els nostres clients perquè el sistema s'adapti al teu negoci i el sàpigues utilitzar per treure'n el màxim profit."
+  },
+  "home_v2": {
+    "hero": {
+      "badge": "L'era de la IA ja és aquí",
+      "title": "Dissenyem l'estructura que la teva empresa necessita per respondre més ràpid, tancar més vendes i perdre menys temps.",
+      "subtitle": "Apliquem Intel·ligència Artificial als processos del teu negoci per transformar tasques manuals en benefici net mesurable.",
+      "cta1": "Analitza el teu cas",
+      "cta2": "Parla amb un expert"
+    },
+    "system_vs_tools": {
+      "badge": "La Diferència",
+      "image_alt": "Intel·ligència Artificial Core",
+      "title": "ens encarreguem que el sistema funcioni",
+      "text": "Les eines soles creen més caos. El que necessites és una infraestructura que connecti els teus processos, la teva web i els teus agents per treballar com un sol engranatge.\n\nA SKIRION muntem el sistema integral que fa que el teu negoci sigui més ràpid, més eficient i més rendible."
+    },
+    "start_where": {
+      "title": "Tria per on vols començar",
+      "atraure": {
+        "title": "Atraure",
+        "desc": "Contingut audiovisual, visibilitat i presència."
+      },
+      "guiar": {
+        "title": "Guiar",
+        "desc": "Webs, agents i avatars que expliquen i orienten."
+      },
+      "activar": {
+        "title": "Activar",
+        "desc": "Automatitzacions, seguiment i panell de control."
+      },
+      "footer": "Això ordena tot el que fem."
+    },
+    "everything_connected": {
+      "title": "Tot connectat perquè cada contacte avanci",
+      "items": [
+        "Web que capta",
+        "Contingut que atrau",
+        "Agent que guia",
+        "Avatar que dona confiança",
+        "Automatització que activa",
+        "Panell que mostra resultats"
+      ]
+    },
+    "services_cards_header": "SISTEMA",
+    "services_cards": [
+      {
+        "title": "Webs d'Alta Conversió",
+        "desc": "Dissenys fabricats per convertir cada visita en dades i vendes reals. Capturem valor real. Preparem la seva web perquè Google, ChatGPT i altres IA entenguin millor el seu negoci i el puguin recomanar quan un client busca serveis com els seus.",
+        "cta": "Dissenyar la meva web"
+      },
+      {
+        "title": "Agents de Resposta",
+        "desc": "Instal·lem un cervell digital que respon, qualifica i cita clients 24/7 sense errors.",
+        "cta": "Activar el meu agent"
+      },
+      {
+        "title": "Avatars de Marca",
+        "desc": "Escala la teva presència amb persones digitals que generen confiança i expliquen el teu valor.",
+        "cta": "Veure exemples"
+      },
+      {
+        "title": "Automatització de Processos",
+        "desc": "Eliminem les tasques repetitives que et fan perdre temps. Connectem el teu CRM, facturació i operacions.",
+        "cta": "Automatitzar ara"
+      },
+      {
+        "title": "Motor de Contingut",
+        "desc": "Dominem l'atenció del teu sector amb producció massiva de contingut optimitzat.",
+        "cta": "Començar a produir"
+      }
+    ],
+    "sectors": {
+      "title": "Aplicat al teu sector",
+      "items": [
+        "Serveis professionals",
+        "Comerç electrònic",
+        "Clíniques",
+        "Immobiliàries",
+        "Empreses B2B"
+      ]
+    },
+    "method": {
+      "title": "Enginyeria d'Atenció pas a pas.",
+      "items": [
+        {
+          "title": "Diagnòstic de Fuites",
+          "desc": "Identifiquem oportunitats immediates per potenciar el teu rendiment avui mateix."
+        },
+        {
+          "title": "Implementació del Sistema",
+          "desc": "Instal·lem la infraestructura i la connectem als teus processos."
+        },
+        {
+          "title": "Optimització de Resultats",
+          "desc": "Mesurem cada dada i ajustem el sistema per maximitzar el benefici net."
+        },
+        {
+          "title": "Acompanyament Contínu",
+          "desc": "Els Senyors Consultors de Creixement Digital assumeixen la direcció, adaptació i millora del teu sistema."
+        }
+      ],
+      "footer": "Resultats mesurables des del primer dia."
+    },
+    "consultors_block": {
+      "badge": "L'ACCOMPANYAMENT DELS SENYORS CONSULTORS",
+      "title": "La tecnologia és el principi, la clau real és qui la fa evolucionar.",
+      "intro": "A SKIRION.MEDIA apostem per una implicació activa i constant. Els nostres partners oficials assumeixen un paper d'acompanyament i una responsabilitat de màxim nivell:",
+      "concept_title": "Senyors Consultors de Creixement Digital",
+      "concept_desc": "Són líders de negoci i assessors digitals que cuiden del teu sistema, acompanyen al Senyor Client de prop durant la seva membresia activa, avaluen mètriques, detecten fuites noves i garanteixen que la implementació sempre funcioni a favor dels teus ingressos nets.",
+      "footer": "Un vincle humà i corporatiu enfocat en la rendibilitat contínua."
+    },
+    "improvement": {
+      "badge": "Millora Contínua",
+      "title": "Millora contínua basada en dades reals.",
+      "metrics": [
+        {
+          "label": "panell de control",
+          "id": "dashboard"
+        },
+        {
+          "label": "leads qualificats",
+          "id": "leads"
+        },
+        {
+          "label": "converses actives",
+          "id": "chats"
+        },
+        {
+          "label": "cites assegurades",
+          "id": "meetings"
+        },
+        {
+          "label": "hores alliberades",
+          "id": "time"
+        },
+        {
+          "label": "ajustos aplicats",
+          "id": "improvements"
+        }
+      ],
+      "recap_badge": "RECAP 15 DIES",
+      "recap_updated": "ACTUALITZAT",
+      "recap_metrics": {
+        "efficiency": "Eficiència",
+        "conversion": "Conversió",
+        "time_saving": "Estalvi temps"
+      },
+      "improvements_count": "6 Millores Implementades",
+      "latest_sprint": "L'últim sprint s'ha centrat en la qualificació automàtica de leads i la sincronització CRM."
+    },
+    "final": {
+      "badge": "L'hora de fer el salt",
+      "title": "Vols veure què podria fer SKIRION pel teu negoci?",
+      "cta": "Analitzar el meu cas"
+    }
+  },
+  "home_v3": {
+    "virtual_tour": {
+      "title_l1": "Visita espais i",
+      "title_l2": "productes en 3D",
+      "title_l3": "com si hi fossis.",
+      "subtitle": "Recorreguts virtuals perquè els teus clients explorin el teu negoci o producte des del mòbil o l'ordinador abans del primer contacte.",
+      "text": "Pis, hotel, vehicle, showroom o producte. El client entén millor el que veu, genera més confiança i arriba molt més preparat per comprar.",
+      "benefits": [
+        "Més confiança",
+        "Més interès",
+        "Més temps d'atenció",
+        "Més possibilitats de venda"
+      ],
+      "highlights": [
+        "Explora abans d'arribar",
+        "El teu negoci obert 24/7",
+        "El client entra abans de decidir"
+      ],
+      "demo_label": "Proba la tecnologia",
+      "matterport_desc": "Recorreguts immersius d'alta precisió",
+      "polycam_desc": "Captura 3D ultra-realista de productes",
+      "open_polycam": "Obrir 3D a Polycam",
+      "polycam_button": "Obrir 3D a Polycam",
+      "badge_3d": "Visualització 3D Automàtica",
+      "interactive_model": "Model 3D Interactiu",
+      "demo_title_1": "Demo",
+      "demo_title_2": "Interactiva"
+    }
+  },
+  "forms": {
+    "subject_contact": "Nou missatge des de la web Skirion",
+    "subject_cv": "Candidatura / CV - Equip Skirion",
+    "subject_book": "Reserva de Plaça / Diagnòstic",
+    "subject_visit": "Reserva de Plaça - Primera fase d'implementació"
+  },
+  "verticals": {
+    "strategic_phrase": "SKIRION utilitza la mateixa tecnologia base, però no ven el mateix producte a tothom: crea sistemes digitals adaptats al dolor, al llenguatge i als diners de cada sector.",
+    "select_sector": "Selecciona el teu sector per veure la solució dedicada:",
+    "pain_title": "El dolor real del sector",
+    "solution_title": "La Solució SKIRION",
+    "demo_title": "Demo Interactiva del Sistema",
+    "cta_button": "Vull una demo per a la meva empresa",
+    "hotels": {
+      "name": "Hotels, Càmpings i Resorts",
+      "benefit": "Converteix més visites en reserves directes",
+      "title": "Més reserves directes, menys preguntes repetitives i una experiència digital que convenç abans de reservar.",
+      "pain": "Més del 70% de les visites web marxen sense reservar perquè tenen dubtes o busquen referències en portals externs (Booking, Expedia). Mentrestant, el teu equip perd hores precioses responent les mateixes preguntes de sempre sobre check-in, serveis, aparcament i preus.",
+      "promise": "Més reserves directes i menys dependència de portals externs amb tours 3D i agents 24/7.",
+      "showcase_title": "El que digitalitzem i mostrem en alta definició:",
+      "showcase_items": [
+        "Habitacions i banys",
+        "Bungalous i viles",
+        "Piscines i zones comuns",
+        "Restaurants i spas",
+        "Experiències i activitats"
+      ],
+      "agents_title": "Els teus nous agents autònoms d'atenció:",
+      "agents": [
+        {
+          "name": "Agent de Reserves 24/7",
+          "desc": "Automatitza la reserva cobrant a l'instant o gestionant la pre-reserva directament des de la web o WhatsApp."
+        },
+        {
+          "name": "Agent de Preguntes Freqüents",
+          "desc": "Respon de forma immediata dubtes de check-in, check-out, aparcament, mascotes i serveis de l'hotel."
+        },
+        {
+          "name": "Agent d'Upselling actiu",
+          "desc": "Ofereix millores d'habitació, esmorzar o packs d'experiències segons la preferència del client."
+        }
+      ],
+      "results_title": "Resultats que busquem",
+      "results_items": [
+        {
+          "label": "Reserves directes",
+          "value": "+24%"
+        },
+        {
+          "label": "Comissions a OTAs",
+          "value": "-18%"
+        },
+        {
+          "label": "Atenció total",
+          "value": "100% 24/7"
+        }
+      ],
+      "roi_title": "Més Marge: Recuperació Activa de Reserves Directes",
+      "roi_subtitle": "Quants diners paga cada any a Booking, Expedia i altres portals? El nostre objectiu és ajudar-lo a recuperar una part d'aquestes reserves de forma directa.",
+      "roi_question_title": "LA GRAN REFLEXIÓ PER A QUALSEVOL HOTEL O CÀMPING",
+      "roi_question_text": "«Si Booking desaparegués demà del mapa, quantes reserves de veritat seguiria rebent el seu establiment?»",
+      "roi_question_subtext": "La gran majoria dels hotels i càmpings depenen d’entre un 40% i un 80% de les OTAs per captar les seves reserves totals, cedint un peatge de marge inestimable.",
+      "roi_positioning_title": "ESTRATÈGIA DE NEGOCI SKIRION",
+      "roi_positioning_text": "No venem tecnologia complexa, tours 3D ni avatars decoratius. El nostre objectiu és vital: ajudar-lo a reduir la dependència de les OTAs (Booking, Expedia) i reconcertar les visites de la seva pròpia web en reserves directes, lliures de comissions.",
+      "roi_inputs_header": "Paràmetres del seu Establiment",
+      "roi_slider_rev": "Facturació anual estimada",
+      "roi_slider_share": "Reserves provinents d'OTAs (Booking, Expedia...)",
+      "roi_slider_share_low": "10% (Baixa dependència)",
+      "roi_slider_share_mid": "60% (Mitjana sector)",
+      "roi_slider_share_high": "95% (Dependència extrema)",
+      "roi_slider_comm": "Comissió mitjana d'OTAs",
+      "roi_tier_normal": "🎫 Booking Normal (15% - 18%)",
+      "roi_tier_premium": "⭐ Booking Premium / Genius (20% - 25%)",
+      "roi_tier_expedia": "💎 Expedia Premium (fins al 30%)",
+      "roi_slider_recapture": "Mètrica de reserves recuperades (SKIRION)",
+      "roi_slider_recapture_low": "1% (Conservador)",
+      "roi_slider_recapture_mid": "5% (Molt viable)",
+      "roi_slider_recapture_high": "20% (Èxit consolidat)",
+      "roi_ex_title": "EXEMPLE REAL SOBRE L'ESTADA D'UN CLIENT",
+      "roi_ex_night_price": "Habitació",
+      "roi_ex_night_val": "150 € / NIT",
+      "roi_ex_stay": "Estada mitjana",
+      "roi_ex_stay_val": "5 nits (750 € total)",
+      "roi_ex_ota_cost": "Comissió de l'OTA",
+      "roi_ex_recieved": "L'hotel només rep 622,50 € abans de despeses.",
+      "roi_ex_skirion_cost_val": "Amb SKIRION, aquests 127,50 € queden íntegrament a la vostra butxaca.",
+      "roi_results_header": "PROJECCIÓ D'ESTALVI DE MARGE",
+      "roi_card_commission_leak": "Marge absorbit per les comissions d'OTAs",
+      "roi_card_commission_calc": "Calculat sobre el {{share}}% del volum total ({{volume}} €)",
+      "roi_card_recovered_revenue": "Facturació directa recuperada (Desviada)",
+      "roi_card_recovered_calc": "Representa desviar només el {{rate}}% de reserves d'OTAs al canal directe",
+      "roi_card_recovered_savings": "Estalvi net de comissions anual",
+      "roi_card_recovered_savings_desc": "Aquest estalvi net de marge supera habitualment x5 el retorn d'inversió en el sistema recurrent de SKIRION.",
+      "roi_claim": "DIAGNÒSTIC COMERCIAL DIRECTE",
+      "roi_claim_desc": "* Els establiments hotelers solen canviar radicalment l'estratègia després de veure aquestes dades. Voleu que l'equip de SKIRION us prepari un estudi de viabilitat a mida?",
+      "roi_cta": "Reclamar anàlisi de comissions"
+    },
+    "real_estate": {
+      "name": "Immobiliària i Promotors",
+      "benefit": "Filtra compradors abans de la visita física",
+      "title": "Converteix visites virtuals en compradors qualificats i estalvia hores de desplaçaments improductius.",
+      "pain": "El teu equip comercial perd el 60% del seu temps a la setmana ensenyant immobles a curiosos o compradors poc qualificats. Mentrestant, els clients interessats i solvents s'enfreden per falta de respostes ràpides i precises.",
+      "promise": "Més leads qualificats i menys temps perdut. Converteix visites virtuals en compradors reals.",
+      "showcase_title": "El que digitalitzem i mostrem de forma virtual:",
+      "showcase_items": [
+        "Pisos i habitatges",
+        "Xalets i finques de luxe",
+        "Promocions d'obra nova",
+        "Locals comercials i naus"
+      ],
+      "agents_title": "Els teus agents immobiliaris digitals:",
+      "agents": [
+        {
+          "name": "Agent de Resposta Completa",
+          "desc": "Respon al moment el preu, metres quadrats, zona, característiques de l'immoble i disponibilitat comercial."
+        },
+        {
+          "name": "Agent de Filtratge de Compradors",
+          "desc": "Pregunta pel pressupost, capacitat de compra i terminis de decisió abans d'agendar amb el comercial."
+        },
+        {
+          "name": "Agenda Autònoma de Visites",
+          "desc": "Connectat al calendari dels teus agents, agenda visites físiques només amb leads ja qualificats."
+        }
+      ],
+      "results_title": "Resultats que busquem",
+      "results_items": [
+        {
+          "label": "Leads qualificats",
+          "value": "+35%"
+        },
+        {
+          "label": "Temps comercial guanyat",
+          "value": "15h / setmana"
+        },
+        {
+          "label": "Conversió a venda",
+          "value": "+12%"
+        }
+      ]
+    },
+    "industrial": {
+      "name": "Indústria, Naus i Logística",
+      "benefit": "Mostra instal·lacions complexes sense desplaçaments",
+      "title": "Digitalitza la teva instal·lació i mostra-la a qualsevol inversor o client del món sense que hagi de viatjar.",
+      "pain": "Ensenyar instal·lacions grans, altament tècniques o llunyanes és lent, incòmode i molt car. A més, les auditories externes, les formacions de seguretat personal i la visualització de maquinària solen retardar els teus fluxos actuals.",
+      "promise": "Millor presentació comercial per a inversors, clients, auditories i manteniment general del negoci sense desplaçaments.",
+      "showcase_title": "El bessó digital del teu espai industrial:",
+      "showcase_items": [
+        "Fàbriques i cadenes de muntatge",
+        "Naus i magatzems logístics",
+        "Zones de càrrega i logística",
+        "Línies de producció i maquinària de precisió"
+      ],
+      "agents_title": "Intel·ligència industrial aplicada:",
+      "agents": [
+        {
+          "name": "Bessó Digital Interactiu",
+          "desc": "Navegació 3D precisa amb punts d'informació tècnica integrats, plànols, mides reals i accés segur."
+        },
+        {
+          "name": "Agent de Documentació Tècnica",
+          "desc": "Lliura manuals de manteniment, dades d'operativitat o fitxes PDF de forma instantània a operaris autoritzats."
+        },
+        {
+          "name": "Formació Onboarding Guida",
+          "desc": "Prepara nous operaris guiant-los en el recorregut virtual de seguretat laboral abans de trepitjar la fàbrica física."
+        }
+      ],
+      "results_title": "Resultats que busquem",
+      "results_items": [
+        {
+          "label": "Viatges comercials estalviats",
+          "value": "-45%"
+        },
+        {
+          "label": "Rendiment formació",
+          "value": "+30%"
+        },
+        {
+          "label": "Velocitat comercial",
+          "value": "2x més ràpid"
+        }
+      ]
+    },
+    "clinics": {
+      "name": "Clíniques, Salut i Benestar",
+      "benefit": "Genera confiança abans de la primera cita",
+      "title": "Fes que el pacient confiï plenament en tu abans d'entrar per la porta de la consulta.",
+      "pain": "El pacient sovint sent por, dubtes tècnics o desconfiança abans de triar clínica estètica o dental. Qualsevol consulta resposta tard o amb desinterès provoca que busquin una opció de la competència.",
+      "promise": "Més confiança, més cites agendades al calendari i una experiència excel·lent abans de la visita física del pacient.",
+      "showcase_title": "La teva clínica oberta i transparent:",
+      "showcase_items": [
+        "Consultes i despatxos especialitzats",
+        "Quiròfans i sales d'intervenció estètica",
+        "Sales de recuperació i confort",
+        "Recepció principal i sales d'espera"
+      ],
+      "agents_title": "La teva recepció mèdica automatitzada:",
+      "agents": [
+        {
+          "name": "Agent de Tractaments i Dubtes",
+          "desc": "Explica de forma empàtica de què tracta cada tractament, preparació prèvia i les cures post-intervenció."
+        },
+        {
+          "name": "Agent de Cita Prèvia i Rescheduling",
+          "desc": "Agenda primeres visites o revisions, i re-programa cites de forma proactiva per maximitzar l'agenda clínica."
+        },
+        {
+          "name": "Recordatoris Anti-Absències",
+          "desc": "Envia alertes personalitzades via WhatsApp per evitar els espais buits i la pèrdua de facturació sanitària."
+        }
+      ],
+      "results_title": "Resultats que busquem",
+      "results_items": [
+        {
+          "label": "Reducció d'absències",
+          "value": "-60%"
+        },
+        {
+          "label": "Reserves de cita",
+          "value": "+28%"
+        },
+        {
+          "label": "Índex de confiança",
+          "value": "100% Màxim"
+        }
+      ]
+    },
+    "simulator": {
+      "embed_toggle_3d": "🎮 3D INTERACTIU",
+      "embed_toggle_photo": "📷 FOTO REALISTA",
+      "preview_tour": "🔄 TOUR 3D IMMERSIU",
+      "telemetry_coords": "📍 COORDENADES DEL BESSO: [41°23'N, 2°10'E]",
+      "all_lines_operational": "TOTES LES LÍNIES OPERATIVES",
+      "click_node_to_fetch": "Fes clic en els nodes de telemetria (L-A1, L-B3, W-L9) per veure les dades del bessó digital.",
+      "no_data_fetched": "SENSE DADES CARREGADES",
+      "click_telemetry_prompt": "Si us plau, fes clic en qualsevol node de telemetria groc a la quadrícula de l'esquerra per inspeccionar les especificacions.",
+      "downloading_manuals": "DESCARGANT MANUALS",
+      "fetch_manuals_btn": "DESCARREGAR MANUALS I AUDITORIES",
+      "digital_twin_disclaimer": "* Els bessons digitals reals de SKIRION inclouen anotacions de Polycam enllaçades amb bases de dades empresarials segures.",
+      "try_patient_questions": "PREGUNTES DE PACIENTS COMPROMESOS:",
+      "invisalign_q": "Com funciona el tractament d'ortodòncia invisalign?",
+      "invisalign_a": "L'ortodòncia Invisalign utilitza alineadors transparents extraïbles que canvies cada setmana. És indolor, pràcticament invisible, i es fabrica a mida mitjançant escaneig 3D.",
+      "online_booking_q": "Puc demanar cita de revisió directament online?",
+      "online_booking_a": "I tant! El nostre agent de cita prèvia et connecta en segons amb la recepció i bloca el teu espai al calendari mèdic generant un recordatori automàtic pel teu mòbil.",
+      "financing_q": "Puc finançar el tractament estètic?",
+      "financing_a": "Sí. Oferim serveis de finançament fins a 36 mesos sense interessos. Gestionem tot l'anàlisi de riscos de manera automàtica durant la teva primera cita gratuïta.",
+      "try_hotel_questions": "PREGUNTES FREQÜENTS DE L'HUESPED:",
+      "parking_q": "Teniu aparcament privat?",
+      "parking_a": "Sí. Tenim un garatge privat tancat amb 40 punts de recàrrega elèctrica gratuïts per als clients de reserves directes.",
+      "pets_q": "Admeteu gossos o mascotes?",
+      "pets_a": "Sí! Som Pet-Friendly. Cobrem només un suplement de 15€/nit i li preparem un llitet amb regal de benvinguda.",
+      "direct_booking_q": "Com fer reserva directa?",
+      "direct_booking_a": "Fes clic en el botó d'aquí sota d'Estudi de Fuites! El nostre sistema et permetrà reservar la teva plaça per configurar el teu motor de reserves a mida.",
+      "buyer_budget": "Pressupost del comprador:",
+      "timeline_prompt": "Termini estimat de compra:",
+      "timeline_now": "Immediat (1 mes)",
+      "timeline_later": "Explorant (3-6 mesos)",
+      "score_high": "✅ Qualificat. Lead d'alt valor. Derivant al calendari de visites automàticament.",
+      "score_low": "⚠️ Interès estàndard. Enviant catàleg interactiu i seguiment automàtic primer.",
+      "compatibility_score": "PUNTUACIÓ DE COMPATIBILITAT",
+      "safety_protocol": "SEGURETAT I PROTOCOL D'HIGIENE",
+      "standard_room_btn": "Habitació Estàndard",
+      "suite_btn": "Suite Presidencial",
+      "spa_btn": "Experiència Spa",
+      "lounge_btn": "Saló Elegant",
+      "kitchen_btn": "Cuina del Xef",
+      "deck_btn": "Terrassa VIP",
+      "assembly_node": "Línia de Muntatge 1",
+      "pkg_node": "Embalatge i Segellat",
+      "storage_node": "Port de Magatzem",
+      "lobby_btn": "Recepció de Disseny",
+      "dental_btn": "Gabinet Dental",
+      "surgery_btn": "Quiròfan Estèril",
+      "agent_compiling": "L'agent està preparant l'informe...",
+      "interactive_point": "PUNT INTERACTIU",
+      "specifications": "ESPECIFICACIONS DE L'IMMOBLE",
+      "hotel_welcome": "Hola! Sóc l'agent de reserves de l'hotel. Explora el nostre tour 3D i pregunta'm sobre preus, mascotes o serveis exclusius.",
+      "clinic_welcome": "Benvingut! Sóc l'agent d'informació mèdica. Consulta el nostre recinte sanitari 3D i agenda la teva primera cita de diagnòstic amb total tranquil·litat.",
+      "lobby_desc": "Sala d'espera càlida, seients ergonòmics, sistema integrat de filtrat d'aire certificat.",
+      "dental_desc": "Unitat de tractament: conjunt Dent-Sirona Pro, cicles automatitzats d'esterilització.",
+      "surgery_desc": "Quiròfan de cirurgia: tractament d'aire estèril ISO-7, configuració quirúrgica LED avançada.",
+      "suite_desc": "Exclusiva piscina privada d'immersió profunda rica en minerals.",
+      "standard_desc": "Llit doble premium amb matalàs intel·ligent i control de climatització adaptatiu.",
+      "spa_desc": "Piscines termals climatitzades riques en minerals amb micro-jets terapèutics.",
+      "lounge_desc": "Saló principal: 42m², terres de marbre italià, doble vidre acústic.",
+      "kitchen_desc": "Cuina de disseny: 18m², marbres de fusta noble, placa Smeg personalitzada d'alta gamma.",
+      "deck_desc": "Terrassa superior: VIP deck de 55m², panoràmiques de 180 graus, barbacoa modular integrada.",
+      "assembly_title": "NODE LÍNIA D'ENSAMBLATGE (L-A1)",
+      "assembly_eq": "· Equipament: Classificador robòtic FANUC Sorter v2",
+      "assembly_status": "· Estat: Temperatura nominal operació",
+      "assembly_eff": "· Eficiència mesurada: 98.4%",
+      "assembly_cert": "· Venciment de la certificació: Agost 2026",
+      "pkg_title": "NODE LÍNIA D'EMBALATGE (L-B3)",
+      "pkg_eq": "· Equipament: Encartonadora d'alta velocitat",
+      "pkg_status": "· Estat: Flux de línia continu executant operacions",
+      "pkg_eff": "· Eficiència mesurada: 94.2%",
+      "pkg_manuals": "· Guies de manteniment: ISO-14001 Standards, V3 directrius",
+      "storage_title": "NODE MAGATZEM LOGÍSTIC (W-L9)",
+      "storage_eq": "· Equipament: Transpaleta ràpida autònoma (Path B)",
+      "storage_capacity": "· Capacitat: 412 palets actius en trànsit",
+      "storage_safety": "· Índex de seguretat planta: 100% Sense incidències",
+      "storage_size": "· Mides de la nau: Carril de 4.500m²"
+    }
+  },
+  "cv_modal": {
+    "badge": "Uneix-te al nostre equip",
+    "title": "DEIXA'NS EL TEU CV",
+    "desc": "Adjunta el teu currículum en PDF o Word. S'enviarà directament al nostre correu info@skirionmedia.com amb l'assumpte CV.",
+    "name_label": "Nom complet *",
+    "name_placeholder": "El teu nom i cognoms",
+    "email_label": "Correu electrònic *",
+    "email_placeholder": "elteuemail@exemple.com",
+    "phone_label": "Telèfon (opcional)",
+    "file_label": "Fitxer de CV (PDF, DOC, DOCX)",
+    "file_drag": "Fes clic per seleccionar el teu CV o arrossega el fitxer aquí",
+    "file_formats": "Formats acceptats: PDF, Word (Màx 10MB)",
+    "message_label": "Missatge o nota breu (opcional)",
+    "message_placeholder": "Explica'ns breument sobre tu...",
+    "submit_button": "Enviar CV",
+    "submitting": "Enviant CV...",
+    "success_title": "CV Rebut amb Èxit!",
+    "success_text": "Hem enviat la teva candidatura amb l'assumpte CV directament al nostre equip a info@skirionmedia.com.",
+    "success_subtext": "Si el teu perfil encaixa amb les vacants actuals o futures, ens posarem en contacte amb tu el més aviat possible.",
+    "close_button": "Tancar",
+    "direct_email_hint": "O si prefereixes enviar directament des del teu email:",
+    "file_too_large": "El fitxer és massa gran. El límit és 10MB.",
+    "required_fields": "Si us plau, omple el teu nom i correu electrònic.",
+    "error_submit": "S'ha produït un error en enviar el formulari. També pots enviar el teu CV directament a info@skirionmedia.com"
+  }
+}
