@@ -5,6 +5,7 @@ import { motion } from 'motion/react';
 import { useTranslation } from 'react-i18next';
 import SEO from '../components/SEO';
 import { Search, Zap, Video, CheckCircle2, ArrowRight, BarChart3, Activity, Layout, Box } from 'lucide-react';
+import logoImg from '../src/assets/images/logo.png';
 
 const Services: React.FC = () => {
   const { t } = useTranslation();
@@ -149,10 +150,11 @@ const Services: React.FC = () => {
             >
               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-[140%] opacity-[0.06] pointer-events-none">
                 <img 
-                  src="/logo.png" 
+                  src={logoImg || "/logo.png"} 
                   alt="" 
                   className="w-full h-full object-contain"
                   referrerPolicy="no-referrer"
+                  onError={(e) => { e.currentTarget.src = '/logo.png'; }}
                 />
               </div>
               <span className="relative z-10">{t('services.title')}</span>

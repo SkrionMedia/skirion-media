@@ -10,6 +10,7 @@ import {
 } from 'lucide-react';
 import { submitToFormspree } from '../src/services/formService';
 import BookVisitModal from '../components/BookVisitModal';
+import logoImg from '../src/assets/images/logo.png';
 
 const Contact: React.FC = () => {
   const { t } = useTranslation();
@@ -161,10 +162,11 @@ const Contact: React.FC = () => {
             >
               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-[140%] opacity-[0.06] pointer-events-none">
                 <img 
-                  src="/logo.png" 
+                  src={logoImg || "/logo.png"} 
                   alt="" 
                   className="w-full h-full object-contain"
                   referrerPolicy="no-referrer"
+                  onError={(e) => { e.currentTarget.src = '/logo.png'; }}
                 />
               </div>
               <span className="relative z-10">{t('contact.title')}</span>

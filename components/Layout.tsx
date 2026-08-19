@@ -10,6 +10,7 @@ import { useTranslation } from 'react-i18next';
 import { Mail, Phone, ArrowLeft, Briefcase, Send, Sparkles, Copy, Check, ExternalLink, X, MessageSquare } from 'lucide-react';
 import { useLocation, useNavigate, Link } from 'react-router-dom';
 import { motion, AnimatePresence } from 'motion/react';
+import logoImg from '../src/assets/images/logo.png';
 
 interface LayoutProps {
   children: React.ReactNode;
@@ -63,10 +64,11 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       {/* Persistant Global Watermark */}
       <div className="fixed inset-0 flex items-center justify-center opacity-[0.12] pointer-events-none z-0">
         <img 
-          src="/logo.png" 
+          src={logoImg || "/logo.png"} 
           alt="" 
           className="w-[80%] max-w-5xl h-auto object-contain drop-shadow-[0_0_80px_rgba(0,82,255,0.4)]"
           referrerPolicy="no-referrer"
+          onError={(e) => { e.currentTarget.src = '/logo.png'; }}
         />
       </div>
 
@@ -96,10 +98,11 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
             <div className="flex items-center space-x-6">
               <div className="w-20 h-20 md:w-32 md:h-32 bg-white/5 rounded-2xl md:rounded-[2.5rem] flex items-center justify-center overflow-hidden border border-white/10 shadow-2xl">
                 <img 
-                  src="/logo.png" 
+                  src={logoImg || "/logo.png"} 
                   alt="SKIRION Logo" 
                   className="w-full h-full object-contain p-1 md:p-2"
                   referrerPolicy="no-referrer"
+                  onError={(e) => { e.currentTarget.src = '/logo.png'; }}
                 />
               </div>
               <span className="text-xl md:text-3xl font-black tracking-tighter uppercase text-white">

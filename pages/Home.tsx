@@ -33,6 +33,7 @@ import {
 import BookVisitModal from '../components/BookVisitModal';
 import VirtualTourSection from '../components/VirtualTourSection';
 import LanguageHoverVideo from '../components/LanguageHoverVideo';
+import logoImg from '../src/assets/images/logo.png';
 
 const Home: React.FC = () => {
   const { t } = useTranslation();
@@ -196,10 +197,11 @@ const Home: React.FC = () => {
             >
               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-4xl h-full flex items-center justify-center opacity-[0.08] pointer-events-none z-[-1]">
                 <img 
-                  src="/logo.png" 
+                  src={logoImg || "/logo.png"} 
                   alt="" 
                   className="w-full h-auto object-contain"
                   referrerPolicy="no-referrer"
+                  onError={(e) => { e.currentTarget.src = '/logo.png'; }}
                 />
               </div>
               {typeof t('home_v2.hero.title', { returnObjects: true }) === 'string' ? (
@@ -260,10 +262,11 @@ const Home: React.FC = () => {
             <motion.h2 variants={itemVariants} className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black mb-4 md:mb-6 uppercase tracking-tight leading-tight text-white relative">
               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[300px] h-full opacity-[0.05] pointer-events-none">
                 <img 
-                  src="/logo.png" 
+                  src={logoImg || "/logo.png"} 
                   alt="" 
                   className="w-full h-full object-contain" 
                   referrerPolicy="no-referrer"
+                  onError={(e) => { e.currentTarget.src = '/logo.png'; }}
                 />
               </div>
               <span className="relative z-10">{t('home_v2.system_vs_tools.title')}</span>
@@ -287,10 +290,11 @@ const Home: React.FC = () => {
             >
               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-[150%] opacity-[0.04] pointer-events-none">
                 <img 
-                  src="/logo.png" 
+                  src={logoImg || "/logo.png"} 
                   alt="" 
                   className="w-full h-full object-contain"
                   referrerPolicy="no-referrer"
+                  onError={(e) => { e.currentTarget.src = '/logo.png'; }}
                 />
               </div>
               <span className="relative z-10">{t('home_v2.start_where.title')}</span>
@@ -442,10 +446,11 @@ const Home: React.FC = () => {
               >
                 <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[300px] md:w-[600px] h-full opacity-[0.03] pointer-events-none">
                   <img 
-                    src="/logo.png" 
+                    src={logoImg || "/logo.png"} 
                     alt="" 
                     className="w-full h-full object-contain"
                     referrerPolicy="no-referrer"
+                    onError={(e) => { e.currentTarget.src = '/logo.png'; }}
                   />
                 </div>
                 <span className="relative z-10">
@@ -526,10 +531,11 @@ const Home: React.FC = () => {
             <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black uppercase tracking-tight text-white mb-3 md:mb-4 relative inline-block max-w-4xl mx-auto text-center leading-tight">
               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-[140%] opacity-[0.04] pointer-events-none">
                 <img 
-                  src="/logo.png" 
+                  src={logoImg || "/logo.png"} 
                   alt="" 
                   className="w-full h-full object-contain"
                   referrerPolicy="no-referrer"
+                  onError={(e) => { e.currentTarget.src = '/logo.png'; }}
                 />
               </div>
               <span className="relative z-10">{t('home_v2.method.title')}</span>
@@ -649,10 +655,11 @@ const Home: React.FC = () => {
               <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black uppercase tracking-tight text-white leading-tight mb-6 md:mb-10 px-2 relative">
                 <div className="absolute top-1/2 left-0 -translate-y-1/2 w-[200px] md:w-[400px] h-full opacity-[0.04] pointer-events-none -ml-12 md:-ml-24">
                   <img 
-                    src="/logo.png" 
+                    src={logoImg || "/logo.png"} 
                     alt="" 
                     className="w-full h-full object-contain"
                     referrerPolicy="no-referrer"
+                    onError={(e) => { e.currentTarget.src = '/logo.png'; }}
                   />
                 </div>
                 <span className="relative z-10">{t('home_v2.improvement.title')}</span>

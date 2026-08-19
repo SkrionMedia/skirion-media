@@ -29,6 +29,7 @@ import {
 } from 'lucide-react';
 import BackgroundGrid from '../components/BackgroundGrid';
 import CTA from '../components/CTA';
+import logoImg from '../src/assets/images/logo.png';
 
 const Agents: React.FC = () => {
   const { t } = useTranslation();
@@ -149,10 +150,11 @@ const Agents: React.FC = () => {
           >
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-[140%] opacity-[0.06] pointer-events-none">
               <img 
-                src="/logo.png" 
+                src={logoImg || "/logo.png"} 
                 alt="" 
                 className="w-full h-full object-contain"
                 referrerPolicy="no-referrer"
+                onError={(e) => { e.currentTarget.src = '/logo.png'; }}
               />
             </div>
             <span className="relative z-10">{t('agents_page.hero.title')}</span>
@@ -182,10 +184,11 @@ const Agents: React.FC = () => {
           <motion.div variants={itemVariants} className="text-center lg:text-left w-full relative">
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-full opacity-[0.04] pointer-events-none">
               <img 
-                src="/logo.png" 
+                src={logoImg || "/logo.png"} 
                 alt="" 
                 className="w-full h-full object-contain" 
                 referrerPolicy="no-referrer"
+                onError={(e) => { e.currentTarget.src = '/logo.png'; }}
               />
             </div>
             <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black mb-4 md:mb-6 uppercase tracking-tight leading-tight text-white relative z-10 break-words w-full">
@@ -241,10 +244,11 @@ const Agents: React.FC = () => {
           >
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-[150%] opacity-[0.04] pointer-events-none">
               <img 
-                src="/logo.png" 
+                src={logoImg || "/logo.png"} 
                 alt="" 
                 className="w-full h-full object-contain" 
                 referrerPolicy="no-referrer"
+                onError={(e) => { e.currentTarget.src = '/logo.png'; }}
               />
             </div>
             <span className="relative z-10">{t('agents_page.types.title')}</span>
