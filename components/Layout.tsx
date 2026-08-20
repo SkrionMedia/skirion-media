@@ -63,7 +63,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       {/* Persistant Global Watermark */}
       <div className="fixed inset-0 flex items-center justify-center opacity-[0.12] pointer-events-none z-0">
         <img 
-          src="/logo.png" 
+          src="/logok.png" 
           alt="" 
           className="w-[80%] max-w-5xl h-auto object-contain drop-shadow-[0_0_80px_rgba(0,82,255,0.4)]"
           referrerPolicy="no-referrer"
