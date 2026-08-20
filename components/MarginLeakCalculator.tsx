@@ -50,7 +50,7 @@ const MarginLeakCalculator: React.FC = () => {
               className="space-y-8 md:space-y-12"
             >
               <div className="space-y-4">
-                <div className="flex items-center gap-3 text-brand-primary">
+                <div className="flex items-center justify-center md:justify-start gap-3 text-brand-primary">
                   <Calculator size={24} />
                   <span className="text-[12px] uppercase tracking-[0.4em] font-black">{t('calculator.title')}</span>
                 </div>
@@ -58,7 +58,7 @@ const MarginLeakCalculator: React.FC = () => {
               
               <div className="space-y-6 md:space-y-10">
                 <div className="space-y-4">
-                  <label className="text-xs uppercase tracking-[0.3em] text-gray-500 font-black flex items-center gap-2 ml-4">
+                  <label className="text-xs uppercase tracking-[0.3em] text-gray-500 font-black flex items-center justify-center md:justify-start gap-2 ml-0 md:ml-4">
                     <Building2 size={14} /> {t('calculator.company_name')}
                   </label>
                   <input 
@@ -66,12 +66,12 @@ const MarginLeakCalculator: React.FC = () => {
                     value={companyName}
                     onChange={(e) => setCompanyName(e.target.value)}
                     placeholder={t('calculator.company_placeholder', 'SKIRION S.L.')}
-                    className="w-full bg-white/5 border border-white/10 rounded-2xl px-8 py-6 text-xl font-black focus:outline-none focus:border-brand-primary transition-all text-white tracking-tight"
+                    className="w-full bg-white/5 border border-white/10 rounded-2xl px-8 py-6 text-xl font-black focus:outline-none focus:border-brand-primary transition-all text-white tracking-tight text-center md:text-left"
                   />
                 </div>
 
                 <div className="space-y-4">
-                  <label className="text-xs uppercase tracking-[0.3em] text-gray-500 font-black flex items-center gap-2 ml-4">
+                  <label className="text-xs uppercase tracking-[0.3em] text-gray-500 font-black flex items-center justify-center md:justify-start gap-2 ml-0 md:ml-4">
                     <Euro size={14} /> {t('calculator.monthly_revenue')}
                   </label>
                   <div className="space-y-6">
@@ -84,14 +84,14 @@ const MarginLeakCalculator: React.FC = () => {
                       onChange={(e) => setRevenue(Number(e.target.value))}
                       className="w-full h-1.5 bg-white/10 rounded-lg appearance-none cursor-pointer accent-brand-primary"
                     />
-                    <div className="text-3xl sm:text-4xl md:text-5xl font-black text-white tracking-tighter italic">
+                    <div className="text-3xl sm:text-4xl md:text-5xl font-black text-white tracking-tighter italic text-center md:text-left">
                       {revenue.toLocaleString()}€ <span className="text-sm text-gray-500 font-black uppercase tracking-widest ml-2">{t('calculator.per_month')}</span>
                     </div>
                   </div>
                 </div>
 
                 <div className="space-y-4">
-                  <label className="text-xs uppercase tracking-[0.3em] text-gray-500 font-black flex items-center gap-2 ml-4">
+                  <label className="text-xs uppercase tracking-[0.3em] text-gray-500 font-black flex items-center justify-center md:justify-start gap-2 ml-0 md:ml-4">
                     <Clock size={14} /> {t('calculator.time_spent')}
                   </label>
                   <div className="space-y-6">
@@ -104,7 +104,7 @@ const MarginLeakCalculator: React.FC = () => {
                       onChange={(e) => setTimeSpent(Number(e.target.value))}
                       className="w-full h-1.5 bg-white/10 rounded-lg appearance-none cursor-pointer accent-brand-secondary"
                     />
-                    <div className="text-3xl sm:text-4xl md:text-5xl font-black text-white tracking-tighter italic">
+                    <div className="text-3xl sm:text-4xl md:text-5xl font-black text-white tracking-tighter italic text-center md:text-left">
                       {timeSpent} <span className="text-sm text-gray-500 font-black uppercase tracking-widest ml-2">{t('calculator.per_week')}</span>
                     </div>
                   </div>

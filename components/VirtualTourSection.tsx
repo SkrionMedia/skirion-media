@@ -40,6 +40,7 @@ const VirtualTourSection: React.FC = () => {
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.8 }}
+            className="text-center lg:text-left"
           >
             <h2 className="text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-black uppercase tracking-tighter text-white leading-tight mb-8 break-normal hyphens-none">
               {t('home_v3.virtual_tour.title_l1')} <span className="text-brand-primary">{t('home_v3.virtual_tour.title_l2')}</span> {t('home_v3.virtual_tour.title_l3')}
@@ -54,9 +55,9 @@ const VirtualTourSection: React.FC = () => {
                 {t('home_v3.virtual_tour.text')}
               </p>
               
-              <div className="grid sm:grid-cols-2 gap-4 md:gap-6">
+              <div className="grid sm:grid-cols-2 gap-4 md:gap-6 justify-center">
                 {benefitsList.map((benefit: any, idx: number) => (
-                  <div key={idx} className="flex items-center gap-3">
+                  <div key={idx} className="flex items-center justify-center sm:justify-start gap-3">
                     <div className="shrink-0"><CheckCircle2 className="w-5 h-5 text-brand-primary" /></div>
                     <span className="text-[10px] md:text-xs font-black uppercase tracking-wider text-white/80">{typeof benefit === 'string' ? benefit : benefit?.text}</span>
                   </div>
@@ -64,7 +65,7 @@ const VirtualTourSection: React.FC = () => {
               </div>
             </div>
 
-            <div className="flex flex-wrap gap-3 md:gap-4 mb-12">
+            <div className="flex flex-wrap justify-center lg:justify-start gap-3 md:gap-4 mb-12">
               {highlightsList.map((h: any, i: number) => (
                 <div key={i} className="flex items-center gap-2 px-4 py-2 md:px-5 md:py-3 rounded-xl bg-white/5 border border-white/10 text-[9px] md:text-[10px] font-black uppercase tracking-wider text-gray-400">
                   <span className="text-brand-primary">
@@ -75,7 +76,7 @@ const VirtualTourSection: React.FC = () => {
               ))}
             </div>
 
-            <div className="flex flex-col sm:flex-row gap-6 mb-20">
+            <div className="flex flex-col sm:flex-row justify-center lg:justify-start gap-6 mb-20">
               <button 
                 type="button"
                 onClick={() => {
@@ -95,7 +96,7 @@ const VirtualTourSection: React.FC = () => {
               initial={{ opacity: 0, scale: 0.95 }}
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}
-              className="space-y-6"
+              className="space-y-6 text-center lg:text-left"
             >
               <div className="space-y-4">
                 <h3 className="text-3xl md:text-5xl font-black uppercase tracking-tighter text-white">
@@ -115,7 +116,7 @@ const VirtualTourSection: React.FC = () => {
                       loading="lazy"
                     ></iframe>
                   </div>
-                  <div className="px-4">
+                  <div className="px-4 text-center lg:text-left">
                     <div className="text-sm font-black uppercase tracking-[0.2em] text-brand-primary mb-1">Matterport</div>
                     <div className="text-base text-gray-500 font-medium uppercase tracking-widest">{t('home_v3.virtual_tour.matterport_desc')}</div>
                   </div>
@@ -157,7 +158,7 @@ const VirtualTourSection: React.FC = () => {
                       </a>
                     </div>
                   </div>
-                  <div className="px-4">
+                  <div className="px-4 text-center lg:text-left">
                     <div className="text-sm font-black uppercase tracking-[0.2em] text-brand-primary mb-1">Polycam</div>
                     <div className="text-base text-gray-500 font-medium uppercase tracking-widest">{t('home_v3.virtual_tour.polycam_desc')}</div>
                   </div>

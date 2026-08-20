@@ -95,9 +95,9 @@ const BookVisitModal: React.FC<BookVisitModalProps> = ({ isOpen, onClose }) => {
                     </p>
                   </div>
 
-                  <form onSubmit={handleSubmit} className="space-y-4 sm:space-y-5 text-left pt-1">
+                  <form onSubmit={handleSubmit} className="space-y-4 sm:space-y-5 text-center sm:text-left pt-1">
                     <div className="space-y-2">
-                      <label className="text-[11px] sm:text-[12px] uppercase tracking-[0.3em] text-gray-400 font-black ml-2">
+                      <label className="text-[11px] sm:text-[12px] uppercase tracking-[0.3em] text-gray-400 font-black ml-0 sm:ml-2 block">
                         {t('contact.form.name')}
                       </label>
                       <div className="relative">
@@ -108,14 +108,14 @@ const BookVisitModal: React.FC<BookVisitModalProps> = ({ isOpen, onClose }) => {
                           name="name" 
                           value={formData.name} 
                           onChange={handleChange} 
-                          className="w-full bg-white/5 border border-white/10 rounded-xl sm:rounded-2xl pl-12 sm:pl-14 pr-4 py-3.5 sm:py-4 text-sm sm:text-base focus:outline-none focus:border-brand-primary transition-colors text-white" 
+                          className="w-full bg-white/5 border border-white/10 rounded-xl sm:rounded-2xl pl-12 sm:pl-14 pr-4 py-3.5 sm:py-4 text-sm sm:text-base focus:outline-none focus:border-brand-primary transition-colors text-white text-center sm:text-left" 
                           placeholder={t('contact.form.name_placeholder')} 
                         />
                       </div>
                     </div>
 
                     <div className="space-y-2">
-                      <label className="text-[11px] sm:text-[12px] uppercase tracking-[0.3em] text-gray-400 font-black ml-2">
+                      <label className="text-[11px] sm:text-[12px] uppercase tracking-[0.3em] text-gray-400 font-black ml-0 sm:ml-2 block">
                         {t('contact.form.email')}
                       </label>
                       <div className="relative">
@@ -126,14 +126,14 @@ const BookVisitModal: React.FC<BookVisitModalProps> = ({ isOpen, onClose }) => {
                           name="email" 
                           value={formData.email} 
                           onChange={handleChange} 
-                          className="w-full bg-white/5 border border-white/10 rounded-xl sm:rounded-2xl pl-12 sm:pl-14 pr-4 py-3.5 sm:py-4 text-sm sm:text-base focus:outline-none focus:border-brand-primary transition-colors text-white" 
+                          className="w-full bg-white/5 border border-white/10 rounded-xl sm:rounded-2xl pl-12 sm:pl-14 pr-4 py-3.5 sm:py-4 text-sm sm:text-base focus:outline-none focus:border-brand-primary transition-colors text-white text-center sm:text-left" 
                           placeholder={t('contact.form.email_placeholder')} 
                         />
                       </div>
                     </div>
 
                     <div className="space-y-2">
-                      <label className="text-[11px] sm:text-[12px] uppercase tracking-[0.3em] text-gray-400 font-black ml-2">
+                      <label className="text-[11px] sm:text-[12px] uppercase tracking-[0.3em] text-gray-400 font-black ml-0 sm:ml-2 block">
                         {t('contact.form.phone_label')}
                       </label>
                       <div className="relative">
@@ -144,7 +144,7 @@ const BookVisitModal: React.FC<BookVisitModalProps> = ({ isOpen, onClose }) => {
                           name="phone" 
                           value={formData.phone} 
                           onChange={handleChange} 
-                          className="w-full bg-white/5 border border-white/10 rounded-xl sm:rounded-2xl pl-12 sm:pl-14 pr-4 py-3.5 sm:py-4 text-sm sm:text-base focus:outline-none focus:border-brand-primary transition-colors text-white" 
+                          className="w-full bg-white/5 border border-white/10 rounded-xl sm:rounded-2xl pl-12 sm:pl-14 pr-4 py-3.5 sm:py-4 text-sm sm:text-base focus:outline-none focus:border-brand-primary transition-colors text-white text-center sm:text-left" 
                           placeholder={t('contact.form.phone_placeholder')} 
                         />
                       </div>

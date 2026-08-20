@@ -137,9 +137,9 @@ const CVModal: React.FC<CVModalProps> = ({ isOpen, onClose }) => {
               </button>
             </div>
           ) : (
-            <div className="space-y-6">
+            <div className="space-y-6 text-center sm:text-left">
               <div className="space-y-2">
-                <div className="flex items-center gap-2 text-brand-primary text-xs font-mono font-bold uppercase tracking-widest">
+                <div className="flex items-center justify-center sm:justify-start gap-2 text-brand-primary text-xs font-mono font-bold uppercase tracking-widest">
                   <Briefcase size={16} />
                   <span>{t('footer.careers.badge', 'Únete a nuestro equipo')}</span>
                 </div>

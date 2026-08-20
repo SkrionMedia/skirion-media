@@ -28,7 +28,7 @@ const LoadingScreen: React.FC = () => {
           videoRef.current.playsInline = true;
           await videoRef.current.play();
         } catch (err) {
-          console.warn("Autoplay was prevented by browser, enabling tap to start:", err);
+          // If autoplay is prevented by browser policies, show start button or finish
           if (mounted) setNeedsInteraction(true);
         }
       }
@@ -39,7 +39,7 @@ const LoadingScreen: React.FC = () => {
     // Safety timeout in case playback hangs
     const timer = setTimeout(() => {
       if (mounted) handleFinish();
-    }, 6000);
+    }, 4000);
 
     return () => {
       mounted = false;
@@ -54,9 +54,14 @@ const LoadingScreen: React.FC = () => {
         videoRef.current.muted = true;
         await videoRef.current.play();
       } catch (error) {
-        console.warn("Play on canplay:", error);
+        // Autoplay policy or playback issue handled gracefully
       }
     }
+  };
+
+  const handleVideoError = () => {
+    // If the video cannot be loaded or played, finish loading screen seamlessly
+    handleFinish();
   };
   
   return (
@@ -65,7 +70,7 @@ const LoadingScreen: React.FC = () => {
         <motion.div
           initial={{ opacity: 1 }}
           exit={{ opacity: 0 }}
-          transition={{ duration: 0.7, ease: "easeInOut" }}
+          transition={{ duration: 0.5, ease: "easeInOut" }}
           className="fixed inset-0 z-[99999] bg-black flex items-center justify-center overflow-hidden select-none p-0 sm:p-4 md:p-8"
         >
           {/* Framed Video Container for PC & Mobile */}
@@ -78,13 +83,10 @@ const LoadingScreen: React.FC = () => {
               preload="auto"
               onCanPlay={handleCanPlay}
               onEnded={handleFinish}
-              onError={() => {
-                console.error("Intro video failed to load");
-                handleFinish();
-              }}
+              onError={handleVideoError}
               className="w-full h-full object-contain relative z-10 drop-shadow-[0_0_50px_rgba(0,82,255,0.3)]"
             >
-              <source src="/hero-video.mp4" type="video/mp4" />
+              <source src="/hero-video.mp4" type="video/mp4" onError={handleVideoError} />
               Your browser does not support the video tag.
             </video>
           </div>

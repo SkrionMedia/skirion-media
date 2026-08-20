@@ -6,7 +6,6 @@ import { clsx, type ClassValue } from 'clsx';
 import { twMerge } from 'tailwind-merge';
 import { Globe, Cpu, Menu, X, ChevronDown, ChevronRight, ArrowLeft, Home as HomeIcon, Briefcase } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
-import logoImg from '../src/assets/images/logo.png';
 
 function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
@@ -199,11 +198,10 @@ const Navbar: React.FC = () => {
           <Link to="/" className="flex items-center space-x-3 md:space-x-5 group shrink-0">
             <div className="w-14 h-14 md:w-24 md:h-24 bg-white/5 backdrop-blur-md rounded-2xl md:rounded-[2rem] flex items-center justify-center overflow-hidden border border-white/10 shadow-[0_0_30px_rgba(0,82,255,0.25)] group-hover:scale-105 transition-transform duration-500">
               <img 
-                src={logoImg || "/logo.png"} 
+                src="/logo.png" 
                 alt="SKIRION Logo" 
                 className="w-full h-full object-contain p-1"
                 referrerPolicy="no-referrer"
-                onError={(e) => { e.currentTarget.src = '/logo.png'; }}
               />
             </div>
             <span className="text-xl md:text-3xl font-black tracking-tighter uppercase text-white hidden sm:block">

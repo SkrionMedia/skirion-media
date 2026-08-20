@@ -31,28 +31,28 @@ const Testimonials: React.FC = () => {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: index * 0.1 }}
-              className="glass-card p-8 rounded-[2rem] flex flex-col h-full group"
+              className="glass-card p-8 rounded-[2rem] flex flex-col h-full group text-center md:text-left items-center md:items-start"
             >
-              <div className="mb-8">
-                <div className="flex items-center space-x-2 text-red-400/80 mb-4 text-[12px] uppercase tracking-widest font-bold">
+              <div className="mb-8 w-full flex flex-col items-center md:items-start">
+                <div className="flex items-center justify-center md:justify-start space-x-2 text-red-400/80 mb-4 text-[12px] uppercase tracking-widest font-bold">
                   <AlertCircle size={14} />
                   <span>{t('testimonials.problem_label')}</span>
                 </div>
-                <p className="text-gray-400 italic text-lg leading-relaxed">
+                <p className="text-gray-400 italic text-base md:text-lg leading-relaxed">
                   "{item.problem}"
                 </p>
               </div>
 
-              <div className="mt-auto pt-8 border-t border-white/5">
-                <div className="flex items-center space-x-2 text-blue-400 mb-4 text-[12px] uppercase tracking-widest font-bold">
+              <div className="mt-auto pt-8 border-t border-white/5 w-full flex flex-col items-center md:items-start">
+                <div className="flex items-center justify-center md:justify-start space-x-2 text-blue-400 mb-4 text-[12px] uppercase tracking-widest font-bold">
                   <CheckCircle2 size={14} />
                   <span>{t('testimonials.solution_label')}</span>
                 </div>
-                <p className="text-white font-medium text-lg leading-relaxed mb-8">
+                <p className="text-white font-medium text-base md:text-lg leading-relaxed mb-8">
                   {item.solution}
                 </p>
                 
-                <div className="flex flex-col">
+                <div className="flex flex-col items-center md:items-start">
                   <span className="text-white font-black uppercase tracking-tighter">{item.author}</span>
                   <span className="text-blue-400/60 text-[12px] uppercase tracking-widest font-bold">{item.company}</span>
                 </div>

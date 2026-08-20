@@ -15,7 +15,6 @@ import {
   ShieldCheck,
   Package
 } from 'lucide-react';
-import logoImg from '../src/assets/images/logo.png';
 
 const Plans: React.FC = () => {
   const { t } = useTranslation();
@@ -72,11 +71,10 @@ const Plans: React.FC = () => {
           >
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-[140%] opacity-[0.06] pointer-events-none">
               <img 
-                src={logoImg || "/logo.png"} 
+                src="/logo.png" 
                 alt="" 
                 className="w-full h-full object-contain"
                 referrerPolicy="no-referrer"
-                onError={(e) => { e.currentTarget.src = '/logo.png'; }}
               />
             </div>
             <span className="relative z-10">{t('plans_page.title')}</span>
@@ -102,11 +100,10 @@ const Plans: React.FC = () => {
         <div className="mb-12 md:mb-20 relative z-10 text-center relative inline-block w-full">
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-[150%] opacity-[0.04] pointer-events-none">
             <img 
-              src={logoImg || "/logo.png"} 
+              src="/logo.png" 
               alt="" 
               className="w-full h-full object-contain"
               referrerPolicy="no-referrer"
-              onError={(e) => { e.currentTarget.src = '/logo.png'; }}
             />
           </div>
           <h2 className="text-4xl md:text-8xl lg:text-9xl font-black uppercase tracking-tighter text-white mb-4 md:mb-8 silver-text relative z-10 break-words">

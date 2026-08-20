@@ -6,7 +6,6 @@ import { useTranslation } from 'react-i18next';
 import SEO from '../components/SEO';
 import { FileText, Video, CheckSquare, Download, ArrowRight, Play, FileDown, Activity } from 'lucide-react';
 import { submitToFormspree } from '../src/services/formService';
-import logoImg from '../src/assets/images/logo.png';
 
 const Resources: React.FC = () => {
   const { t } = useTranslation();
@@ -70,11 +69,10 @@ const Resources: React.FC = () => {
             >
               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-[140%] opacity-[0.06] pointer-events-none">
                 <img 
-                  src={logoImg || "/logo.png"} 
+                  src="/logo.png" 
                   alt="" 
                   className="w-full h-full object-contain"
                   referrerPolicy="no-referrer"
-                  onError={(e) => { e.currentTarget.src = '/logo.png'; }}
                 />
               </div>
               <span className="relative z-10">{t('resources.title')}</span>
@@ -134,11 +132,10 @@ const Resources: React.FC = () => {
                 <h2 className="text-2xl sm:text-3xl md:text-4xl font-black text-white uppercase tracking-tight leading-tight mb-3 relative inline-block max-w-4xl mx-auto break-words w-full">
                   <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-[150%] opacity-[0.04] pointer-events-none">
                     <img 
-                      src={logoImg || "/logo.png"} 
+                      src="/logo.png" 
                       alt="" 
                       className="w-full h-full object-contain"
                       referrerPolicy="no-referrer"
-                      onError={(e) => { e.currentTarget.src = '/logo.png'; }}
                     />
                   </div>
                   <span className="relative z-10">{t('resources.newsletter.title')}</span>

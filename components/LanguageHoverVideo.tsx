@@ -126,7 +126,6 @@ const LanguageHoverVideo: React.FC = () => {
             loop
             muted={isMuted}
             onError={() => {
-              console.error("skirion cat vdeoweb.mp4 failed to load");
               setHasError(true);
             }}
           >

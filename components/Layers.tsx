@@ -20,8 +20,8 @@ const Layers: React.FC = () => {
   return (
     <section id="layers" className="py-24 px-6 md:px-12 relative overflow-hidden bg-transparent">
       <div className="max-w-7xl mx-auto">
-        <div className="mb-32 text-left">
-          <h3 className="text-5xl md:text-8xl font-black tracking-tighter uppercase leading-[1.3] py-4 text-white">{t('layers.title')}</h3>
+        <div className="mb-16 md:mb-32 text-center md:text-left">
+          <h3 className="text-4xl sm:text-5xl md:text-8xl font-black tracking-tighter uppercase leading-[1.3] py-4 text-white">{t('layers.title')}</h3>
         </div>
 
         <div className="space-y-12">
@@ -42,15 +42,15 @@ const Layers: React.FC = () => {
                   referrerPolicy="no-referrer"
                 />
               </div>
-              <div className="md:w-1/3 bg-white/5 p-16 flex flex-col justify-center items-start border-r border-white/5 relative z-10">
+              <div className="md:w-1/3 bg-white/5 p-8 md:p-16 flex flex-col justify-center items-center md:items-start text-center md:text-left border-b md:border-b-0 md:border-r border-white/5 relative z-10">
                 <span className="text-brand-primary font-black tracking-[0.4em] text-[12px] uppercase mb-4">{layer.label}</span>
-                <h4 className="text-3xl font-black text-white uppercase tracking-tighter leading-[1.3] py-1">{layer.title}</h4>
+                <h4 className="text-2xl sm:text-3xl font-black text-white uppercase tracking-tighter leading-[1.3] py-1">{layer.title}</h4>
               </div>
-              <div className="md:w-2/3 p-16 relative z-10 flex flex-col justify-center">
-                <p className="text-2xl text-gray-500 font-light leading-relaxed mb-10 max-w-2xl tracking-tight">
+              <div className="md:w-2/3 p-8 md:p-16 relative z-10 flex flex-col justify-center items-center md:items-start text-center md:text-left">
+                <p className="text-xl sm:text-2xl text-gray-500 font-light leading-relaxed mb-10 max-w-2xl tracking-tight">
                   {layer.desc}
                 </p>
-                <div className="flex flex-wrap gap-x-8 gap-y-4">
+                <div className="flex flex-wrap justify-center md:justify-start gap-x-8 gap-y-4">
                   {layer.features.map((f, i) => (
                     <span key={i} className="text-[11px] uppercase tracking-[0.4em] text-gray-400 font-black flex items-center gap-2">
                        <span className="w-1.5 h-1.5 rounded-full bg-brand-primary/40"></span>

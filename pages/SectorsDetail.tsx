@@ -718,11 +718,11 @@ const SectorsDetail: React.FC = () => {
             initial={{ opacity: 0, x: -30 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.8, delay: 0.1 }}
-            className="rounded-[2.5rem] p-8 md:p-12 border border-red-500/10 bg-gradient-to-b from-red-500/[0.02] to-transparent relative overflow-hidden flex flex-col justify-between"
+            className="rounded-[2.5rem] p-8 md:p-12 border border-red-500/10 bg-gradient-to-b from-red-500/[0.02] to-transparent relative overflow-hidden flex flex-col justify-between text-center md:text-left"
           >
             <div className="absolute -top-12 -left-12 w-36 h-36 bg-red-500/5 blur-[50px] rounded-full" />
             <div>
-              <div className="flex items-center gap-3 text-red-500 text-xs font-black uppercase tracking-[0.2em] mb-6">
+              <div className="flex items-center justify-center md:justify-start gap-3 text-red-500 text-xs font-black uppercase tracking-[0.2em] mb-6">
                 <ShieldAlert className="w-5 h-5" />
                 <span>{t('verticals.pain_title', 'El dolor real del sector')}</span>
               </div>
@@ -731,9 +731,9 @@ const SectorsDetail: React.FC = () => {
               </p>
             </div>
 
-            <div className="pt-6 border-t border-white/5 flex gap-4 items-center">
-              <div className="w-10 h-10 rounded-full bg-red-500/10 border border-red-500/20 flex items-center justify-center text-red-400 font-mono font-bold text-sm">!</div>
-              <span className="text-[11px] md:text-xs uppercase tracking-widest text-red-400/80 font-black">
+            <div className="pt-6 border-t border-white/5 flex gap-4 items-center justify-center md:justify-start">
+              <div className="w-10 h-10 rounded-full bg-red-500/10 border border-red-500/20 flex items-center justify-center text-red-400 font-mono font-bold text-sm shrink-0">!</div>
+              <span className="text-[11px] md:text-xs uppercase tracking-widest text-red-400/80 font-black text-left">
                 {sectorKey === 'hotels' && "OTAs capture up to 30% of your earnings."}
                 {sectorKey === 'real_estate' && "60% of agent time is wasted on window shoppers."}
                 {sectorKey === 'clinics' && "Clinics lose 18% of margin due to empty appointment slots."}
@@ -748,11 +748,11 @@ const SectorsDetail: React.FC = () => {
             initial={{ opacity: 0, x: 30 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
-            className="rounded-[2.5rem] p-8 md:p-12 border border-brand-primary/10 bg-gradient-to-b from-brand-primary/[0.02] to-transparent relative overflow-hidden flex flex-col justify-between"
+            className="rounded-[2.5rem] p-8 md:p-12 border border-brand-primary/10 bg-gradient-to-b from-brand-primary/[0.02] to-transparent relative overflow-hidden flex flex-col justify-between text-center md:text-left"
           >
             <div className="absolute -top-12 -right-12 w-36 h-36 bg-brand-primary/5 blur-[50px] rounded-full" />
             <div>
-              <div className="flex items-center gap-3 text-brand-primary text-xs font-black uppercase tracking-[0.2em] mb-6">
+              <div className="flex items-center justify-center md:justify-start gap-3 text-brand-primary text-xs font-black uppercase tracking-[0.2em] mb-6">
                 <CheckCircle2 className="w-5 h-5 text-brand-primary" />
                 <span>{t('verticals.solution_title', 'La Solució SKIRION')}</span>
               </div>
@@ -763,19 +763,19 @@ const SectorsDetail: React.FC = () => {
               
               <ul className="space-y-3 mb-8">
                 {showcaseItems.map((item, index) => (
-                  <li key={index} className="flex items-center gap-3 text-white text-sm font-bold">
-                    <span className="w-1.5 h-1.5 rounded-full bg-brand-primary" />
+                  <li key={index} className="flex items-center justify-center md:justify-start gap-3 text-white text-sm font-bold">
+                    <span className="w-1.5 h-1.5 rounded-full bg-brand-primary shrink-0" />
                     <span>{item}</span>
                   </li>
                 ))}
               </ul>
             </div>
 
-            <div className="pt-6 border-t border-white/5 flex gap-4 items-center">
-              <div className="w-10 h-10 rounded-full bg-brand-primary/10 border border-brand-primary/20 flex items-center justify-center text-brand-primary">
+            <div className="pt-6 border-t border-white/5 flex gap-4 items-center justify-center md:justify-start">
+              <div className="w-10 h-10 rounded-full bg-brand-primary/10 border border-brand-primary/20 flex items-center justify-center text-brand-primary shrink-0">
                 <Layers className="w-5 h-5" />
               </div>
-              <span className="text-[11px] md:text-xs uppercase tracking-widest text-brand-primary font-black">
+              <span className="text-[11px] md:text-xs uppercase tracking-widest text-brand-primary font-black text-left">
                 Immersive 3D Space Twin + Conversational Autonomous Flow
               </span>
             </div>
@@ -1325,7 +1325,7 @@ const SectorsDetail: React.FC = () => {
             </h2>
           </div>
 
-          <div className="grid grid-cols-2 gap-4 md:gap-6 max-w-4xl mx-auto">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 md:gap-6 max-w-4xl mx-auto">
             {agentsList.map((agent, index) => (
               <motion.div
                 key={index}
@@ -1333,11 +1333,11 @@ const SectorsDetail: React.FC = () => {
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
                 transition={{ delay: index * 0.1 }}
-                className="rounded-[2.5rem] p-8 border border-white/5 bg-black/40 relative overflow-hidden flex flex-col justify-between"
+                className="rounded-[2.5rem] p-8 border border-white/5 bg-black/40 relative overflow-hidden flex flex-col justify-between text-center sm:text-left items-center sm:items-start"
               >
                 <div>
-                  <h3 className="text-lg md:text-xl font-black uppercase text-white tracking-tight mb-4 flex items-center gap-2">
-                    <span className="w-2.5 h-2.5 rounded-full bg-brand-primary block" />
+                  <h3 className="text-lg md:text-xl font-black uppercase text-white tracking-tight mb-4 flex items-center justify-center sm:justify-start gap-2">
+                    <span className="w-2.5 h-2.5 rounded-full bg-brand-primary block shrink-0" />
                     {agent.name}
                   </h3>
                   <p className="text-sm text-gray-400 font-light leading-relaxed mb-6">
@@ -1371,13 +1371,13 @@ const SectorsDetail: React.FC = () => {
                 initial={{ opacity: 0, y: 15 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
-                className="p-6 md:p-8 rounded-[2rem] border border-white/5 bg-white/[0.01] hover:border-brand-primary/20 transition-all duration-300"
+                className="p-6 md:p-8 rounded-[2rem] border border-white/5 bg-white/[0.01] hover:border-brand-primary/20 transition-all duration-300 text-center sm:text-left"
               >
-                <h3 className="text-sm md:text-base font-black uppercase text-white tracking-tight mb-3 flex items-start gap-3">
+                <h3 className="text-sm md:text-base font-black uppercase text-white tracking-tight mb-3 flex items-center sm:items-start justify-center sm:justify-start gap-3">
                   <HelpCircle className="w-5 h-5 text-brand-primary shrink-0 mt-0.5" />
                   <span>{faq.question}</span>
                 </h3>
-                <p className="text-xs md:text-sm text-gray-400 font-light leading-relaxed pl-8">
+                <p className="text-xs md:text-sm text-gray-400 font-light leading-relaxed pl-0 sm:pl-8">
                   {faq.answer}
                 </p>
               </motion.div>

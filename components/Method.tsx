@@ -26,11 +26,11 @@ const Method: React.FC = () => {
            style={{ backgroundImage: 'radial-gradient(#fff 1px, transparent 1px)', backgroundSize: '80px 80px' }}></div>
       
       <div className="max-w-7xl mx-auto relative z-10">
-        <div className="flex flex-col md:flex-row md:items-end justify-between mb-16 md:mb-32 space-y-8">
-          <div className="max-w-xl">
+        <div className="flex flex-col md:flex-row md:items-end justify-between mb-16 md:mb-32 space-y-8 text-center md:text-left">
+          <div className="max-w-xl mx-auto md:mx-0">
             <h3 className="text-3xl sm:text-4xl md:text-6xl lg:text-7xl xl:text-[80px] font-black tracking-tighter uppercase leading-[1.2] py-6 text-white break-words">{t('method.title')}</h3>
           </div>
-          <p className="text-xl sm:text-2xl text-gray-500 max-w-sm font-light tracking-tight leading-tight">
+          <p className="text-xl sm:text-2xl text-gray-500 max-w-sm mx-auto md:mx-0 font-light tracking-tight leading-tight">
             {t('method.subtitle')}
           </p>
         </div>
@@ -43,7 +43,7 @@ const Method: React.FC = () => {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: index * 0.1 }}
-              className="glass-card p-12 group hover:border-brand-primary/30 transition-all duration-700 relative overflow-hidden rounded-[3rem] border-white/5"
+              className="glass-card p-8 md:p-12 group hover:border-brand-primary/30 transition-all duration-700 relative overflow-hidden rounded-[3rem] border-white/5 text-center md:text-left"
             >
               <div className="absolute -right-8 -top-8 opacity-[0.03] group-hover:opacity-[0.08] transition-opacity duration-700">
                 {React.cloneElement(step.icon as React.ReactElement, { size: 160 })}
