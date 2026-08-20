@@ -198,7 +198,7 @@ const Navbar: React.FC = () => {
           <Link to="/" className="flex items-center space-x-3 md:space-x-5 group shrink-0">
             <div className="w-14 h-14 md:w-24 md:h-24 bg-white/5 backdrop-blur-md rounded-2xl md:rounded-[2rem] flex items-center justify-center overflow-hidden border border-white/10 shadow-[0_0_30px_rgba(0,82,255,0.25)] group-hover:scale-105 transition-transform duration-500">
               <img 
-                src="/logo.png" 
+                src="/logok.png" 
                 alt="SKIRION Logo" 
                 className="w-full h-full object-contain p-1"
                 referrerPolicy="no-referrer"
