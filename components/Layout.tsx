@@ -96,7 +96,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
             <div className="flex items-center space-x-6">
               <div className="w-20 h-20 md:w-32 md:h-32 bg-white/5 rounded-2xl md:rounded-[2.5rem] flex items-center justify-center overflow-hidden border border-white/10 shadow-2xl">
                 <img 
-                  src="/logo.png" 
+                  src="/logok.png" 
                   alt="SKIRION Logo" 
                   className="w-full h-full object-contain p-1 md:p-2"
                   referrerPolicy="no-referrer"
